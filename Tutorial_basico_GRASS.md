@@ -56,6 +56,7 @@ Un mapa vectorial de GRASS está almacenado en varios archivos separados en un s
 ### Iniciar GRASS
 1. Abrir GRASS en windows  
 Clic en el botón de windows (inicio) y buscar grass, hacer click en *GRASS GIS 7.2.0* para abrir.  
+Buscar la base de datos de mapas (GIS_DB), seleccionar la LOCATION (CVM) y elegir el mapset que corresponda al usuario.
 
    ![Abrir GRASS](https://github.com/marcoajh/Tuto-GRASS/blob/master/abrir_grass.PNG "Abrir GRASS desde el menú inicio")
 
