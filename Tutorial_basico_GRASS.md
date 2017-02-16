@@ -86,12 +86,12 @@ Buscar la base de datos de mapas (GIS_DB), seleccionar la LOCATION (CVM) y elegi
  a. Cargar el mapa raster *Elevacion*, que se encuentra en PERMANENT  
     ```d.rast Elevacion@PERMANENT```   
 
-      ![d.rast](https://github.com/marcoajh/Tuto-GRASS/blob/master/d.rast.PNG "Uso del comando d.rast en la consola del administrador de capas")
+  ![d.rast](https://github.com/marcoajh/Tuto-GRASS/blob/master/d.rast.PNG "Uso del comando d.rast en la consola del administrador de capas")
 
  b. Cargar el mapa vectorial *Cuencas*, que se encuentra en PERMANENT  
      ```d.vect Cuencas@PERMANENT```   
 
-  ![d.rast](https://github.com/marcoajh/Tuto-GRASS/blob/master/d.vect.PNG "Uso del comando d.vect en la consola del administrador de capas")
+  ![d.vect](https://github.com/marcoajh/Tuto-GRASS/blob/master/d.vect.PNG "Uso del comando d.vect en la consola del administrador de capas")
 
 3. Copiar mapas  
  a. Copiar el raster *AGEB* que se encuentra en PERMANENT  
