@@ -86,7 +86,7 @@ Buscar la base de datos de mapas (GIS_DB), seleccionar la LOCATION (CVM) y elegi
  a. Cargar el mapa raster *Elevacion*, que se encuentra en PERMANENT  
     ```d.rast Elevacion@PERMANENT```   
 
-      ![d.rast](C:\GIS_DB\imagenes\d.rast.png "Uso del comando d.rast en la consola del administrador de capas")
+      ![d.rast](C:\GIS_DB\imagenes\d.rast.PNG "Uso del comando d.rast en la consola del administrador de capas")
 
  b. Cargar el mapa vectorial *Cuencas*, que se encuentra en PERMANENT  
      ```d.vect Cuencas@PERMANENT```   
