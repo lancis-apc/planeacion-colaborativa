@@ -26,7 +26,7 @@ El MAPSET "PERMANENT" generalmente contiene los mapas de base de sólo lectura c
 
 
 
- #### Estructura de archivos de GRASS   
+#### Estructura de archivos de GRASS  
 
    ![Estructura LOCATION GRAS](https://github.com/marcoajh/Tuto-GRASS/blob/master/estructura_loc.png "Estructura de archivos de una LOCATION en GRASS")
 
