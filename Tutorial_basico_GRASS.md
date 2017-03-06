@@ -121,7 +121,7 @@ Convertir la capa de *Cuencas* a raster
 ```v.to.rast input=Cuencas output=Cuencas use=attr attribute_column=cat label_column=LAYER```   
 
 Convertir la capa *Hundimiento* a raster   
-```v.to.rast input=Hundimiento@Marco output=Hundimiento use=attr attribute_column=HUNDIM_NUM label_column=HUNDIM_LEY```  
+```v.to.rast input=Hundimiento output=Hundimiento use=attr attribute_column=HUNDIM_NUM label_column=HUNDIM_LEY```  
 
 
 ### Transformar un mapa raster a vectorial
@@ -134,7 +134,7 @@ Exportar el raster *hundimiento*
 
 ### Exportar un mapa vectorial  
 Exportar el vectorial de *Cuencas*  
-```v.out.ogr input=Cuencas@Marco output=C:\GIS_DB\Cuencas format=ESRI_Shapefile```  
+```v.out.ogr input=Cuencas output=C:\GIS_DB\Cuencas format=ESRI_Shapefile```  
 
 ### Obtener estadísticas de una capa
 Reportar el área de cada cuenca  
@@ -161,6 +161,6 @@ El tipo de datos de la capa *Hundimiento* debe ser "entero"
 #### Reportar la percolacion promedio en cada cuenca  
 
 Calcular el promedio usando *r.statistics*   
-```r.statistics base=Cuencas@Marco cover=Percolacion@Marco method=average output=cuencas_perc```   
+```r.statistics base=Cuencas cover=Percolacion method=average output=cuencas_perc```   
 Obtener un archivo de valores separados por comas   
 ```r.stats -ln cuencas_perc separator=, > D:/Percolacion_promedio.csv```  
