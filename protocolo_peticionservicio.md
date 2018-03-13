@@ -29,3 +29,8 @@ No aplica.
 * La coordinación será la encargada de asignar las actividades y dar las indicaciones pertinentes al personal específico.
 
 * La coordinación será la única responsable del enlace entre el solicitante y el equipo de trabajo. Bajo ninguna excepción, ningún miembro del equipo de trabajo recibirá solicitudes ni indicaciones del solicitante.
+
+* * *
+
+# Referencias
+No aplica
