@@ -37,7 +37,7 @@ Esta es la página del **Área de Planeación Colaborativa** de LANCIS, aquí en
 * Protocolo de recursos financieros
 * Protocolo de Rmarkdown y HTML de gráficas y mapas
 
-### Manuales
+# Manuales
 * [Manual de procedimiento del servicio social](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/manual_servicio_social.md)
 * Manual de usuario de la plataforma versatile (pendiente)
 * Manual de usuario de sigplan (pendiente)
@@ -46,8 +46,7 @@ Esta es la página del **Área de Planeación Colaborativa** de LANCIS, aquí en
 * Manual para crear miniaturas a partir de slides
 * Manual para reescalar slides a resolución de anfiteatro
 
-### Repositorios Github (creados por APC)
-Incluir repositorio y producto (página web)
+# Repositorios Github (creados por APC)
 - [Scripts de estadística y modelación de sistemas socioecológicos en R](https://github.com/sostenibilidad-unam/Estadistica_Modelacion_Sistemas_Socioecologicos_R)
 - [Transformación de colonias a AGEBs](https://github.com/sostenibilidad-unam/colonias_to_agebs)
 - [Aplicar categorías Webber-Fechner a cualquier mapa](https://github.com/sostenibilidad-unam/wf_categories)
