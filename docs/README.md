@@ -15,8 +15,8 @@ Esta es la página del **Área de Planeación Colaborativa** de LANCIS, aquí en
 - [Reservación de salas Anfiteatro-LANCIS](pendiente por renovación de página)
 
 ### Páginas de uso cotidiano externas
-- Megadapt
-- Posgrado
+- [Megadapt](http://megadapt.weebly.com)
+- [Posgrado](http://sostenibilidad.posgrado.unam.mx/)
 - [Programa de Ordenamiento Ecológico Marino y Regional del Pacífico Norte](http://magrat.mine.nu:8080/Versatile/)
 - [Monitoreo del estado de las invasiones biológicas de plantas en México](http://www.unibio.unam.mx/invasoras/)
 - [Curso de ordenamiento ecológico](http://kinet.cuaed.unam.mx/educacion_continua/ordenamiento_ecologico/)
