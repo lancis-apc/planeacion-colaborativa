@@ -61,3 +61,7 @@ Esta es la página del **Área de Planeación Colaborativa** de LANCIS, aquí en
 - [Red de desalojo secas](http://magrat.mine.nu/~fidel/secas/#11/19.3951/-99.1324)
 - [Red de desalojo comparación sacmex-lancis](http://magrat.mine.nu/~fidel/comparacion/#12/19.3759/-99.1066)
 - [Plataforma de funciones de valor](http://gvf.magrat.mine.nu/elevacion/gaussian/)
+
+# Repositorio en R
+
+# Librerías (en construcción)
