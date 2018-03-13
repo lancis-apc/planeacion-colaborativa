@@ -163,12 +163,21 @@ DropBox (LNCS)\
 └── ORGANIZACION_APC\
 └── OTROS\
 └── PACIFICO\
-└── PAPPIT\
+└── PAPIIT\
 └── POSGRADO\
 └── PRESENTACIONES\
 └── PUBLICACIONES\
-
 ```
+
+Se tienen que seguir ciertas reglas para algunas subcarpetas:
+
+**PUBLICACIONES**
+  * En la carpeta `PUBLICACIONES/preparacion_articulo`, las subcarpetas que se incorporen tiene que nombrarse: `journal_año`, ejemplo: sesmo_2018
+
+**CARPETAS_TRABAJO**
+  * Las subcarpetas corresponden al nombre de los colaboradores y se deben de nombrar de la siguiente manera: `primera letra de su nombre y seguido de su primer apellido sin espacio`, ejemplo: `evilla`
+  * La organización de las carpetas de los colaboradores tienen que estar organizadas por proyecto y por producto
+  * Los archivos contenidos en esta carpeta son de caracter temporal, ya que una vez que se tiene el producto final, éste se debe de mover a la carpeta correspondiente de insumos en el directorio del proyecto
 
 ### Sincronización del DropBox
 
@@ -186,7 +195,6 @@ Para reorganizar la información que se encuentra en las carpetas del DropBox se
 5. Una vez que ya se tenga la carpeta organizada conforme al presente procedimiento, se tiene que eliminar la carpeta del DropBox para poder volver a subir la carpeta ya organizada. Es importante asegurarse que se tienen respaldadas las carpetas, tanto la organizada como la desorganizada, en un disco duro
 6. Sincronizar la carpeta arreglada
 7. Mandar aviso a los colaboradores de que ya se encuentra en el DropBox la carpeta organizada.
-
 
 ### Respaldo de información
 
@@ -234,7 +242,7 @@ DropBox (LNCS)\
 └── MEGADAPT\
 └── OIPA\
 └── PACIFICO\
-└── PAPPIT\
+└── PAPIIT\
 
 ```
 
@@ -255,21 +263,17 @@ Para nombrar las carpetas y los archivos se deberán aplicar las siguientes regl
  4. Fecha, para tener control de las versiones
 
 
-* El nombre de las carpetas tiene que ser corto y hay reglas para algunas:
+* El nombre de las carpetas tiene que ser corto:
 
-  * En la carpeta `PUBLICACIONES/preparacion_articulo`, las subcarpetas que se incorporen tiene que nombrarse: `journal_año`, ejemplo: sesmo_2018
-  * Las carpetas que se encuentra en el nivel inferior a la carpeta principal del proyecto, tienen que tener como prefijo el nombre corto del proyecto, ejemplo: `mega_insumos`, así como se muestra la siguiente sección
+* Las carpetas que se encuentra en el nivel inferior a la carpeta principal del proyecto, tienen que tener como prefijo el nombre corto del proyecto, ejemplo: `mega_insumos`, así como se muestra la siguiente sección
 
-## Estructura de las carpetas o directorios
+### Estructura de las carpetas o directorios
 
 Como ya se mencionó, es labor del responsable de los activos de información crear la carpeta y subcarpetas necesarias para el proyecto. Quien realice la coordinación tiene que decidir la estructura más conveniente de subcarpetas. Como mínimo debe de contener las siguientes subcarpetas:
 
  ```
  DropBox (LNCS)\
  └── MEGADAPT\
-     └── mega_carpetas_trabajo\
-         ├── colaborador_1\
-         ├── colaborador_2\
      └── mega_insumos\
          ├── mes_año\
      └── mega_procesamiento\
@@ -282,7 +286,6 @@ Como ya se mencionó, es labor del responsable de los activos de información cr
 
  En donde:
 
- * __proyecto_carpetas_trabajo:__ En ella los colaboradores podrán guardar temporalmente material de trabajo.
  * __proyecto_insumos:__ Insumos recibidos que servirán para el proyecto.
  * __proyecto_procesamiento:__ Se crearán aquí tantas carpetas como se considere necesario. Idealmente no deben ser demasiadas para permitir operar adecuadamente. Algunas posibles subcarpetas que vale la pena comentar son:
     - __banco_datos:__ Son bases de datos, generalmente `csv`. También pueden ser bancos de datos contenidos en una capa geográfica de tipo vectorial.
