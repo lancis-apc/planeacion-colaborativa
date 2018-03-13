@@ -72,3 +72,7 @@ Procedimiento:
 * Habilitar la opción de “Replace Text”
 * En la casilla de “This” se coloca un espacio, posteriormente en la casilla de “With” se coloca un guion bajo
 * Dar clic a “Rename Now” y automáticamente aparecerán los nombres con los guiones bajos
+
+# Referencias
+
+No aplica
