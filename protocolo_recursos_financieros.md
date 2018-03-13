@@ -74,4 +74,10 @@ Cuando se requiera el reembolso de gastos ejecutados por el personal del Institu
 
 * **Última semana de septiembre:** _Compras al extranjero_.
 
-* **Segunda semana de octubre:** El resto. 
+* **Segunda semana de octubre:** El resto.
+
+* * *
+
+# Referencias
+
+No aplica
