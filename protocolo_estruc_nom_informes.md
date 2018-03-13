@@ -37,7 +37,7 @@ No aplica.
 
 ## Responsable
 
-La o los responsables de elaborar los informes son la coordinadora del proyecto y/o el equipo de trabajo. El jefe de APC verificará y aprobará los informes antes de ser entregados.
+El o los responsables de elaborar los informes son el coordinador(a) del proyecto y/o el equipo de trabajo. El jefe de APC verificará y aprobará los informes antes de ser entregados.
 
 Los informes deben de contener lo siguiente:
 
