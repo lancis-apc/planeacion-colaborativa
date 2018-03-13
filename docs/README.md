@@ -39,7 +39,7 @@ Esta es la página del **Área de Planeación Colaborativa** de LANCIS, aquí en
 * Protocolo de Rmarkdown y HTML de gráficas y mapas
 
 ### Manuales
-* Manual de procedimiento del servicio social
+* [Manual de procedimiento del servicio social](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/manual_servicio_social.md)
 * Manual de usuario de la plataforma versatile (pendiente)
 * Manual de usuario de sigplan (pendiente)
 * Manual para crear acciones batch
