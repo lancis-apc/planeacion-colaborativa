@@ -24,11 +24,10 @@ Esta es la página del **Área de Planeación Colaborativa** de LANCIS, aquí en
 
 # Procedimientos
 
-* Procedimiento de planeación Colaborativa
+* Procedimiento de Planeación Colaborativa
 * Procedimiento de organización general
 
 # Protocolos de organización
-- Acceso a html con jerarquías
 * Protocolo de estructura y nomenclatura para informes
 * Protocolo de logística
 * Protocolo de organización de clases de posgrado
