@@ -24,22 +24,21 @@ Esta es la página del **Área de Planeación Colaborativa** de LANCIS, aquí en
 
 # Procedimientos
 
-* Procedimiento de planeación Colaborativa
+* Procedimiento de Planeación Colaborativa
 * Procedimiento de organización general
 
 # Protocolos de organización
-- Acceso a html con jerarquías
 * Protocolo de estructura y nomenclatura para informes
 * Protocolo de logística
 * Protocolo de organización de clases de posgrado
 * [Protocolo de organización de presentaciones](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Protocolo%20de%20presentaciones/README.md)
 * Protocolo de petición de servicios
-* Protocolo de recepción y entrega de activos de información (lancis_fed_pcr)
+* [Protocolo de recepción y entrega de activos de información](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/lancis_fed_pcr.md)
 * Protocolo de recursos financieros
 * Protocolo de Rmarkdown y HTML de gráficas y mapas
 
-### Manuales
-* Manual de procedimiento del servicio social
+# Manuales
+* [Manual de procedimiento del servicio social](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/manual_servicio_social.md)
 * Manual de usuario de la plataforma versatile (pendiente)
 * Manual de usuario de sigplan (pendiente)
 * Manual para crear acciones batch
@@ -47,8 +46,7 @@ Esta es la página del **Área de Planeación Colaborativa** de LANCIS, aquí en
 * Manual para crear miniaturas a partir de slides
 * Manual para reescalar slides a resolución de anfiteatro
 
-### Repositorios Github (creados por APC)
-Incluir repositorio y producto (página web)
+# Repositorios Github (creados por APC)
 - [Scripts de estadística y modelación de sistemas socioecológicos en R](https://github.com/sostenibilidad-unam/Estadistica_Modelacion_Sistemas_Socioecologicos_R)
 - [Transformación de colonias a AGEBs](https://github.com/sostenibilidad-unam/colonias_to_agebs)
 - [Aplicar categorías Webber-Fechner a cualquier mapa](https://github.com/sostenibilidad-unam/wf_categories)
