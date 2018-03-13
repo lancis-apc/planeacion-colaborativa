@@ -34,7 +34,7 @@ Esta es la página del **Área de Planeación Colaborativa** de LANCIS, aquí en
 * Protocolo de organización de clases de posgrado
 * [Protocolo de organización de presentaciones](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Protocolo%20de%20presentaciones/README.md)
 * Protocolo de petición de servicios
-* Protocolo de recepción y entrega de activos de información (lancis_fed_pcr)
+* [Protocolo de recepción y entrega de activos de información](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/lancis_fed_pcr.md)
 * Protocolo de recursos financieros
 * Protocolo de Rmarkdown y HTML de gráficas y mapas
 
