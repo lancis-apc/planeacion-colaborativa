@@ -5,7 +5,7 @@ Esta es la página del **Área de Planeación Colaborativa** de LANCIS, aquí en
 * * *
 
 
-### Páginas de uso cotidiano internas
+# Páginas de uso cotidiano internas
 
 - [Solicitud de diseño](https://docs.google.com/forms/d/e/1FAIpQLSfiIiApB2_MZ7rdXzqdCU5xLo7eGDBSzsUUbZYtQ-TJ4YcckQ/viewform)
 - [LANCIS](http://lancis.ecologia.unam.mx/)
@@ -14,25 +14,25 @@ Esta es la página del **Área de Planeación Colaborativa** de LANCIS, aquí en
 - [Reservación de salas LANCIS](http://web.ecologia.unam.mx/index.php/asuntos-internos/206-reservacion-de-aulas)
 - [Reservación de salas Anfiteatro-LANCIS](pendiente por renovación de página)
 
-### Páginas de uso cotidiano externas
-- Megadapt
-- Posgrado
+# Páginas de uso cotidiano externas
+- [Megadapt](http://megadapt.weebly.com)
+- [Posgrado](http://sostenibilidad.posgrado.unam.mx/)
 - [Programa de Ordenamiento Ecológico Marino y Regional del Pacífico Norte](http://magrat.mine.nu:8080/Versatile/)
 - [Monitoreo del estado de las invasiones biológicas de plantas en México](http://www.unibio.unam.mx/invasoras/)
 - [Curso de ordenamiento ecológico](http://kinet.cuaed.unam.mx/educacion_continua/ordenamiento_ecologico/)
 - [Dirección general de servicio social](https://www.siass.unam.mx/programa/13477)
 
-### Procedimientos
+# Procedimientos
 
 * Procedimiento de planeación Colaborativa
 * Procedimiento de organización general
 
-### Protocolos de organización
+# Protocolos de organización
 - Acceso a html con jerarquías
 * Protocolo de estructura y nomenclatura para informes
 * Protocolo de logística
 * Protocolo de organización de clases de posgrado
-* Protocolo de organización de presentaciones
+* [Protocolo de organización de presentaciones](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Protocolo%20de%20presentaciones/README.md)
 * Protocolo de petición de servicios
 * Protocolo de recepción y entrega de activos de información (lancis_fed_pcr)
 * Protocolo de recursos financieros
