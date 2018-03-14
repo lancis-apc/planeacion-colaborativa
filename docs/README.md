@@ -24,18 +24,18 @@ Esta es la página del **Área de Planeación Colaborativa** de LANCIS, aquí en
 
 # Procedimientos
 
-* Procedimiento de Planeación Colaborativa
-* Procedimiento de organización general
+* [Procedimiento de Planeación Colaborativa]()
+* [Procedimiento de organización general](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/procedimiento_organizacion_general.md)
 
 # Protocolos de organización
-* Protocolo de estructura y nomenclatura para informes
-* Protocolo de logística
-* Protocolo de organización de clases de posgrado
+* [Protocolo de estructura y nomenclatura para informes](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_estruc_nom_informes.md)
+* [Protocolo de logística](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_logistica.md)
+* [Protocolo de organización de clases de posgrado](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_org_clases_posgrado.md)
 * [Protocolo de organización de presentaciones](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Protocolo%20de%20presentaciones/README.md)
-* Protocolo de petición de servicios
+* [Protocolo de petición de servicios](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_peticionservicio.md)
 * [Protocolo de recepción y entrega de activos de información](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/lancis_fed_pcr.md)
-* Protocolo de recursos financieros
-* Protocolo de Rmarkdown y HTML de gráficas y mapas
+* [Protocolo de recursos financieros](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_recursos_financieros.md)
+* [Protocolo de generación de gráficas y mapas con salida en HTML]()
 
 # Manuales
 * [Manual de procedimiento del servicio social](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/manual_servicio_social.md)
@@ -61,3 +61,7 @@ Esta es la página del **Área de Planeación Colaborativa** de LANCIS, aquí en
 - [Red de desalojo secas](http://magrat.mine.nu/~fidel/secas/#11/19.3951/-99.1324)
 - [Red de desalojo comparación sacmex-lancis](http://magrat.mine.nu/~fidel/comparacion/#12/19.3759/-99.1066)
 - [Plataforma de funciones de valor](http://gvf.magrat.mine.nu/elevacion/gaussian/)
+
+# Repositorio en R
+
+# Librerías (en construcción)
