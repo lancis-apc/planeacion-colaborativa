@@ -14,7 +14,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 - [Reservación de salas Anfiteatro-LANCIS](pendiente por renovación de página)
 
 # Páginas de uso cotidiano externas
-- [Proyecto Megadapt](http://megadapt.weebly.com)
+- [Proyecto MEGADAPT](http://megadapt.weebly.com)
 - [Posgrado de Ciencias de la Sostenibilidad](http://sostenibilidad.posgrado.unam.mx/)
 - [Bitácora geográfica del Programa de Ordenamiento Ecológico Marino y Regional del Pacífico Norte](http://magrat.mine.nu:8080/Versatile/)
 - [Monitoreo del estado de las invasiones biológicas de plantas en México](http://www.unibio.unam.mx/invasoras/)
