@@ -23,7 +23,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 
 # Procedimientos
 
-* [Procedimiento de Planeación Colaborativa]()
+* [Procedimiento del Área de Planeación Colaborativa]()
 * [Procedimiento de organización general](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/procedimiento_organizacion_general.md)
 
 # Protocolos de organización
