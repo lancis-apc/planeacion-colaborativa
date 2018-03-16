@@ -25,8 +25,11 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 
 * [Procedimiento del Área de Planeación Colaborativa]()
 * [Procedimiento de organización general](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/procedimiento_organizacion_general.md)
+* [Procedimiento de verificación de productos](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Procedimiento%20de%20verificaci%C3%B3n%20de%20productos/procedimiento_verifi_produc.md)
 
 # Protocolos de organización
+* [Protocolo de activos de información](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Procedimiento%20de%20activos%20de%20informaci%C3%B3n/procedimiento_activos_informacion.md)
+* [Protocolo de asignación de responsabilidades en proyectos colaborativos](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Protocolo%20de%20asignaci%C3%B3n%20de%20responsabilidades/protocolo_asig_respons.md)
 * [Protocolo de estructura y nomenclatura para informes](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_estruc_nom_informes.md)
 * [Protocolo de logística](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_logistica.md)
 * [Protocolo de organización de clases de posgrado](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_org_clases_posgrado.md)
