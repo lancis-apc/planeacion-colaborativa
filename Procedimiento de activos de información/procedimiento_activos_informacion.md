@@ -1,4 +1,4 @@
-# Procedimiento de activos de información
+# Procedimiento de gestión de activos de información
 
 * * *
 
