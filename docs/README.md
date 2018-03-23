@@ -24,8 +24,8 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 # Procedimientos
 
 * [Procedimiento del Área de Planeación Colaborativa]()
-* [Procedimiento de organización general](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/procedimiento_organizacion_general.md)
-* [Procedimiento de verificación de productos](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Procedimiento%20de%20verificaci%C3%B3n%20de%20productos/procedimiento_verifi_produc.md) 
+* [Procedimiento de organización general](procedimiento_organizacion_general.html)
+* [Procedimiento de verificación de productos](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Procedimiento%20de%20verificaci%C3%B3n%20de%20productos/procedimiento_verifi_produc.md)
 * [Procedimiento de gestión de activos de información](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Procedimiento%20de%20activos%20de%20informaci%C3%B3n/procedimiento_activos_informacion.md)
 
 # Protocolos de organización
