@@ -41,8 +41,8 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 
 # Manuales
 * [Manual de procedimiento del servicio social](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/manual_servicio_social.md)
-* Manual de usuario de la plataforma Versatile (pendiente)
-* Manual de usuario de SIGPLAN (pendiente)
+* [Manual de usuario de la plataforma Versatile] (manual_usuario_plataforma_versatile.pdf)
+* [Manual de usuario de SIGPLAN] (manual_sigplan_oe_operador.pdf)
 * [Manual para crear acciones batch](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/manual_photoshop.acciones_batch.md)
 * [Manual para crear gif animados](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/manual_crear_gif_animados.md)
 * [Manual para crear miniaturas a partir de slides](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/manual_crear_miniaturas_a_partir_de_slides.md)
