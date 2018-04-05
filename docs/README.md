@@ -52,10 +52,10 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 # Repositorios Github (creados por APC)
 - [Scripts de estadística y modelación de sistemas socioecológicos en R](https://github.com/sostenibilidad-unam/Estadistica_Modelacion_Sistemas_Socioecologicos_R)
 - [Transformación de colonias a AGEBs](https://github.com/sostenibilidad-unam/colonias_to_agebs)
-- [Aplicar categorías Webber-Fechner a cualquier mapa](https://github.com/sostenibilidad-unam/wf_categories)
+- [Aplicación de categorías Webber-Fechner a cualquier mapa](https://github.com/sostenibilidad-unam/wf_categories)
 - [Plataforma para presentaciones en el Anfiteatro (guiones)](https://github.com/sostenibilidad-unam/boundary_object)
-- [Para correr sleuth en paralelo en el cluster](https://github.com/sostenibilidad-unam/sleuth_automation)
-- [Para preparar los inputs de sleuth_automation](https://github.com/sostenibilidad-unam/slueth_inputs)
+- [Procedimiento para correr sleuth en paralelo en el cluster](https://github.com/sostenibilidad-unam/sleuth_automation)
+- [Preparación de inputs de sleuth_automation](https://github.com/sostenibilidad-unam/slueth_inputs)
 - [Repositorio de Geo-value function](https://github.com/sostenibilidad-unam/geo-value-function)
 - [Repositorio de parallel coordinates para análisis espaciales en mapas](https://github.com/sostenibilidad-unam/geo-value-function)
 
