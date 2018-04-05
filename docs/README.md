@@ -33,6 +33,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 # Protocolos de organización
 * [Protocolo de asignación de responsabilidades en proyectos colaborativos](protocolo_asig_respons.html)
 * [Protocolo de estructura y nomenclatura para informes](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_estruc_nom_informes.md)
+* [Protocolo de organización de activos de información]()
 * [Protocolo de logística](protocolo_logistica.html)
 * [Protocolo de organización de clases de posgrado](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_org_clases_posgrado.md)
 * [Protocolo de organización de presentaciones](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Protocolo%20de%20presentaciones/README.md)
