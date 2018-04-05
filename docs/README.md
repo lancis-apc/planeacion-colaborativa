@@ -1,6 +1,7 @@
 # Área de Planeación Colaborativa
 
 Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laboratorio Nacional de Ciencias de la Sostenibilidad, (LANCIS-UNAM).
+Última actualización 5 de abril de 2018.
 * * *
 
 
@@ -20,41 +21,43 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 - [Monitoreo del estado de las invasiones biológicas de plantas en México](http://www.unibio.unam.mx/invasoras/)
 - [Curso de ordenamiento ecológico](http://kinet.cuaed.unam.mx/educacion_continua/ordenamiento_ecologico/)
 - [Dirección general de servicio social](https://www.siass.unam.mx/programa/13477)
+- [National Science Foundation. CITI PROGRAM](https://www.citiprogram.org/index.cfm?pageID=265)
 
 # Procedimientos
 
 * [Procedimiento del Área de Planeación Colaborativa](procedimiento_planeacion_colaborativa.html)
 * [Procedimiento de organización general](procedimiento_organizacion_general.html)
-* [Procedimiento de verificación de productos](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Procedimiento%20de%20verificaci%C3%B3n%20de%20productos/procedimiento_verifi_produc.md)
-* [Procedimiento de gestión de activos de información](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Procedimiento%20de%20activos%20de%20informaci%C3%B3n/procedimiento_activos_informacion.md)
+* [Procedimiento de verificación de productos](procedimiento_verifi_produc.html)
+* [Procedimiento de gestión de activos de información](procedimiento_activos_informacion.html)
 
 # Protocolos de organización
-* [Protocolo de asignación de responsabilidades en proyectos colaborativos](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Protocolo%20de%20asignaci%C3%B3n%20de%20responsabilidades/protocolo_asig_respons.md)
+* [Protocolo de asignación de responsabilidades en proyectos colaborativos](protocolo_asig_respons.html)
 * [Protocolo de estructura y nomenclatura para informes](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_estruc_nom_informes.md)
-* [Protocolo de logística](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_logistica.md)
+* [Protocolo de organización de activos de información]()
+* [Protocolo de logística](protocolo_logistica.html)
 * [Protocolo de organización de clases de posgrado](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_org_clases_posgrado.md)
 * [Protocolo de organización de presentaciones](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Protocolo%20de%20presentaciones/README.md)
-* [Protocolo de petición de servicios](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_peticionservicio.md)
-* [Protocolo de recepción y entrega de activos de información](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/lancis_fed_pcr.md)
-* [Protocolo de recursos financieros](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_recursos_financieros.md)
+* [Protocolo de petición de servicios](protocolo_peticionservicio.html)
+* [Protocolo de recepción y entrega de activos de información](lancis_fed_pcr.html)
+* [Protocolo de recursos financieros](protocolo_recursos_financieros.html)
 * [Protocolo de generación de gráficas y mapas con salida en HTML](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Protocolo%20de%20generaci%C3%B3n%20de%20gr%C3%A1ficas%20y%20mapas%20con%20salida%20HTML/protocolo_gr_ma_html.md)
 
 # Manuales
-* [Manual de procedimiento del servicio social](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/manual_servicio_social.md)
-* [Manual de usuario de la plataforma Versatile] (manual_usuario_plataforma_versatile.pdf)
-* [Manual de usuario de SIGPLAN] (manual_sigplan_oe_operador.pdf)
-* [Manual para crear acciones batch](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/manual_photoshop.acciones_batch.md)
-* [Manual para crear gif animados](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/manual_crear_gif_animados.md)
-* [Manual para crear miniaturas a partir de slides](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/manual_crear_miniaturas_a_partir_de_slides.md)
-* [Manual para reescalar slides a resolución de anfiteatro](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/manual_reescalar_slides_a_resolucion_anfiteatro.md)
+* [Manual de procedimiento del servicio social](manual_servicio_social.html)
+* [Manual de usuario de la plataforma Versatile](manual_usuario_plataforma_versatile.pdf)
+* [Manual de usuario de SIGPLAN](manual_sigplan_oe_operador.pdf)
+* [Manual para crear acciones batch](manual_photoshop.acciones_batch.html)
+* [Manual para crear gif animados](manual_crear_gif_animados.html)
+* [Manual para crear miniaturas a partir de slides](manual_crear_miniaturas_a_partir_de_slides.html)
+* [Manual para reescalar slides a resolución de anfiteatro](manual_reescalar_slides_a_resolucion_anfiteatro.html)
 
 # Repositorios Github (creados por APC)
 - [Scripts de estadística y modelación de sistemas socioecológicos en R](https://github.com/sostenibilidad-unam/Estadistica_Modelacion_Sistemas_Socioecologicos_R)
 - [Transformación de colonias a AGEBs](https://github.com/sostenibilidad-unam/colonias_to_agebs)
-- [Aplicar categorías Webber-Fechner a cualquier mapa](https://github.com/sostenibilidad-unam/wf_categories)
+- [Aplicación de categorías Webber-Fechner a cualquier mapa](https://github.com/sostenibilidad-unam/wf_categories)
 - [Plataforma para presentaciones en el Anfiteatro (guiones)](https://github.com/sostenibilidad-unam/boundary_object)
-- [Para correr sleuth en paralelo en el cluster](https://github.com/sostenibilidad-unam/sleuth_automation)
-- [Para preparar los inputs de sleuth_automation](https://github.com/sostenibilidad-unam/slueth_inputs)
+- [Procedimiento para correr sleuth en paralelo en el cluster](https://github.com/sostenibilidad-unam/sleuth_automation)
+- [Preparación de inputs de sleuth_automation](https://github.com/sostenibilidad-unam/slueth_inputs)
 - [Repositorio de Geo-value function](https://github.com/sostenibilidad-unam/geo-value-function)
 - [Repositorio de parallel coordinates para análisis espaciales en mapas](https://github.com/sostenibilidad-unam/geo-value-function)
 
