@@ -21,7 +21,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 - [Monitoreo del estado de las invasiones biológicas de plantas en México](http://www.unibio.unam.mx/invasoras/)
 - [Curso de ordenamiento ecológico](http://kinet.cuaed.unam.mx/educacion_continua/ordenamiento_ecologico/)
 - [Dirección general de servicio social](https://www.siass.unam.mx/programa/13477)
-- [National Science Foundation](https://www.citiprogram.org/index.cfm?pageID=265)
+- [National Science Foundation. CITI PROGRAM](https://www.citiprogram.org/index.cfm?pageID=265)
 
 # Procedimientos
 
