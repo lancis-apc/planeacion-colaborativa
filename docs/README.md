@@ -27,7 +27,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 
 * [Procedimiento del Área de Planeación Colaborativa](procedimiento_planeacion_colaborativa/procedimiento_planeacion_colaborativa.html)
 * [Procedimiento de organización general](procedimiento_organizacion_general.html)
-* [Procedimiento de verificación de productos](procedimiento_verifi_produc.html)
+* [Procedimiento de verificación de productos](procedimiento_verifi_produc/procedimiento_verifi_produc.html)
 * [Procedimiento de gestión de activos de información](procedimiento_activos_informacion.html)
 
 # Protocolos de organización
