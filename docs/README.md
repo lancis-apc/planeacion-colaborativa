@@ -31,7 +31,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 * [Procedimiento de gestión de activos de información](procedimiento_activos_informacion/procedimiento_activos_informacion.html)
 
 # Protocolos de organización
-* [Protocolo de asignación de responsabilidades en proyectos colaborativos](protocolo_asig_respons.html)
+* [Protocolo de asignación de responsabilidades en proyectos colaborativos](protocolo_asig_respons/protocolo_asig_respons.html)
 * [Protocolo de estructura y nomenclatura para informes](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/protocolo_estruc_nom_informes.md)
 * [Protocolo de organización de activos de información]()
 * [Protocolo de logística](protocolo_logistica.html)
