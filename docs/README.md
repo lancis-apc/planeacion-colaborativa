@@ -46,8 +46,8 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 * [Manual de usuario de SIGPLAN](manual_sigplan_oe_operador.pdf)
 * [Manual para crear acciones batch](manual_acciones_batch/manual_acciones_batch.html)
 * [Manual para crear gif animados](manual_crear_gif_animados/manual_crear_gif_animados.html)
-* [Manual para crear miniaturas a partir de slides](manual_crear_miniaturas_a_partir_de_slides/manual_crear_miniaturas_a_partir_de_slides.html)
-* [Manual para reescalar slides a resolución de anfiteatro](manual_reescalar_slides_a_resolucion_anfiteatro/manual_reescalar_slides_a_resolucion_anfiteatro.html)
+* [Manual para crear miniaturas a partir de slides](manual_miniaturas_slides/manual_miniaturas_slides.html)
+* [Manual para reescalar slides a resolución de anfiteatro](manual_reescalar_slides_resol_anfiteatro/manual_reescalar_slides_resol_anfiteatro.html)
 
 # Repositorios Github (creados por APC)
 - [Scripts de estadística y modelación de sistemas socioecológicos en R](https://github.com/sostenibilidad-unam/Estadistica_Modelacion_Sistemas_Socioecologicos_R)
