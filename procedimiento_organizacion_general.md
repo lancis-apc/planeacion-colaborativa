@@ -67,13 +67,19 @@ Las tareas asignadas tienen que estar verificadas antes de la entrega (ver `Proc
 
 El uso del GitHub como gestor es indispensable en la organización y comunicación de actividades programadas por los colaboradores, por lo tanto, es indispensable que los colaboradores tengan una cuenta.
 
-El gestor a usar en la organización y comunicación de las actividades programadas es:
+#### Pasos para tener una cuenta
+
+* Crear cuenta en: https://github.com/
+* Enviar usuario a responsable de gestión de activos
+* Aceptar invitación al repositorio
+
+El repositorio a usar en la organización y comunicación de las actividades programadas es:
 
 `lancis-apc/planeacion-colaborativa`
 
 #### Reglas para el uso del GitHub
 
-Los colaboradores tienen que registrar sus actividades en "issues" y seguir las siguientes reglas:
+Los colaboradores tienen que registrar sus actividades en "issues" y seguir el `Reglamento de uso de GitHub y DropBox`:
 
 1. Crear "new issue"
 2. "Title": el enunciado de la actividad debe de comenzar con un verbo en infinitivo seguido del complemento del enunciado
