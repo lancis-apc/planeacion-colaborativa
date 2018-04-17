@@ -38,7 +38,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 * [Protocolo de petición de servicios](protocolo_peticionservicio.html)
 * [Protocolo de recepción y entrega de activos de información](lancis_fed_pcr.html)
 * [Protocolo de recursos financieros](protocolo_recursos_financieros.html)
-* [Protocolo de generación de gráficas y mapas con salida en HTML](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/Protocolo%20de%20generaci%C3%B3n%20de%20gr%C3%A1ficas%20y%20mapas%20con%20salida%20HTML/protocolo_gr_ma_html.md)
+* [Protocolo de generación de gráficas y mapas con salida en HTML](protocolo_gr_ma_html/protocolo_gr_ma_html.html)
 
 # Manuales
 * [Manual de procedimiento del servicio social](manual_servicio_social.html)
