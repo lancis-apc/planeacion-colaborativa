@@ -33,7 +33,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 # Protocolos de organización
 * [Protocolo de asignación de responsabilidades en proyectos colaborativos](protocolo_asig_respons/protocolo_asig_respons.html)
 * [Protocolo de estructura y nomenclatura para informes](protocolo_estruc_nom_informes.html)
-* [Protocolo de organización de activos de información]()
+* [Protocolo de organización de activos de información](protocolo_org_activ_info/protocolo_org_activ_info.html)
 * [Protocolo de logística](protocolo_logistica.html)
 * [Protocolo de petición de servicios](protocolo_peticionservicio.html)
 * [Protocolo de recepción y entrega de activos de información](lancis_fed_pcr.html)
