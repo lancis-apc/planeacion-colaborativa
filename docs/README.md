@@ -44,7 +44,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 * [Manual de procedimiento del servicio social](manual_servicio_social.html)
 * [Manual de usuario de la plataforma Versatile](manual_usuario_plataforma_versatile.pdf)
 * [Manual de usuario de SIGPLAN](manual_sigplan_oe_operador.pdf)
-* [Manual para crear acciones batch](manual_photoshop.acciones_batch/manual_photoshop.acciones_batch.html)
+* [Manual para crear acciones batch](manual_acciones_batch/manual_acciones_batch.html)
 * [Manual para crear gif animados](manual_crear_gif_animados/manual_crear_gif_animados.html)
 * [Manual para crear miniaturas a partir de slides](manual_crear_miniaturas_a_partir_de_slides/manual_crear_miniaturas_a_partir_de_slides.html)
 * [Manual para reescalar slides a resolución de anfiteatro](manual_reescalar_slides_a_resolucion_anfiteatro/manual_reescalar_slides_a_resolucion_anfiteatro.html)
