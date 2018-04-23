@@ -67,37 +67,19 @@ Las tareas asignadas tienen que estar verificadas antes de la entrega (ver `Proc
 
 El uso del GitHub como gestor es indispensable en la organización y comunicación de actividades programadas por los colaboradores, por lo tanto, es indispensable que los colaboradores tengan una cuenta.
 
-El gestor a usar en la organización y comunicación de las actividades programadas es:
+#### Pasos para tener una cuenta
+
+* Crear cuenta en: https://github.com/
+* Enviar usuario a responsable de gestión de activos
+* Aceptar invitación al repositorio
+
+El repositorio a usar en la organización y comunicación de las actividades programadas es:
 
 `lancis-apc/planeacion-colaborativa`
 
 #### Reglas para el uso del GitHub
 
-Los colaboradores tienen que registrar sus actividades en "issues" y seguir las siguientes reglas:
-
-1. Crear "new issue"
-2. "Title": el enunciado de la actividad debe de comenzar con un verbo en infinitivo seguido del complemento del enunciado
-3. Al final del enunciado se debe escribir en mayúsculas el nombre del proyecto al que pertenece la actividad (`ORGANIZACION_APC`, `MEGADAPT`, `IAI`, `PACIFICO`, etcétera) anteponiendo un signo de #
-4. En la sección de comentarios (leave a comment)
-      * se registran los avances o comentarios en general que se tienen de la actividad
-      * se puede @ a los colaboradores (@ más nombre de usuario del GitHub) para notificar los avances referentes a la actividad. Estas notificaciones les llega vía correo electrónico, para @ solo se escribe @nombre del usuario
-      * se indica la dirección del DropBox donde está el producto final
-5. NUNCA SE COMPARTEN LIGAS DEL DROPBOX por este medio, solo se escribe la dirección en donde se encuentra el producto
-6. A las actividades se le tienen que asignar uno o varios responsables (Assignees) y etiquetar a los colaboradores que van a intervenir (Labels)
-
-El seguimiento de las actividades se hace mediante las `etiquetas` (Labels), las cuales son:
-
-* Nombre de colaborador, se selecciona el nombre del colaborador que tiene que intervenir en la actividad
-* Actividad permanente, es cuando la actividad se tiene que hacer cada semana
-* NOTIFICACIÓN, algún aviso que se quiera dar realcionada a la actividad
-* Pausa, detener durante un tiempo o indefinidamente el desarrollo de la actividad
-* Prioridad, actividad que se considera más importante que otra
-* Procesando, actividad que se está llevando a cabo
-* Terminado, actividad finalizada
-
-En la sección de los comentarios@ a los colaboradores a los que quieran notificar
-
-Una vez terminada la actividad se cierra el issue (Close issue), éste se puede reabrir si la actividad llega a continuar
+Los colaboradores tienen que registrar sus actividades en "issues" y seguir el `Reglamento de uso de GitHub y DropBox` para crear y dar seguimiento a los "issues".
 
 ### Registro de actividades y entregables
 
@@ -134,18 +116,6 @@ Los repositorios que tenemos en el APC se dividen en:
   * magrat
 
 Es obligatorio que los archivos se trabajen y guarden directamente en el DropBox. De inicio se puede trabajar en la carpeta personal y cuando se tenga el producto final se moverá a la carpeta del proyecto que le corresponda.
-
-### Repositorio DropBox
-
-Los colaboradores tienen que seguir las siguientes reglas:
-
-* Recibir capacitación en el uso general del DropBox
-* Tener conocimiento en la organización general del DropBox
-* Tener conocimiento de la organización por proyecto (ver más abajo `Nuevos proyectos`)
-* Saber a qué nivel pueden sincronizar carpetas en las computadoras
-* Queda prohibido compartir ligas al DropBox por medio del GitHub
-* Respaldar la información en disco duros externos cada semana (ver `Protocolo de respaldo en discos duros`)
-* Se restringirá el uso del DropBox a los que no sigan las reglas.
 
 ### Organización del DropBox
 
@@ -195,6 +165,10 @@ Para reorganizar la información que se encuentra en las carpetas del DropBox se
 5. Una vez que ya se tenga la carpeta organizada conforme al presente procedimiento, se tiene que eliminar la carpeta del DropBox para poder volver a subir la carpeta ya organizada. Es importante asegurarse que se tienen respaldadas las carpetas, tanto la organizada como la desorganizada, en un disco duro
 6. Sincronizar la carpeta arreglada
 7. Mandar aviso a los colaboradores de que ya se encuentra en el DropBox la carpeta organizada.
+
+### Reglas para el uso del Repositorio DropBox
+
+Los colaboradores deben obligatoriamente leer el `Reglamento de uso de GitHub y DropBox` para hacer uso del repositorio.
 
 ### Respaldo de información
 
