@@ -49,6 +49,9 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 * [Manual para crear miniaturas a partir de slides](manual_miniaturas_slides/manual_miniaturas_slides.html)
 * [Manual para reescalar slides a resolución de anfiteatro](manual_reescalar_slides_resol_anfiteatro/manual_reescalar_slides_resol_anfiteatro.html)
 
+# Reglamentos
+* [Reglamento para el uso de GitHub y DropBox](reglamento_github_dropbox.html)
+
 # Repositorios Github (creados por APC)
 - [Scripts de estadística y modelación de sistemas socioecológicos en R](https://github.com/sostenibilidad-unam/Estadistica_Modelacion_Sistemas_Socioecologicos_R)
 - [Transformación de colonias a AGEBs](https://github.com/sostenibilidad-unam/colonias_to_agebs)
