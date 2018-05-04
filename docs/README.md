@@ -70,6 +70,6 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 - [Red de desalojo comparación sacmex-lancis](http://magrat.mine.nu/~fidel/comparacion/#12/19.3759/-99.1066)
 - [Plataforma de funciones de valor](http://gvf.magrat.mine.nu/elevacion/gaussian/)
 
-# Repositorio en R
+# Repositorio de software
 
 # Librerías (en construcción)
