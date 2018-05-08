@@ -1,4 +1,4 @@
-# Protocolo de estructura y nomenclatura para informes
+# Protocolo de presentación de reportes técnicos e informes
 
 * * *
 

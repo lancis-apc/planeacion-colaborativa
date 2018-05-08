@@ -1,0 +1,43 @@
+# Manual para generar páginas web en GitHub
+
+En proyectos del Área de Planeación Colaborativa (APC) con colaboración de externos se requiere contar con una página web donde se compartan documentos necesarios para el buen desarrollo del proyecto, como procedimientos, protocolos, manuales y reglamentos. En este manual se explica la forma de generar páginas web por parte de cualquiera de los colaboradores de APC.
+
+## Software necesario
+
+* Cuenta en GitHub
+* GitHub desktop
+
+## Requisitos previos
+
+1. El repositorio de GitHub donde se creará la página debe ser parte de una cuenta de organización
+2. Tener un índice del contenido de la página en formato markdown (md)
+
+
+## Procedimiento
+
+* Generar un nuevo repositorio Abrir Photoshop y cargar el set de acciones (si no se tiene a la vista la paleta de acciones ir al menú `Window / Actions`). En el menú de la paleta, seleccionar `Load Actions...` y seleccionar la ubicación de nuestro set de acciones (ubicado en `Dropbox (LNCS)/ORGANIZACION_APC\acciones_photoshop\acciones_photoshop_presentaciones.atn`).
+
+![Cargar acciones](fi_cargar_acciones.png)
+<br>
+**Figura 1.** Cargar acciones.
+
+![Acciones cargadas](fi_acciones cargadas.png)
+<br>
+**Figura 2.** Acciones cargadas.
+
+* Una vez cargadas las acciones, se corre la acción en un lote de imágenes mediante _Batch._ Ir al menú `File / Automate / Batch... `
+
+![Bacth](fi_batch.png)
+<br>
+**Figura 3.** Parámetros en Batch.
+
+* Siguiendo el orden de la ventana _Batch_ indicaremos:
+    * A qué _set_ de acciones pertenece la acción a aplicar
+    * El nombre de la acción
+    * La carpeta de origen _(Source Folder)_ con el lote de imágenes que queremos _miniaturizar_
+    * La carpeta de destino donde se guardarán los archivos modificados
+    * El nombre que queremos que tengan los nuevos archivos. En este caso estamos indicando que se anteponga el prefijo `mini_` + el nombre del archivo + la extensión.
+
+        De esta manera, si el nombre de nuestro archivo de origen es `sl_02_introduccion.png`, el archivo _miniaturizado_ se llamará `mini_sl_02_introduccion.png`y ambos se conservarán en la misma carpeta `slides_miniaturas`.
+
+Una vez revisados todos los parámetros. Teclear `OK`, ver correr la acción y revisar el resultado en la carpeta.
