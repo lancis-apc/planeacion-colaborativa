@@ -98,6 +98,21 @@ En esta hoja los colaboradores además de registrar las mismas actividades que h
 * Tipo de entregable, indicar si el producto es un manuscrito, gráfica, figura, información, carpeta organizada, base de datos
 * Comentarios, si fuera necesario señalar el por qué del progreso
 
+#### Boletín informativo de revisión de actividades
+
+Este boletín se generará como un "issue" en GitHub. El objetivo es mantener informado al investigador responsable de proyectos del estatus de los proyectos que se realizan en APC. De esta forma, el investigador responsable definirá las actividades y prioridades de trabajo, y atenderá las actividades urgentes de resolver.
+
+Este boletín se hará cada semana independientemente que se tenga reunión con el investigador responsable. A continuación se describen sus características:
+
+* Título: "SUPREMO: Revisar prioridades de la semana #Organización-APC"
+* Asignación: Asignar a al coordinador(a) del equipo de trabajo
+* Descripción:
+  * Poner la fecha de la semana, ejem. 7/05/2018
+  * "Arrobar" al investigador responsable (@luis-supremo revisar:)
+  * Poner indicativos de prioridad y describir las actividades por proyecto. Los indicativos son:
+   * *Prioridad muy alta.* Significa que no se puede continuar con las actividades si el investigador responsable no atiende las actividades.
+   * *Prioridad intermedia.* Significa que las actividades pueden seguir haciendose por parte de los colaboradores, pero es necesario que el investigador responsable retroalimente, tome decisiones y ayude en el proceso de elaboración.
+   * *Notificaciones.* Se enumeran las actividades por proyecto que están en proceso y/o ya se concluyeron y los productos están listos.No se requiere de la intervención del investigador responsable.
 * * *
 
 ## Gestión de activos de información
