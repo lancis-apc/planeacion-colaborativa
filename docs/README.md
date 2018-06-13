@@ -60,7 +60,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 - [Procedimiento para correr sleuth en paralelo en el cluster](https://github.com/sostenibilidad-unam/sleuth_automation)
 - [Preparación de inputs de sleuth_automation](https://github.com/sostenibilidad-unam/slueth_inputs)
 - [Repositorio de Geo-value function](https://github.com/sostenibilidad-unam/geo-value-function)
-- [Repositorio de parallel coordinates para análisis espaciales en mapas](https://github.com/sostenibilidad-unam/geo-value-function)
+- [Repositorio de parallel coordinates para análisis espaciales en mapas](https://github.com/sostenibilidad-unam/parallel_coordinates_maps)
 
 # Aplicaciones
 - [Parallel coordinates por colonias](http://pc.magrat.mine.nu/parallel_coordinates_maps/bc81f943e30eb935c47d169bc9910e10)
