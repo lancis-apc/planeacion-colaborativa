@@ -43,7 +43,9 @@ Se ingresa con el nombre de usuario y contraseña y se procede a hacer el siguie
 * Seleccionar el subtítulo "Rename document files" y arrastrar "Author", "Year" y "Journal" en el apartado de "File name"
 * Seleccionar "Underscore-separeted"
 * Dar click a "OK"
+
 ![Figura 1](file_organizer.png)
+
 **Figura 1.** Pestaña "File Organizer".
 
 #### Verificación de metadatos
