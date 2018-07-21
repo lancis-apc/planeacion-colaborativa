@@ -15,8 +15,8 @@ En proyectos del Área de Planeación Colaborativa (APC) con colaboración de ex
 ## Procedimiento
 
 * Generar un nuevo repositorio.
-  1. Dar click en el botón de "+", "New repository". O hacer click [aquí](https://github.com/new).
 
+  1. Dar click en el botón de "+", "New repository". O hacer click [aquí](https://github.com/new).
 
 ![Crear repositorio](repo_1.png)
 <br>
@@ -27,6 +27,7 @@ En proyectos del Área de Planeación Colaborativa (APC) con colaboración de ex
   4. Describir el contenido del repositorio en la página del repositorio en el botón "Edit"
 
 * Hacer el README
+
   1. Abrir el archivo README.md
   2. Dar click al botón del lapiz ("Edit this file")
   3. Copiar o escribir el índice del contenido de la página web en formato markdown
@@ -34,6 +35,7 @@ En proyectos del Área de Planeación Colaborativa (APC) con colaboración de ex
   5. Dar click en el botón "commit changes".
 
 * Crear la carpeta docs
+
   1. Click en "create new file"
   2. Nombrar el archivo nuevo "docs/README.md"
   3. Escribir título y contenidos concisos, en minúsculas y sin ningún símbolo
