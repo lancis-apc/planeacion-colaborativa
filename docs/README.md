@@ -39,7 +39,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 * [Protocolo de recepción y entrega de activos de información](lancis_fed_pcr.html)
 * [Protocolo de recursos financieros](protocolo_recursos_financieros.html)
 * [Protocolo de generación de gráficas y mapas con salida en HTML](protocolo_gr_ma_html/protocolo_gr_ma_html.html)
-* [Protocolo de petición de servicio de la sala de inmersión Anfiteatro para externos]()
+* [Protocolo de petición de servicio de la sala de inmersión Anfiteatro para externos](protocolo_servicioanfiteatro_ext.html)
 
 # Manuales
 * [Manual de procedimiento del servicio social](manual_servicio_social.html)
