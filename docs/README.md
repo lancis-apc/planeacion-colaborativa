@@ -48,7 +48,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 * [Manual para crear gif animados](manual_gif_animados.html)
 * [Manual para crear miniaturas a partir de slides](manual_miniaturas_slides/manual_miniaturas_slides.html)
 * [Manual para reescalar slides a resolución de anfiteatro](manual_reescalar_slides_resol_anfiteatro/manual_reescalar_slides_resol_anfiteatro.html)
-* [Manual para generar páginas web en GitHub](manual_reescalar_slides_resol_anfiteatro/manual_reescalar_slides_resol_anfiteatro.html)
+* [Manual para generar páginas web en GitHub](manual_pag_web/manual_pag_web_github.html)
 
 # Reglamentos
 * [Reglamento para el uso de GitHub y DropBox](reglamento_github_dropbox.html)
