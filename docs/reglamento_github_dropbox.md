@@ -65,14 +65,16 @@ Cuando se requiera revisar una tarea terminada ya cerrada, reabrir el issue y co
 Los colaboradores tienen que seguir las siguientes reglas para el uso del repositorio:
 
 * Recibir capacitación en el uso general del Dropbox. Única forma de conocer cuenta y contraseña de acceso
+* Proporcionar al administrador de Dropbox el nombre de las computadoras, el sistema operativo y el IP de donde usarán el Dropbox
 * Tener conocimiento en la organización general del Dropbox, ver el `Procedimiento de organización general`
 * Tener conocimiento de la organización por proyecto (ver el `Procedimiento de organización general`)
 * Saber a qué nivel pueden sincronizar carpetas en las computadoras
 * Conocer cómo compartir carpetas con colaboradores internos y externos
-* Notificar al responsable de gestión de activos de información de los movimientos de los activos (cambio de carpeta e ingreso o egreso) dentro de los proyectos.
+* Notificar al responsable de gestión de activos de información de los movimientos de los activos (cambio de carpeta e ingreso o egreso) dentro de los proyectos
 * Utilizar y verificar los protocolos de nombres y organización
 * Respaldar la información en disco duros externos cada semana (ver `Protocolo de gestión de activos de información`)
-* Se restringirá el uso del DropBox a los que no sigan las reglas
+
+El cumplimiento de estas reglas es indispensable para el uso sino Se restringirá la entrada al Dropbox.
 
 ### Restricciones de uso
 
