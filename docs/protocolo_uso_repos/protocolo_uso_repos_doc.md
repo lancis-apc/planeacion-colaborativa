@@ -44,7 +44,7 @@ Se ingresa con el nombre de usuario y contraseña y se procede a hacer el siguie
 * Seleccionar "Underscore-separeted"
 * Dar click a "OK"
 
-![Figura 1](file_organizer.png)
+![Figura 1](file_organizer.PNG)
 
 **Figura 1.** Pestaña "File Organizer".
 
