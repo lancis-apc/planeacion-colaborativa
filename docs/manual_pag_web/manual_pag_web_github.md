@@ -18,7 +18,7 @@ En proyectos del Área de Planeación Colaborativa (APC) con colaboración de ex
   1. Dar click en el botón de "+", "New repository". O hacer click [aquí](https://github.com/new).
 
 
-![Crear repositorio](repo_1.png)
+![Crear repositorio](repo_1.PNG)
 <br>
 **Figura 1.** Crear repositorio.
 
