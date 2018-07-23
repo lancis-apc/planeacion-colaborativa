@@ -12,7 +12,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 - [Moodle del Posgrado de Ciencias de la Sostenibilidad](http://aulas.mine.nu/recursos/login/index.php)
 - [Github de APC](https://github.com/lancis-apc/planeacion-colaborativa)
 - [Reservación de salas LANCIS](http://web.ecologia.unam.mx/index.php/asuntos-internos/206-reservacion-de-aulas)
-- [Reservación de salas Anfiteatro-LANCIS](pendiente por renovación de página)
+- [Reservación de salas Anfiteatro-LANCIS](http://lancis.ecologia.unam.mx/anfiteatro/)
 
 # Páginas de uso cotidiano externas
 - [Proyecto MEGADAPT](http://megadapt.weebly.com)
