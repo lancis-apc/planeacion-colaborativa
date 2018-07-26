@@ -40,7 +40,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 * [Protocolo de recursos financieros](protocolo_recursos_financieros.html)
 * [Protocolo de generación de gráficas y mapas con salida en HTML](protocolo_gr_ma_html/protocolo_gr_ma_html.html)
 * [Protocolo de petición de servicio de la sala de inmersión Anfiteatro para externos](protocolo_servicioanfiteatro_ext.html)
-* [Protocolo de uso de repositorios documentales](sostenibilidad-unam/protocolos/blob/master/protocolo_software.html)
+* [Protocolo de uso de repositorios documentales](protocolo_uso_repos/protocolo_uso_repos_doc.html)
 * [Protocolo de desarrollo de software](sostenibilidad-unam/protocolos/blob/master/protocolo_software.html)
 
 # Manuales
