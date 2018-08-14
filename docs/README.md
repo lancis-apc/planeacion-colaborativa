@@ -1,7 +1,7 @@
 # Área de Planeación Colaborativa
 
 Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laboratorio Nacional de Ciencias de la Sostenibilidad, (LANCIS-UNAM).
-Última actualización 27 de julio de 2018.
+Última actualización 14 de agosto de 2018.
 * * *
 
 
