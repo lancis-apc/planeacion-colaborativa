@@ -22,6 +22,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 - [Curso de ordenamiento ecológico](http://kinet.cuaed.unam.mx/educacion_continua/ordenamiento_ecologico/)
 - [Dirección general de servicio social](https://www.siass.unam.mx/programa/13477)
 - [National Science Foundation. CITI PROGRAM](https://www.citiprogram.org/index.cfm?pageID=265)
+- [Conjunto de datos abiertos de la CDMX](http://www.datosabiertos.cdmx.gob.mx:5000/dataset)
 
 # Procedimientos
 
