@@ -31,7 +31,7 @@ Rellenar el siguiente formulario:
 
 La dirección web es la siguiente:
   - http://magrat.mine.nu:8088/geonetwork/
-  
+
 En la barra superior, del lado izquierdo dar clic en *idendificarse*
 
 Ingresar usuario y contraseña
@@ -176,3 +176,6 @@ dar clic en *Guardar y cerrar*
 En la vista del metadato debe mostrarse de la siguiente manera:
 
 ![](ad_matrib_3.png)
+
+
+--- 
