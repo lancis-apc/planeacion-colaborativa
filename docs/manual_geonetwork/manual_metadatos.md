@@ -35,7 +35,8 @@ La dirección web es la siguiente:
 En la barra superior, del lado izquierdo dar clic en *idendificarse*
 
 Ingresar usuario y contraseña
-![](ingresar.png)
+
+![](ingresar.PNG)
 
 A continuación el sitio muestra la pantalla de inicio, el menú superior
 se compone de los siguientes elementos:
@@ -51,7 +52,7 @@ se compone de los siguientes elementos:
   - Administrar el directorio
   - Edición por lotes
 
- ![](pantalla_inicio.png)
+![](pantalla_inicio.PNG)
 
 ## Creación de metadatos - tabla de atributos.
 
@@ -65,7 +66,7 @@ pasos.
 5. clic en el botón *Crear*.
 
 
- ![](crear_cat.png)
+![](crear_cat.PNG)
 
 Se muestra a continuación la plantilla para la creación de metadatos de la tabla de atributos.
 Se tiene que elegir la vista *completa*, seguir los siguientes pasos.
@@ -109,13 +110,13 @@ Rellenar los siguientes campos:
       - code
       - Definición
 
-![](codelist.png)
+![](codelist.PNG)
 
   ```
   Nota: Si no aparece la opción para agragar "codelist" o el campo definición clicar el icono de visualización y elegir Completo
   ```
 
-![](codelist01.png)
+![](codelist01.PNG)
 
 Para agregar un nuevo atributo, clicar en *elementos*
 
@@ -135,13 +136,13 @@ pasos.
 5. clic en el botón *Crear*.
 
 
-![](conjuntodatos.png)
+![](conjuntodatos.PNG)
 
 6. Clic en *modo de visualización > completo*
 
 La pantalla muestra en la parte superior las secciones de las cuales se compone el metadato.
 
-![](completo_conjuntodatos.png)
+![](completo_conjuntodatos.PNG)
 
 Llenar unicamente los campos disponibles de las siguientes secciones:
 
@@ -161,21 +162,22 @@ Una vez terminado el llenado de campos, dar clic en *Guardar metadato*
 
 En el apartado de Recursos asociados clicar en *añadir*
 
-![](ad_matrib.png)
+![](ad_matrib.PNG)
+
 se muestra un menu emergente, clicar en  *Enlazar a un catálogo de features*.
 
-![](ad_matrib_1.png)
+![](ad_matrib_1.PNG)
 
 En la menu emergente elegir el metadato de atributos correspondiente a la capa. Dar clic en *Enlazar a un catálogo de features*
 
-![](ad_matrib_2.png)
+![](ad_matrib_2.PNG)
 
 
 dar clic en *Guardar y cerrar*
 
 En la vista del metadato debe mostrarse de la siguiente manera:
 
-![](ad_matrib_3.png)
+![](ad_matrib_3.PNG)
 
 
---- 
+---
