@@ -146,7 +146,7 @@ DropBox (LNCS)\
 
 
 
-##### 2. Repositorio desarrollo
+#### 2. Repositorio desarrollo
 Esta carpeta está organizada por subcarpetas por proyecto, cada carpeta contiene tres carpetas (procesamiento, entregables y finales) para organizar la información.
 - Este repositorio es para el desarrollo de capas entre colaboradores.
 
@@ -184,8 +184,8 @@ Tipos de entregables:
 
 **3. Finales:** Una vez completado el procesamiento y el objetivo de la actividad, se crea una **copia** (siempre y cuando haya sido validada por el responsable de los repositorios de SIG) que será la versión final de la capa y se almacenará en esta carpeta, junto con los metadatos creados.
 
-Los usuarios deberán ocupar el siguiente formulario para reportar la entrega de la capa al responsable de los repositorios de SIG:
-https://goo.gl/forms/ddRB8GXjtijmFdoE2
+Los usuarios deberán ocupar el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScmUS8yb5Pc9GUc3KTt_14wONsRa9sdJI0-Qcq8M2Z2_fU2vA/viewform?usp=sf_link) para reportar la entrega de la capa al responsable de los repositorios de SIG
+
 
 Una vez enviado se validará la información entregada y se notificará si es aprobada o si necesita modificaciones.
 
