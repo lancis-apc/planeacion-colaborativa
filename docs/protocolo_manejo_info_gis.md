@@ -13,6 +13,7 @@ Este protocolo se divide en:
 - Nombrado de archivos y de los campos.
 - Estándar de metadatos geográficos.
 - Catálogo de datos geográficos.
+- Recepción de la información.
 
 
 ___
@@ -184,24 +185,6 @@ Tipos de entregables:
 
 **3. Finales:** Una vez completado el procesamiento y el objetivo de la actividad, se crea una **copia** (siempre y cuando haya sido validada por el responsable de los repositorios de SIG) que será la versión final de la capa y se almacenará en esta carpeta, junto con los metadatos creados.
 
-Los usuarios deberán ocupar el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScmUS8yb5Pc9GUc3KTt_14wONsRa9sdJI0-Qcq8M2Z2_fU2vA/viewform?usp=sf_link) para reportar la entrega de la capa al responsable de los repositorios de SIG
-
-
-Una vez enviado se validará la información entregada y se notificará si es aprobada o si necesita modificaciones.
-
-Los aspectos a revisar son los siguientes:
-- Que exista el metadato del conjunto de datos
-- Que exista el metadato del catálogo de atributos
-- Que exista en el metadato del conjunto de datos:
-  - Línaje
-  - Proyección asociada
-  - Descripción del método utilizado
-- Que corresponda el catálogo de atributos con la base de datos de la capa
-- Que cumpla con las reglas del nombrado de campos
-- Que existan descripciones explícitas de los campos
-- Que cumplan las reglas de descripcion de los campos.
-
-
 #### 3. Repositorio proyectos
 
 - Este repositorio resguarda las **últimas** versiones de las capas de los proyectos existentes. Su objetivo es la organización y publicación de datos geográficos de los proyectos.
@@ -275,6 +258,22 @@ http://magrat.mine.nu:8088/geonetwork/
   - Metadato del conjunto de datos.
   - Metadato del catálogo de atributos.
 
+## Recepción de la información
+Los usuarios deberán ocupar el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScmUS8yb5Pc9GUc3KTt_14wONsRa9sdJI0-Qcq8M2Z2_fU2vA/viewform?usp=sf_link) para reportar la entrega de la información al responsable de los repositorios de SIG
+
+Una vez enviado se validará la información entregada y se notificará si es aprobada o si necesita modificaciones.
+
+Los aspectos a revisar son los siguientes:
+- Que exista el metadato del conjunto de datos
+- Que exista el metadato del catálogo de atributos
+- Que exista en el metadato del conjunto de datos:
+  - Línaje
+  - Proyección asociada
+  - Descripción del método utilizado
+- Que corresponda el catálogo de atributos con la base de datos de la capa
+- Que cumpla con las reglas del nombrado de campos (No aplica para información de fuentes oficiales)
+- Que existan descripciones explícitas de los campos (No aplica para información de fuentes oficiales)
+- Que cumplan las reglas de descripcion de los campos (No aplica para información de fuentes oficiales)
 
 ## Referencias
 ISO19115 Geographic Information – Data Description – Metadata”, ISO/TC211, 2003
