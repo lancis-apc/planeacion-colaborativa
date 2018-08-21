@@ -393,7 +393,7 @@ La organización de clases de posgrado que se generan en APC se refiere a toda l
 
 El profesor responsable del curso designará al responsable de la gestión de la información que se genere o requiera para su curso. Por lo tanto, este responsable será el encargado de solicitar y recopilar toda la información utilizada para impartir la materia.
 
-## Estructura de carpetas
+#### Estructura de carpetas
 
 El responsable generará una carpeta general con el nombre de la materia en la carpeta POSGRADO anteponiendo la abreviatura porgra_ en el Dropbox (Ejem. posgra_herramientas_analiticas_enlcs).
 Dentro de esta carpeta general se creará la siguiente estructura de carpetas:
