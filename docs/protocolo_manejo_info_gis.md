@@ -2,20 +2,18 @@
 
 ## Objetivo y alcance
 ### Objetivo:
-Organizar los datos geográficos de los proyectos realizados en el área de planeación colaborativa (APC)
+Recibir y organizar los datos geográficos de los proyectos realizados en el área de planeación colaborativa (APC)
 ### Alcance:
 Los colaboradores del APC deberán seguir el presente protocolo, el cual establece los procedimientos para la organización de datos geográficos en los diversos proyectos.
 ___
 ## Protocolo
 Este protocolo se divide en:
 
+- Recepción de la información.
 - Política de gestión de la información geográfica en directorios.
 - Nombrado de archivos y de los campos.
 - Estándar de metadatos geográficos.
 - Catálogo de datos geográficos.
-- Recepción de la información.
-
-
 ___
 ## Materiales, equipos y reactivos
 - GeoNetwork
@@ -23,6 +21,24 @@ ___
 ___
 
 ## Actividades y responsables
+
+### Recepción de la información
+Los usuarios deberán ocupar el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScmUS8yb5Pc9GUc3KTt_14wONsRa9sdJI0-Qcq8M2Z2_fU2vA/viewform?usp=sf_link) para reportar la entrega de la información al responsable de los repositorios de SIG
+
+Una vez enviado se validará la información entregada y se notificará si es aprobada o si necesita modificaciones.
+
+Los aspectos a revisar son los siguientes:
+- Que exista el metadato del conjunto de datos
+- Que exista el metadato del catálogo de atributos
+- Que exista en el metadato del conjunto de datos:
+  - Línaje
+  - Proyección asociada
+  - Descripción del método utilizado
+- Que corresponda el catálogo de atributos con la base de datos de la capa
+- Que cumpla con las reglas del nombrado de campos (No aplica para información de fuentes oficiales)
+- Que existan descripciones explícitas de los campos (No aplica para información de fuentes oficiales)
+- Que cumplan las reglas de descripcion de los campos (No aplica para información de fuentes oficiales)
+
 ### Política de gestión de la información geográfica en directorios
 
 Hay tres repositorios(en proceso de aprobación)
@@ -247,7 +263,7 @@ En APC se adopta el estándar NOM-ISO-19139 que es la norma que describe la impl
 En APC se adopta el estándar NOM-ISO 19110 el cual permite la descripción de los atributos y sus relaciones.
 
 
-## Catálogo de datos geográficos.
+### Catálogo de datos geográficos.
 GeoNetwork es una aplicación para la administración de recursos referenciados espacialmente, proporciona funciones de creación, edición y búsqueda de metadatos. Esta aplicación es usada ampliamente en la Universidad Nacional Autónoma de México(UNAM).
 
 El catálogo de datos geográficos de APC se encuentra disponible en la siguiente dirección:
@@ -258,24 +274,8 @@ http://magrat.mine.nu:8088/geonetwork/
   - Metadato del conjunto de datos.
   - Metadato del catálogo de atributos.
 
-## Recepción de la información
-Los usuarios deberán ocupar el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScmUS8yb5Pc9GUc3KTt_14wONsRa9sdJI0-Qcq8M2Z2_fU2vA/viewform?usp=sf_link) para reportar la entrega de la información al responsable de los repositorios de SIG
 
-Una vez enviado se validará la información entregada y se notificará si es aprobada o si necesita modificaciones.
-
-Los aspectos a revisar son los siguientes:
-- Que exista el metadato del conjunto de datos
-- Que exista el metadato del catálogo de atributos
-- Que exista en el metadato del conjunto de datos:
-  - Línaje
-  - Proyección asociada
-  - Descripción del método utilizado
-- Que corresponda el catálogo de atributos con la base de datos de la capa
-- Que cumpla con las reglas del nombrado de campos (No aplica para información de fuentes oficiales)
-- Que existan descripciones explícitas de los campos (No aplica para información de fuentes oficiales)
-- Que cumplan las reglas de descripcion de los campos (No aplica para información de fuentes oficiales)
-
-## Referencias
+### Referencias
 ISO19115 Geographic Information – Data Description – Metadata”, ISO/TC211, 2003
 
 ISO19139 Geographic information — Metadata — XML schema implementation,ISO/TC211, 2012
