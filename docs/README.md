@@ -1,7 +1,7 @@
 # Área de Planeación Colaborativa
 
 Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laboratorio Nacional de Ciencias de la Sostenibilidad, (LANCIS-UNAM).
-Última actualización 14 de agosto de 2018.
+Última actualización 21 de agosto de 2018.
 * * *
 
 
@@ -43,7 +43,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 * [Protocolo de petición de servicio de la sala de inmersión Anfiteatro para externos](protocolo_servicioanfiteatro_ext.html)
 * [Protocolo de uso de repositorios documentales](protocolo_uso_repos/protocolo_uso_repos_doc.html)
 * [Protocolo de desarrollo de software](protocolo_software.html)
-* [Protocolo para el manejo de la información geográfica](protocolo_manejo_info_gis%20(1).html)
+* [Protocolo para el manejo de la información geográfica](protocolo_manejo_info_gis.html)
 
 # Manuales
 * [Manual de procedimiento del servicio social](manual_servicio_social.html)
