@@ -18,6 +18,7 @@ La organización y el resguardo de la información generada en el Área es la ba
 * Propuestas
 * Clases de posgrado
 * Respaldo en discos duros externos
+
 * * *
 ## Materiales, equipos y reactivos
 
