@@ -256,7 +256,7 @@ En lugar de coma (,) tiene que
 utilizarse punto y coma (;)
 ```
 
-### Estándar para la generación de metadatos geográficos.{#estandar}
+### Estándar para la generación de metadatos geográficos. {#estandar}
 #### 1. Metadato del conjunto de datos.
 En APC se adopta el estándar NOM-ISO-19139 que es la norma que describe la implementación reglada y codificada del estándar NOM-ISO-19115 a nivel de capa y de serie. Presenta esquemas XML especificos para la descripción, validación e intercambio de datos.
 
@@ -264,7 +264,7 @@ En APC se adopta el estándar NOM-ISO-19139 que es la norma que describe la impl
 En APC se adopta el estándar NOM-ISO 19110 el cual permite la descripción de los atributos y sus relaciones.
 
 
-### Catálogo de datos geográficos.{#catalogo}
+### Catálogo de datos geográficos. {#catalogo}
 GeoNetwork es una aplicación para la administración de recursos referenciados espacialmente, proporciona funciones de creación, edición y búsqueda de metadatos. Esta aplicación es usada ampliamente en la Universidad Nacional Autónoma de México(UNAM).
 
 El catálogo de datos geográficos de APC se encuentra disponible en la siguiente dirección:
