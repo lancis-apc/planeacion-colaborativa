@@ -250,6 +250,7 @@ DropBox (LNCS)\
 - No debe contener dobles, triples o más espacios entre palabras, por ejemplo: "Reportes  de falta de agua".
 - Puntuación:
   - No se pueden ocupar los siguientes signos: comillas simples (''),comillas dobles (""), comas (,)
+
 ```
 Nota
 En lugar de coma (,) tiene que
