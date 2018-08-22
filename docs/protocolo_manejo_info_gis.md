@@ -38,6 +38,7 @@ Los aspectos a revisar son los siguientes:
 - Que cumplan las reglas de descripcion de los campos*
 
 * Nota: No aplica para la información de fuentes oficiales que contenga sus propios metadatos.
+
 ### Política de gestión de la información geográfica en directorios {#gestion}
 
 Hay tres repositorios(en proceso de aprobación)
