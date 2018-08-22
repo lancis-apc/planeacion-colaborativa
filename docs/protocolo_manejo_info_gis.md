@@ -9,18 +9,18 @@ Los colaboradores del APC deberán seguir el presente protocolo, el cual estable
 ## Protocolo
 Este protocolo se divide en:
 
-- Recepción de la información.
-- Política de gestión de la información geográfica en directorios.
-- Nombrado de archivos y de los campos.
-- Estándar de metadatos geográficos.
-- Catálogo de datos geográficos.
+- [Recepción de la información.](#recepcion)
+- [Política de gestión de la información geográfica en directorios.](#gestion)
+- [Nombrado de archivos y de los campos.](#nombrado)
+- [Estándar de metadatos geográficos.](#estandar)
+- [Catálogo de datos geográficos.](#catalogo)
 
 ## Materiales, equipos y reactivos
 - GeoNetwork
 
 ## Actividades y responsables
 
-### Recepción de la información
+### Recepción de la información {#recepcion}
 Los usuarios deberán ocupar el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScmUS8yb5Pc9GUc3KTt_14wONsRa9sdJI0-Qcq8M2Z2_fU2vA/viewform?usp=sf_link) para reportar la entrega de la información al responsable de los repositorios de SIG
 
 Una vez enviado se validará la información entregada y se notificará si es aprobada o si necesita modificaciones.
@@ -38,7 +38,7 @@ Los aspectos a revisar son los siguientes:
 - Que cumplan las reglas de descripcion de los campos*
 
 * Nota: No aplica para la información de fuentes oficiales que contenga sus propios metadatos.
-### Política de gestión de la información geográfica en directorios
+### Política de gestión de la información geográfica en directorios {#gestion}
 
 Hay tres repositorios(en proceso de aprobación)
 
@@ -192,6 +192,7 @@ tp_agebs_faltas_2018_v3.shp
 
 Tipos de entregables:
 1. Solicitado no terminado: Durante el tiempo de procesamiento puede surgir la necesidad de trabajar con alguna capa intermedia. El colaborador interesado en empezar a trabajar con alguna capa tendrá que solicitarla a través de un issue al responsable de la creación de la capa. El responsable de la capa tendrá la obligación de notificar en ese mismo issue si existe alguna nueva versión o avance en el procesamiento.
+
  *De esta manera los colaboradores que necesiten la capa como entrada para su script o proceso, se aseguran de utilizar la ultima versión de la capa sin dañar la capa de procesamiento.*
 
 2. Terminado para nuevos procesos: Este tipo de entregables es resultado de la generación de capas que serán insumos para la creación de capas finales. El responsable de la creación de estas capas tendrá que generar los metadatos.
@@ -218,7 +219,7 @@ DropBox (LNCS)\
         └── tipo_de_recurso\
 
 ```
-### Nombrado de archivos y de campos
+### Nombrado de archivos y de campos {#nombrado}
 
 #### Nombrado de archivos.
 - Consultar el [protocolo](https://lancis-apc.github.io/planeacion-colaborativa/protocolo_org_activ_info/protocolo_org_activ_info.html) de organización de activos de información en la sección "Nombre de las carpetas y archivos de cualquier activo de información"
@@ -254,7 +255,7 @@ En lugar de coma (,) tiene que
 utilizarse punto y coma (;)
 ```
 
-### Estándar para la generación de metadatos geográficos.
+### Estándar para la generación de metadatos geográficos.{#estandar}
 #### 1. Metadato del conjunto de datos.
 En APC se adopta el estándar NOM-ISO-19139 que es la norma que describe la implementación reglada y codificada del estándar NOM-ISO-19115 a nivel de capa y de serie. Presenta esquemas XML especificos para la descripción, validación e intercambio de datos.
 
@@ -262,7 +263,7 @@ En APC se adopta el estándar NOM-ISO-19139 que es la norma que describe la impl
 En APC se adopta el estándar NOM-ISO 19110 el cual permite la descripción de los atributos y sus relaciones.
 
 
-### Catálogo de datos geográficos.
+### Catálogo de datos geográficos.{#catalogo}
 GeoNetwork es una aplicación para la administración de recursos referenciados espacialmente, proporciona funciones de creación, edición y búsqueda de metadatos. Esta aplicación es usada ampliamente en la Universidad Nacional Autónoma de México(UNAM).
 
 El catálogo de datos geográficos de APC se encuentra disponible en la siguiente dirección:
@@ -281,4 +282,4 @@ ISO19139 Geographic information — Metadata — XML schema implementation,ISO/T
 
 ISO19110 Geographic information — Methodology for feature cataloguing, SO/TC 211, 2016
 
-*[APC]:Area de Planeación colaborativa
+*[APC]:Área de Planeación colaborativa
