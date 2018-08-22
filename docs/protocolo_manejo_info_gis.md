@@ -37,7 +37,9 @@ Los aspectos a revisar son los siguientes:
 - Que existan descripciones explícitas de los campos*
 - Que cumplan las reglas de descripcion de los campos*
 
-* Nota: No aplica para la información de fuentes oficiales que contenga sus propios metadatos.
+```
+*Nota:No aplica para la información de fuentes oficiales que contenga sus propios metadatos.
+```
 
 ### Política de gestión de la información geográfica en directorios {#gestion}
 
