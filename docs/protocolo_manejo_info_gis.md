@@ -5,7 +5,7 @@
 Recibir y organizar los datos geográficos de los proyectos realizados en el área de planeación colaborativa (APC)
 ### Alcance:
 Los colaboradores del APC deberán seguir el presente protocolo, el cual establece los procedimientos para la organización de datos geográficos en los diversos proyectos.
-___
+
 ## Protocolo
 Este protocolo se divide en:
 
@@ -14,11 +14,9 @@ Este protocolo se divide en:
 - Nombrado de archivos y de los campos.
 - Estándar de metadatos geográficos.
 - Catálogo de datos geográficos.
-___
+
 ## Materiales, equipos y reactivos
 - GeoNetwork
-
-___
 
 ## Actividades y responsables
 
@@ -35,10 +33,11 @@ Los aspectos a revisar son los siguientes:
   - Proyección asociada
   - Descripción del método utilizado
 - Que corresponda el catálogo de atributos con la base de datos de la capa
-- Que cumpla con las reglas del nombrado de campos (No aplica para información de fuentes oficiales)
-- Que existan descripciones explícitas de los campos (No aplica para información de fuentes oficiales)
-- Que cumplan las reglas de descripcion de los campos (No aplica para información de fuentes oficiales)
+- Que cumpla con las reglas del nombrado de campos* 
+- Que existan descripciones explícitas de los campos*
+- Que cumplan las reglas de descripcion de los campos*
 
+* Nota: No aplica para la información de fuentes oficiales que contenga sus propios metadatos.
 ### Política de gestión de la información geográfica en directorios
 
 Hay tres repositorios(en proceso de aprobación)
