@@ -280,3 +280,5 @@ ISO19115 Geographic Information – Data Description – Metadata”, ISO/TC211,
 ISO19139 Geographic information — Metadata — XML schema implementation,ISO/TC211, 2012
 
 ISO19110 Geographic information — Methodology for feature cataloguing, SO/TC 211, 2016
+
+*[APC]:Area de Planeación colaborativa
