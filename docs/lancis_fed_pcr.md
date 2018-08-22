@@ -1,4 +1,4 @@
-# Protocolo de recepción y entrega de activos de información
+# Protocolo de recepción de activos de información
 
 * * *
 
@@ -14,10 +14,11 @@
 
 Este protocolo se divide en los siguientes activos de información:
 *	Bases de datos
-*	Capas geográficas
 *	Gráficas
 *	Mapas
 *	Scripts de análisis estadísticos
+
+Para la recepción de información geográfica ver "Protocolo de manejo de información geográfica"
 
 * * *
 
@@ -28,10 +29,10 @@ No aplica
 * * *
 # Actividades y responsables
 
-## Bases de datos y capas geográficas
-*	Para entregar bases de datos y capas geográficas al APC se deberá llenar el formato de entrega de datos por cada activo de información.:
+## Bases de datos
+*	Para realizar la entrega de información se deberá llenar el [formulario] “Entrega de activos de información” por cada entrega:
 ```
-ORGANIZACION_APC/apc_iso/protocolos/lancis_fed_pcr.xlsx
+https://docs.google.com/forms/d/e/1FAIpQLSf8n_aR8laEZgTl-QB8p4vj1iIydZzhubVGrYCQzb9xRhSQ-g/viewform?usp=sf_link
 ```
 
 * Este formato establece los estándares interoperables de los datos y la calidad de la información recibida bajo el modelo de Dublin Core Metadata Initiative.
