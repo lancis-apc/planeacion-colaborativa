@@ -30,95 +30,43 @@ No aplica
 # Actividades y responsables
 
 ## Bases de datos
-*	Para realizar la entrega de información se deberá llenar el [formulario] “Entrega de activos de información” por cada entrega:
-```
-https://docs.google.com/forms/d/e/1FAIpQLSf8n_aR8laEZgTl-QB8p4vj1iIydZzhubVGrYCQzb9xRhSQ-g/viewform?usp=sf_link
-```
 
-* Este formato establece los estándares interoperables de los datos y la calidad de la información recibida bajo el modelo de Dublin Core Metadata Initiative.
+*	Para realizar la entrega de información se deberá llenar el [formulario](https://docs.google.com/forms/d/e/1FAIpQLSf8n_aR8laEZgTl-QB8p4vj1iIydZzhubVGrYCQzb9xRhSQ-g/viewform?usp=sf_link) por cada entrega:
 
-*	Notificar al responsable de activos de información y al coordinador del proyecto la entrega de los activos de información por medio de un issue del GitHub. El mensaje de la notificación debe de incluir el nombre del archivo con su respectiva extensión, la ruta de la ubicación en el DropBox donde se encuentra la información y el formato de entrega de datos. Para los activos de información con más de un archivo se deben integrar en un .zip o .rar (ejemplo: shapefile).
+* Mediante este formulario se notifica la entrega al responsable de los activos de información y al coordinador.
 
-*	El responsable de los activos de información confirmará la recepción y revisión de los mismos mediante el mismo issue (GitHub).
+*	El responsable de los activos de información confirmará la recepción y revisión de los mismos mediante correo electrónico.
 
-*	Cuando los datos sean revisados y aceptados se comunicará por medio del issue (GitHub) la aprobación de los activos de información.
+*	Cuando los datos sean revisados y aceptados se comunicará por correo electrónico la aprobación de la información.
 
-*	Bajo ninguna excepción se recibirá información sin el formato de entrega de datos.
+*	Bajo ninguna excepción se recibirá información sin el formulario de Entrega de activos de información.
 
-Descripción de los campos obligatorios del formato de entrega de datos:
+Descripción de los campos obligatorios del formulario de Entrega de activos de información:
 
-**Proyecto.** Escribir el nombre del proyecto para el que se va enviar información.
+En la primera sección se tiene que escribir el **nombre** de quien envía la información con sus respectivos datos de **dependencia**, **contacto telefónico y correo electrónico**.
 
-**ENTREGA**
+**Información confidencial.** Indicar si es confidencial o no.
 
-**Responsable.** Escribir el nombre de quien envía la información con sus respectivos datos de dependencia, teléfono y correo electrónico.
+**Proyecto.** Escoger el proyecto para el que se va enviar información.
 
-**RECEPCIÓN**
+**Tipo de archivo.** Seleccionar el formato de archivos de la información a entregar.
 
-**Responsable.** Escribir el nombre de quien recibe la información con sus respectivos datos de dependencia del responsable, teléfono y correo electrónico (responsable de los activos de información).
-
-**Notas.** Escribir si existen notas sobre la información a entregar (opcional).
-
-**Tipo de información.** Seleccionar si la información a enviar es nueva, una actualización a un envío anterior, No validado/actualizar.
-
-**Confidencial.** Seleccionar si la información es confidencial o no.
-
-**Título.** Enunciado que sintetiza la información enviada.
-
-**Tema.** Seleccionar el tema de la información enviada.
-
-
-**Palabras claves.** Palabras clave para facilitar la búsqueda de la información enviada (opcional).
-
-**Descripción.** Descripción detallada de la información a entregar.
-
-**Formato de archivo.** Seleccionar el formato de archivos de la información a entregar.
-
-**Vectorial.** Seleccionar el tipo de formato vectorial a enviar.
-
-**Especificar los archivos.** Describir qué tipo de archivo vectorial va a entregar.
-
-**Escala.** Escribir la escala en la que se encuentra la información.
-
-**Número de columnas.** Seleccionar el número de columnas que contiene la información.
+**Título de la información.** Enunciado que sintetiza la información enviada.
 
 **Tabla de atributos.** Especificar el nombre de la columna, las unidades de medida y la descripción de los datos de la columna.
 
-**Raster.** Seleccionar el tipo de raster a entregar.
+**Metodología.** Método de obtención y procesamiento de la información.
 
-**Resolución.** Especificar el tamaño del pixel.
+**Fecha de toma de datos (inicio).** Fecha en la que se inició la toma de datos.
 
-**Descripción de las categorías / Unidades.** Describir las categorías del archivo y las unidades de medida.
+**Fecha de toma de datos (fin).** Fecha en la que se concluyó la toma de datos.
 
-**Coordenadas geográficas extremas.** Especificar las coordenadas extremas de la capa geográfica.
-
-**Proyección geográfica.** Especificar la proyección cartográfica de los datos.
-
-**Datum de referencia.** Especificar el datum de referencia de los datos.
-
-**Coordenadas geográficas extremas.** Especificar la longitud y latitud de la esquina superior derechas y la esquina inferior izquierda.
-
-**Método.** Método de obtención y procesamiento de la información.
-
-**Ubicación.** Ubicación (región o localidades) y extensión espacial de la información.
-
-**Cobertura temporal (inicio/fin).** Periodo que abarcan los datos.
-
-**ORIGEN DE LOS DATOS**
+**Localización geográfica de la información.** Extensión espacial de la información.
 
 **Autor o Creador.** Persona u organización responsable de la creación del contenido intelectual de la información. Por ejemplo, los autores en el caso de documentos escritos; artistas, fotógrafos e ilustradores en el caso de recursos visuales.
 
-**Editor.** La entidad o persona responsable de hacer que el recurso se encuentre disponible en la red en su formato actual (opcional).
-
-**Otros Colaboradores.** Persona o entidad que haya tenido una contribución intelectual significativa, pero que esta sea secundaria en comparación con las de las personas u organizaciones especificadas en el elemento creador. (por ejemplo: editor, ilustrador y traductor) (opcional).
-
-**Derechos.** Escribir la cita de origen de los datos para los derechos morales de autor. Conforme al Convenio de Berna: Independientemente de los derechos patrimoniales del autor, e incluso después de la cesión de estos derechos, el autor conserva el derecho de mantener la paternidad de la obra y de oponerse a cualquier deformación, mutilación u otra modificación de la misma o a cualquier atentado a la misma que cause perjuicio a su honor o a su reputación.
-
-**Idioma.** Lengua/s del contenido intelectual del recurso (opcional).
-
-**Fecha de elaboración de los datos.** Fecha en la que se procesa la información.
-
 **Cita oficial.** Cita textual que pide la fuente de los datos.
+
 
 ## Gráficas
 Las gráficas entregadas se hacen en el lenguaje de programación R, en el entorno RStudio, Inc. Y se utiliza la librería “ggplot2”.
