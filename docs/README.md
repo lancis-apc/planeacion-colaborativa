@@ -7,7 +7,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 
 # Páginas de uso cotidiano internas
 
-- [Solicitud de diseño gráfico]()
+- [Solicitud de diseño gráfico](https://docs.google.com/forms/d/1pwCTylchzKK58oTkInZ98I9l-XVhmLRvR4dSdbE8z-E/edit?ts=5b803ab7)
 - [Página oficial de LANCIS](http://lancis.ecologia.unam.mx/)
 - [Moodle del Posgrado de Ciencias de la Sostenibilidad](http://aulas.mine.nu/recursos/login/index.php)
 - [Github de APC](https://github.com/lancis-apc/planeacion-colaborativa)
