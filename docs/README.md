@@ -13,6 +13,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 - [Github de APC](https://github.com/lancis-apc/planeacion-colaborativa)
 - [Reservación de salas LANCIS](http://web.ecologia.unam.mx/index.php/asuntos-internos/206-reservacion-de-aulas)
 - [Reservación de salas Anfiteatro-LANCIS](http://lancis.ecologia.unam.mx/anfiteatro/)
+- [Formulario para reportar la entrega de la información al responsable de los repositorios de SIG](https://docs.google.com/forms/d/e/1FAIpQLScmUS8yb5Pc9GUc3KTt_14wONsRa9sdJI0-Qcq8M2Z2_fU2vA/viewform?usp=sf_link) 
 
 # Páginas de uso cotidiano externas
 - [Proyecto MEGADAPT](http://megadapt.weebly.com)
