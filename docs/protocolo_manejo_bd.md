@@ -31,6 +31,13 @@ El colaborador responsable de crear una base de datos debe realizar las siguient
 
 ### Configuración del Sistema
 
+Independientemente del sistema operativo utilizado el colaborador debe revisar que la separación de los miles esté establecida por comas(,); y la separación decimal por puntos (.).
+```
+Nota:
+- Para ususarios de windows esta configuración se puede establecer en:
+Panel de control/ Configuración regional y de idioma/ Configuración adicional.
+```
+
 El colaborador debe revisar en el panel de control de la computadora que en la configuración regional y de idioma, esté en español, y en la configuración adicional, la separación de los miles esté dada por comas (,); y la separación decimal por puntos (.).
 
 ### Codificación del archivo
