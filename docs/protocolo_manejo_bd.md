@@ -1,6 +1,5 @@
 # Protocolo de manejo de bases de datos
 
-* * *
 
 ## Objetivo y alcance
 
@@ -8,7 +7,6 @@
 
 **Alcance:** Aplica para todos los proyectos internos y externos desarrollados por el APC.
 
-* * *
 
 ## Protocolo
 
@@ -24,13 +22,11 @@ Este protocolo se divide en los siguientes estándares que se desarrollan a cont
 
 ```
 
-* * *
 
 ## Materiales, equipos y reactivos
 
 No aplica.
 
-* * *
 
 ## Actividades y responsables
 
