@@ -56,7 +56,7 @@ Los campos de la base de datos se nombran bajo las siguientes características, 
 ### Formato estandar de entrega
 
 Las bases de datos se pueden trabajar en diversos programas como Excel para windows o mac (.xls, .xlsx), Libre office, Open office (.ods, .ots) entre otros.
-El fomato estandar de entrega debe ser en valores separador por comas (CSV) y codificado en UTF8.
+El fomato estandar de entrega debe ser en valores separados por comas (CSV) y codificado en UTF8.
 
 **Nota:** La hoja de datos (bd) debe tener columnas con nombres claros y específicos, además de contener las unidades correspondientes (si es el caso, km, mm, cm, etc.). Cualquier modificación hecha a la bd original debe estar documentada agregando un bloc de notas adjunto (README).
 
