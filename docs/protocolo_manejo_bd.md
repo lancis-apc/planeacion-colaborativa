@@ -35,7 +35,7 @@ El colaborador debe revisar en el panel de control de la computadora que en la c
 
 ### Codificación del archivo
 
-Las bases de datos deben ser trabajados y guardados en UTF8. El colaborados debe verificar que el programa donde está haciendo la base de datos tenga esta codificación.
+Las bases de datos deben ser trabajados y guardados en UTF8. El colaborador debe verificar que el programa donde está haciendo la base de datos tenga esta codificación.
 
 ### Nombrado de campos
 
@@ -50,6 +50,8 @@ Los campos de la base de datos se nombran bajo las siguientes características, 
 
 Las bases de datos se pueden trabajar en diversos programas como Excel para windows o mac (.xls, .xlsx), Libre office, Open office (.ods, .ots) entre otros.
 Las bases de datos se entregan siempre con la restricción de uso de la coma (,) o en formato de csv. 
+
+**Nota:** La hoja de datos (bd) debe tener columnas con nombres claros y específicos, además de contener las unidades correspondientes (si es el caso, km, mm, cm, etc.). Cualquier modificación hecha a la bd original debe estar documentada agregando un bloc de notas adjunto (README).
 
 ### Generación de metadatos
 
@@ -93,7 +95,7 @@ fecha= dato del ddmesaño (ver las abreviaturas de los meses, tabla 1) de cuando
 Ejemplo:
 bd_megadapt_escasez_10ago2017
 
-**Nota:** La hoja de datos (bd) debe tener columnas con nombres claros y específicos, además de contener las unidades correspondientes (si es el caso, km, mm, cm, etc.). Cualquier modificación hecha a la bd original debe estar documentada agregando un bloc de notas adjunto (README)
+
 
 
 ### Entrega de la información
