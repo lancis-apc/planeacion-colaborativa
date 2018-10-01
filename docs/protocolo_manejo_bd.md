@@ -20,9 +20,6 @@ Este protocolo se divide en los siguientes estándares que se desarrollan a cont
 * Nombrado del archivo
 * Entrega de la información
 
-```
-
-
 ## Materiales, equipos y reactivos
 
 No aplica.
@@ -103,9 +100,9 @@ bd_megadapt_escasez_10ago2017
 
 Leer el protocolo de recepción de activos de información y llenar el formato de entrega de datos, ver `lancis_fed_pcr.xlsx`, en:
 
-```
+
 ORGANIZACION_APC/apc_iso/protocolos
-```
+
 
 * * *
 
