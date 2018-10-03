@@ -105,7 +105,7 @@ bd_megadapt_escasez_10ago2017
 
 ### Entrega de la información
 
-Leer el protocolo de recepción de activos de información y llenar el formulario  [formulario](https://lancis-apc.github.io/planeacion-colaborativa/protocolo_manejo_info_gis.html)
+Leer el protocolo de recepción de activos de información y llenar el formulario [Formulario para reportar la entrega de activos de información](https://goo.gl/forms/cTrYr1Yo0BahmYc63). 
 
 * * *
 
