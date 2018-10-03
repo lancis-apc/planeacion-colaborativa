@@ -32,53 +32,11 @@ No aplica.
 
 El jefe del Área asigna a un responsable para generar la gráfica y/o mapa.
 
-Para generar una gráfica y/o un mapa en el lenguaje de R se tiene que contar con las bases de datos en formato de csv y éstas deben de tener sus respectivos metadatos (ver `lancis_fed_pcr`, en ORGANIZACION_APC/apc_iso/protocolos).
+Para generar una gráfica y/o un mapa en el lenguaje de R se tiene que contar con las bases de datos en formato de csv y éstas deben de tener sus respectivos metadatos ver, [Protocolo de recepción y entrega de activos de información](lancis_fed_pcr.html).
 
 ### Requisitos para recibir base de datos
 
-*	Llenar el formato de entrega de datos, ver `lancis_fed_pcr.xlsx`, en:
-```
-ORGANIZACION_APC/apc_iso/protocolos
-```
-* Las bases de datos deben estar contenidas en archivos de Excel (.xls, .xlsx) o Libre office (.csv).
-
-* Las bases de datos tienen que estar nombrados con el siguiente formato:
-
-  `bd_proyecto_nombre_fecha`
-
-Evitar poner cualquiera de los siguientes caracteres:
-< > ´ : " \ | / { } * ? ' @ + ~ ñ # % &
-
-Donde:
-
-bd= prefijo de base de datos
-
-proyecto= nombre del proyecto de donde proceden los datos
-
-nombre= del archivo, ya sea tema, título o algo que indique el contenido
-
-fecha= dato del ddmesaño (ver las abreviaturas de los meses, tabla 1) de cuando se envía esa versión de los datos.
-
-**Tabla 1.** Mes y abreviatura.
-
-| Mes  |	Abreviatura |
-| ---  |  :------:    |
-| enero  |	ene       |
-| marzo  |	mar       |
-| abril  |	abr       |
-| mayo   |	may       |
-| junio  |	jun       |
-| julio  |	jul       |
-| agosto |	ago       |
-| septiembre | sep    |
-| octubre |	oct       |
-| noviembre	| nov     |
-| diciembre |	dic     |
-
-Ejemplo:
-bd_megadapt_escasez_10ago2017
-
-**Nota:** La hoja de datos (bd) debe tener columnas con nombres claros y específicos, además de contener las unidades correspondientes (si es el caso, km, mm, cm, etc.). Cualquier modificación hecha a la bd original debe estar documentada agregando un bloc de notas adjunto (README)
+*	Llenar el formulario de entrega de datos, ver [Formulario para reportar la entrega de activos de información](https://goo.gl/forms/cTrYr1Yo0BahmYc63); y revisar el [Protocolo para el manejo de bases de datos](protocolo_manejo_bd.html) para conocer los estándares generales con los que deben cumplir las bases de datos.
 
 ### Nombre de las gráficas y Md:
 
