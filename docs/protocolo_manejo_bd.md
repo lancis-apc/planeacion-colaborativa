@@ -54,22 +54,15 @@ Los campos de la base de datos se nombran bajo las siguientes características, 
 
 ### Formato estandar de entrega
 
-Las bases de datos se pueden trabajar en diversos programas como Excel para windows o mac (.xls, .xlsx), Libre office, Open office (.ods, .ots) entre otros.
 El fomato estandar de entrega debe ser en valores separados por comas (CSV) y codificado en UTF8.
 
-````
-Nota: La hoja de datos (bd) debe tener columnas con nombres claros y específicos, además de contener las unidades correspondientes (si es el caso, km, mm, cm, etc.). Cualquier modificación hecha a la bd original debe estar documentada agregando un bloc de notas adjunto (README).
-````
-
-### Generación de metadatos
-
-Las bases de datos deben contar con un "glosario" adjunto donde se describa qué significa cada campo (nombre, descripción, tipo).
+Las bases de datos se pueden trabajar en diversos programas como Excel para windows o mac (.xls, .xlsx), Libre office, Open office (.ods, .ots) entre otros.
 
 ### Nombrado del archivo
 
 Las bases de datos tienen que estar nombrados con el siguiente formato:
 
-  `bd_proyecto_nombre_fecha`
+  `bd_nombre_fecha`
 
 Evitar poner cualquiera de los siguientes caracteres:
 < > ´ : " \ | / { } * ? ' @ + ~ ñ # % &
@@ -77,8 +70,6 @@ Evitar poner cualquiera de los siguientes caracteres:
 Donde:
 
 bd= prefijo de base de datos
-
-proyecto= nombre del proyecto de donde proceden los datos
 
 nombre= del archivo, ya sea tema, título o algo que indique el contenido
 
@@ -101,7 +92,39 @@ fecha= dato del ddmesaño (ver las abreviaturas de los meses, tabla 1) de cuando
 | diciembre |	dic     |
 
 Ejemplo:
-bd_megadapt_escasez_10ago2017
+bd_escasez_2017.csv
+
+### Generación de metadatos
+
+````
+Nota: La hoja de datos (bd) debe tener campos con nombres claros y específicos, además de contener las unidades correspondientes (si es el caso, km, mm, cm, etc.). Cualquier modificación hecha a la bd original debe estar documentada agregando un bloc de notas adjunto (README).
+````
+
+Las bases de datos creadas o procesadas tienen que tener un archivo txt el cual será nombrado como:
+
+readme_nombre_fecha
+
+Ejemplo: readme_escasez_2017.txt
+
+Su contenido es esl siguiente:
+
+- Título
+- Responsable
+- Fecha de creación:
+- Campos
+  - Nombre
+  - Tipo
+  - Descripción
+- Procesamiento / Método:
+- Linaje:
+
+Título: El nombre completo de lo que representa la base de datos.
+Responsable: Nombre de la persona que ha creado o procesado el recurso.
+Fecha de creación: Fecha de la creación o procesamiento de la base de datos.
+Campos: Para cada campo se describen las siguientes secciones
+  - Nombre: Nombre del campo
+  - Tipo: Tipo de campo (texto, entero, real, etc.)
+  - Descripción: Una breve descripción de lo que el campo representa. Si el campo expresa unidades debe ser específicado en esta sección.
 
 ### Entrega de la información
 
