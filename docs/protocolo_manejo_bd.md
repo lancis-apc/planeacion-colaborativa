@@ -16,8 +16,8 @@ Este protocolo se divide en los siguientes estándares que se desarrollan a cont
 * Codificación del archivo
 * Nombrado de campos
 * Formato estandar de entrega
-* Generación de metadatos
 * Nombrado del archivo
+* Generación de metadatos
 * Entrega de la información
 
 ## Materiales, equipos y reactivos
@@ -73,40 +73,17 @@ bd= prefijo de base de datos
 
 nombre= del archivo, ya sea tema, título o algo que indique el contenido
 
-fecha= dato del ddmesaño (ver las abreviaturas de los meses, tabla 1) de cuando se envía esa versión de los datos.
-
-**Tabla 1.** Mes y abreviatura.
-
-| Mes  |	Abreviatura |
-| ---  |  :------:    |
-| enero  |	ene       |
-| marzo  |	mar       |
-| abril  |	abr       |
-| mayo   |	may       |
-| junio  |	jun       |
-| julio  |	jul       |
-| agosto |	ago       |
-| septiembre | sep    |
-| octubre |	oct       |
-| noviembre	| nov     |
-| diciembre |	dic     |
-
 Ejemplo:
 bd_escasez_2017.csv
 
 ### Generación de metadatos
-
-````
-Nota: La hoja de datos (bd) debe tener campos con nombres claros y específicos, además de contener las unidades correspondientes (si es el caso, km, mm, cm, etc.). Cualquier modificación hecha a la bd original debe estar documentada agregando un bloc de notas adjunto (README).
-````
-
 Las bases de datos creadas o procesadas tienen que tener un archivo txt el cual será nombrado como:
 
 readme_nombre_fecha
 
 Ejemplo: readme_escasez_2017.txt
 
-Su contenido es esl siguiente:
+Su contenido es el siguiente:
 
 - Título
 - Responsable
@@ -119,15 +96,23 @@ Su contenido es esl siguiente:
 - Linaje:
 
 Título: El nombre completo de lo que representa la base de datos.
+
 Responsable: Nombre de la persona que ha creado o procesado el recurso.
+
 Fecha de creación: Fecha de la creación o procesamiento de la base de datos.
+
 Campos: Para cada campo se describen las siguientes secciones
   - Nombre: Nombre del campo
   - Tipo: Tipo de campo (texto, entero, real, etc.)
   - Descripción: Una breve descripción de lo que el campo representa. Si el campo expresa unidades debe ser específicado en esta sección.
 
+Procesamiento / Método: Describir los pasos realizados para la creación o procesamiento de la información.
+
+Linaje: Fuente de los datos.
+
 ### Entrega de la información
 
+La base de datos debe de estar en formato CSV y codificada en UTF8. Se entrega junto con el metadato.
 Leer el protocolo de recepción de activos de información y llenar el formulario [Formulario para reportar la entrega de activos de información](https://goo.gl/forms/cTrYr1Yo0BahmYc63). 
 
 * * *
