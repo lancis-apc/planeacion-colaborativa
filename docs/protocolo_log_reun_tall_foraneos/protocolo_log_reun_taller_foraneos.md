@@ -75,7 +75,7 @@ Dependiendo del tipo de reunión y/o taller se realizarán alguna o todas de las
 *	Desarrollar el orden del día
 *	Imprimir lista de asistencia
 *	Determinar los materiales para la reunión y/o taller (ver lista de materiales)
-* Hacer trámites de salida (formatos de salida y de seguros de equipo, seguros de viajero)
+* Hacer trámites de salida ([vale de entrada y salida de equipo y mobiliario](http://web.ecologia.unam.mx/index.php/formatos-secretaria-administrativa), seguros de equipo, seguros de viajero)
 
 Formato registro de asistentes
 
@@ -88,28 +88,20 @@ Formato de registro de reunión (minuta)
 ORGANIZACION_APC/apc_iso/formatos_lista_asistencia/FRR_SGC VER 1.docx
 ```
 
-Vale de entrada y salida de equipo y mobiliario
-```
-http://web.ecologia.unam.mx/index.php/formatos-secretaria-administrativa
-```
-
 **Procedimiento de seguros de salida de equipo**
 
 El trámite del seguro del equipo se tramita con 7 días hábiles previos a la salida en la Secretaría Administrativa y se hace mediante una carta dirigida al Secretario Administrativo en turno, ver el ejemplo de la carta.
 
 ![](carta_seguro_equipo.PNG)
 
-**Procedimiento de seguros de viajero**
+[**Procedimiento de seguros de viajero**](http://web.ecologia.unam.mx/index.php/formatos-secretaria-administrativa)
 
 *Académicos y técnicos*, se tiene que tramitar el "Seguro de vida nacional y extranjero Metlife", el cual se encuentra en la sección de Formatos Secretaría Administrativa de la página del Instituto de Ecología.
 
 *Estudiantes*, se debe tramitar la póliza para prácticas de campo.
 
-Los formatos se encuentran en la siguiente liga y deberán tramitarse 5 días hábiles previos a la salida:
+Los trámites se deberán realizar con 5 días hábiles previos a la salida
 
-```
-http://web.ecologia.unam.mx/index.php/formatos-secretaria-administrativa
-```
 
 Para activar la póliza es encesario entregar en la Secretaría Administrativa el formato de prácticas de campo llenado debidamente y firmado por el investigador responsable, y una copia de la identificación oficial (INE o pasaporte vigente) por cada alumno que va a participar en las reuniones y/o talleres fóraneos.
 
