@@ -94,13 +94,13 @@ El trámite del seguro del equipo se tramita con 7 días hábiles previos a la s
 
 ![](carta_seguro_equipo.PNG)
 
-[**Procedimiento de seguros de viajero**](http://web.ecologia.unam.mx/index.php/formatos-secretaria-administrativa)
+**Procedimiento de seguros de viajero**
 
 *Académicos y técnicos*, se tiene que tramitar el "Seguro de vida nacional y extranjero Metlife", el cual se encuentra en la sección de Formatos Secretaría Administrativa de la página del Instituto de Ecología.
 
 *Estudiantes*, se debe tramitar la póliza para prácticas de campo.
 
-Los trámites se deberán realizar con 5 días hábiles previos a la salida
+Los trámites se deberán realizar con 5 días hábiles previos a la salida; los formatos se encuentran en la página del [Instituto de Ecología - UNAM](http://web.ecologia.unam.mx/index.php/formatos-secretaria-administrativa)
 
 
 Para activar la póliza es encesario entregar en la Secretaría Administrativa el formato de prácticas de campo llenado debidamente y firmado por el investigador responsable, y una copia de la identificación oficial (INE o pasaporte vigente) por cada alumno que va a participar en las reuniones y/o talleres fóraneos.
