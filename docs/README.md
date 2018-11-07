@@ -47,7 +47,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 * [Protocolo de desarrollo de software](protocolo_software.html)
 * [Protocolo para el manejo de la información geográfica](protocolo_manejo_info_gis.html)
 * [Protocolo para el manejo de bases de datos](protocolo_manejo_bd.html)
-* [Protocolo de logística para reuniones y/o talleres externos](.html)
+* [Protocolo de logística para reuniones y/o talleres externos](protocolo_log_reun_tall_foraneos/protocolo_log_reun_taller_foraneos.html)
 
 # Manuales
 * [Manual de procedimiento del servicio social](manual_servicio_social.html)
