@@ -428,7 +428,7 @@ En caso de que la materia no sea obligatoria y se repita cada año, la carpeta g
 
 Toda información de un proyecto activo debe quedar respaldada en el DropBox, y semanalmente hacer respaldo en un disco duro externo que se haya designado previamente.
 
-#### Responsables de hacer respaldos de activos de Información
+#### Responsables de hacer respaldos de activos de información
 
 * Responsable de la gestión de activos de información de Proyectos
 * Responsable de la gestión de activos de información de carpetas del Dropbox que no sean proyectos
@@ -444,7 +444,7 @@ El responsable de administración tendrá un disco exclusivo para resguardo de l
 
 Los técnicos por proyecto y estudiantes tendrán un disco duro asignado para resguardo de sus carpetas de trabajo.
 
-#### Actividades para resguardar activos de Información
+#### Actividades para resguardar activos de información
 
 * Etiquetar los discos con la fecha de inicio de uso y su contenido (nombre de proyectos o carpetas)
 * Respaldar los activos de información en la carpeta establecida previamente para tal propósito
@@ -453,5 +453,12 @@ Los técnicos por proyecto y estudiantes tendrán un disco duro asignado para re
 * Verificar que la información de proyectos antiguos estén en el DropBox. Si no lo están, hacer dos redundancias en discos duros externos. Si está solo se hace una réplica en disco. Esto sólo aplica al hacer reorganización de discos duros externos.
 
 Al termino de un proyecto, se debe respaldar la información en dos discos duros externos y eliminar la carpeta del DropBox.
+
+#### Software para respaldar 
+
+Para respaldar los activos de información en discos duros se usará el software Acronis para hacer respaldos automatizados.
+Esquemas para respaldar los activos de información
+Respaldo semestral de todo el repositorio de Dropbox.
+
 
 * * *
