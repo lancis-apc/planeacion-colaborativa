@@ -454,10 +454,15 @@ Los técnicos por proyecto y estudiantes tendrán un disco duro asignado para re
 
 Al termino de un proyecto, se debe respaldar la información en dos discos duros externos y eliminar la carpeta del DropBox.
 
-#### Software para respaldar 
+#### Software para respaldar en discos duros externos
 
-Para respaldar los activos de información en discos duros se usará el software Acronis para hacer respaldos automatizados.
-Esquemas para respaldar los activos de información
+Para respaldar los activos de información en discos duros se usará el software Acronis para hacer respaldos automatizados. [Ver video de uso del Acronis]().
+
+##### Esquemas para respaldar los activos de información de acuerdo a proyectos.
+
+Los activos de información se respaldarán de acuerdo a sus características intrinsecas con esquemas diferenciales que el software ofrece.
+
+
 Respaldo semestral de todo el repositorio de Dropbox.
 
 
