@@ -456,7 +456,7 @@ Al termino de un proyecto, se debe respaldar la información en dos discos duros
 
 #### Software para respaldar en discos duros externos
 
-Para respaldar los activos de información en discos duros se usará el software Acronis para hacer respaldos automatizados. [Ver video de uso del Acronis]().
+Para realizar los respaldos de manera automatizada de los activos de información en discos duros se usará el software Acronis. [Ver video de uso del Acronis]().
 
 ##### Esquemas para respaldar los activos de información de acuerdo a proyectos.
 
@@ -466,9 +466,9 @@ Los activos de información se respaldarán de acuerdo a sus características in
 
 2. Esquema de cadena de versiones: Cadena de versiones completas e incrementales. Elimina las versiones anteriores a un mes. Este tipo de esquema aplica para activos de información que tienen actividad continua pero no es intensa en cantidad de información que se genera y que se tiene que respaldar. Ejem. Carpeta servicio_social, carpeta ss_oipa, Carpeta OIPA
 
-3. Esquema incremental: Versión incremental, almacena sólo los cambios.
+3. Esquema incremental: Versión incremental, almacena sólo los cambios. Ejemplo: Carpeta MEGADAPT, Carpeta PAPIIT, Carpeta CONSOLIDACIÓN
 
-4. Esquema diferencial: Versión diferencial, almacena los cambios que han ocurrido desde la última versión completa. Este tipo de esquema aplica para activos de información que tienen temporadas de mucha actividad y luego se inactivan por tiempos largos o que se respaldan nuevos activos esporádicamente. Ejem. Carpeta ADMIN, ADMIN/admin_propuestas, Carpeta POSGRADO, Carpeta PRESENTACIONES, Carpeta OTROS, Carpeta ORGANIZACION_APC
+4. Esquema diferencial: Versión diferencial, almacena los cambios que han ocurrido desde la última versión completa. Este tipo de esquema aplica para activos de información que tienen temporadas de mucha actividad y luego se inactivan por tiempos largos o que se respaldan nuevos activos esporádicamente. Ejem. Carpeta ADMIN, ADMIN/admin_propuestas, Carpeta POSGRADO, Carpeta PRESENTACIONES, Carpeta OTROS, Carpeta ORGANIZACION_APC, Carpeta SOFTWARE
 
 Las personas responsables de los activos de información del repositorio de Dropbox respaldarán todo su contenido semestralmente (junio y diciembre).
 
