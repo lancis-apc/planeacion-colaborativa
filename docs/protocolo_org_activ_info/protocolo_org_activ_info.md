@@ -464,7 +464,7 @@ Los activos de información se respaldarán de acuerdo a sus características in
 
 1. Esquema de versión única: Versión completa y la **sobreescribe** cada vez. Ejemplo: Carpeta SIG. Este esquema se realiza dos veces al año (junio, diciembre).
 
-2. Esquema de cadena de versiones: Cadena de versiones completas e incrementales. **Elimina las versiones anteriores a un mes**. Este tipo de esquema aplica para activos de información que tienen actividad continua pero no es intensa en cantidad de información que se genera y que se tiene que respaldar.
+2. Esquema de cadena de versiones: Cadena de versiones completas e incrementales. **Elimina las versiones anteriores a un mes**. Este tipo de esquema aplica para activos de información que tienen actividad continua pero no es intensa en cantidad de información que se genera y que se tiene que respaldar. Ejemplo CARPETAS_TRABAJO.
 
 3. Esquema incremental: Versión incremental, **almacena sólo los cambios**. Ejemplo: Carpeta MEGADAPT, Carpeta PAPIIT, Carpeta CONSOLIDACIÓN, Carpeta servicio_social, carpeta ss_oipa, Carpeta OIPA. Este esquema se realiza una vez a la semana.
 
