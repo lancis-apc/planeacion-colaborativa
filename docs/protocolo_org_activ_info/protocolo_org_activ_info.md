@@ -462,7 +462,7 @@ Para realizar los respaldos de manera automatizada de los activos de informació
 
 Los activos de información se respaldarán de acuerdo a sus características intrínsecas con esquemas diferenciales que el software ofrece. A continuación se describen los esquemas y se explican qué tipo de activos de información aplican para cada uno de los esquemas.
 
-1. Esquema de versión única: Versión completa y la **sobreescribe** cada vez. Ejemplo: Carpeta SIG. Este esquema se realiza dos veces al año (junio, diciembre).
+1. Esquema de versión única o completa: Versión completa y la **sobreescribe** cada vez. Ejemplo: Carpeta SIG. Este esquema se realiza dos veces al año (junio, diciembre).
 
 2. Esquema de cadena de versiones: Cadena de versiones completas e incrementales. **Elimina las versiones anteriores a un mes**. Este tipo de esquema aplica para activos de información que tienen actividad continua pero no es intensa en cantidad de información que se genera y que se tiene que respaldar. Ejemplo CARPETAS_TRABAJO.
 
