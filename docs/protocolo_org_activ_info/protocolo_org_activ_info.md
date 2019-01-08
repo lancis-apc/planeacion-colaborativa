@@ -456,21 +456,21 @@ Al termino de un proyecto, se debe respaldar la información en dos discos duros
 
 #### Software para respaldar en discos duros externos
 
-Para realizar los respaldos de manera automatizada de los activos de información en discos duros se usará el software Acronis. [Ver video de uso del Acronis]().
+Para realizar los respaldos de manera automatizada de los activos de información en discos duros se usará el software Acronis. [Ver video de uso de Acronis]().
 
 #### Esquemas para respaldar los activos de información de acuerdo a proyectos.
 
-Los activos de información se respaldarán de acuerdo a sus características intrínsecas con esquemas diferenciales que el software ofrece. A continuación se describen los esquemas y se explican qué tipo de activos de información aplican para cada uno de los esquemas.
+Los activos de información se respaldarán de acuerdo a sus características intrínsecas con esquemas diferenciales que el software ofrece. En la tabla siguiente se describen los esquemas y se explican qué tipo de activos de información aplican para cada uno de los esquemas.
 
-1. Esquema de versión única o completa: Versión completa y la **sobreescribe** cada vez. Ejemplo: Carpeta SIG. Este esquema se realiza dos veces al año (junio, diciembre).
+![Figura 3](tabla_modos_respaldo.png)
+**Figura 3.** Tabla explicativa de modos de respaldo.
 
-2. Esquema de cadena de versiones: Cadena de versiones completas e incrementales. **Elimina las versiones anteriores a un mes**. Este tipo de esquema aplica para activos de información que tienen actividad continua pero no es intensa en cantidad de información que se genera y que se tiene que respaldar. Ejemplo CARPETAS_TRABAJO.
+1. Completa: Se utilizará para el respaldo semestral de los activos de información (junio y diciembre).
 
-3. Esquema incremental: Versión incremental, **almacena sólo los cambios**. Ejemplo: Carpeta MEGADAPT, Carpeta PAPIIT, Carpeta CONSOLIDACIÓN, Carpeta servicio_social, carpeta ss_oipa, Carpeta OIPA. Este esquema se realiza una vez a la semana.
+2. Incremental: Este tipo de esquema se sugiere para respaldar las carpetas de trabajo personales.
 
-4. Esquema diferencial: Versión diferencial, **almacena los cambios que han ocurrido desde la última versión completa**. Este tipo de esquema aplica para activos de información que tienen temporadas de mucha actividad y luego se inactivan por tiempos largos o que se respaldan nuevos activos esporádicamente. Ejem. Carpeta ADMIN, ADMIN/admin_propuestas, Carpeta POSGRADO, Carpeta PRESENTACIONES, Carpeta OTROS, Carpeta ORGANIZACION_APC, Carpeta SOFTWARE
+3. Diferencial: En este esquema Se respaldarán las siguientes carpetas: Carpeta MEGADAPT, Carpeta PAPIIT, Carpeta CONSOLIDACIÓN, Carpeta servicio_social, carpeta ss_oipa, Carpeta OIPA, Carpeta ADMIN, Carpeta PRESENTACIONES, Carpeta ORGANIZACION_APC, Carpeta SOFTWARE. El respaldo se realiza una vez a la semana.
 
 Las personas responsables de los activos de información del repositorio de Dropbox respaldarán todo su contenido semestralmente (junio y diciembre).
-
 
 * * *
