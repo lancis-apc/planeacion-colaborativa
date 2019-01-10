@@ -49,7 +49,7 @@
 
 El proceso de gestión de actividades consiste en que:
 
-* Los colaboradores del APC deben de registrar sus actividades en el GitHub y en el registro de actividades (google drive) para técnicos por proyecto
+* Los colaboradores del APC y los técnicos por proyecto tienen que registrar sus actividades en el GitHub, además de este registo, los técnicos por proyecto tienen que escribir sus actividades en la hoja de registro de actividades (google drive)
 * Estas actividades se revisan y se asignan por el coordinador en reunión cada semana para que se puedan asignar prioridades
 
 Dichas actividades pueden:
@@ -58,11 +58,10 @@ Dichas actividades pueden:
 2. Ser resultado de una solicitud externa (ver `protocolo de petición de servicios`)
 3. Ser resultado de una solicitud interna (ver `protocolo de petición de servicios`)
 
-Este tipo de actividades tienen que estar pre aprobadas por el coordinador.
+Este tipo de actividades tienen que estar aprobadas por el coordinador.
 
-Las tareas asignadas finalizadas deben ser verificadas antes de la entrega (ver `Procedimiento de verificación de productos`)
+Las tareas finalizadas tienen que ser verificadas antes de la entrega (ver `Procedimiento de verificación de productos`)
 
-**Nota:** Las actividades deben estar registradas tanto en el GitHub como en el registro de actividades.
 
 ### Uso del GitHub
 
@@ -80,16 +79,18 @@ El repositorio a usar en la organización y comunicación de las actividades pro
 
 #### Reglas para el uso del GitHub
 
-Los colaboradores tienen que registrar sus actividades en "issues" al iniciarlas y seguir el `Reglamento de uso de GitHub y DropBox` para crear y dar seguimiento a los "issues".
+Los colaboradores tienen que registrar sus actividades en "issues" y seguir el `Reglamento de uso de GitHub y DropBox` para crear y dar seguimiento a los "issues".
 
-### Registro de actividades y entregables
+### Registro de actividades y entregables (google drive)
 
-En esta hoja los colaboradores además de registrar las mismas actividades que han registrado en el GitHub deben de registrar:
+En esta hoja los técnicos por proyecto además de registrar las mismas actividades que han registrado en el GitHub tienen que registrar:
 
-* Fecha, solo se indica el inicio de la semana
+* Semana, solo se indica la fecha del inicio de la semana
+* Objetivo semanal, se indica la meta que se tiene para esa semana
 * Proyecto, indicar a qué proyecto pertece la actividad
+* Repositorios, se indica el repositorio del GitHub en el que se encuentra el issue
 * Issue, indicar el número del issue de la actividad en el GitHub
-* Actividad, seguir el formato de GitHub
+* Actividad, descripción breve de la actividad a realizar (seguir el formato de GitHub)
 * Meta, enunciado que indica la función de la actividad dentro de la prioridades del laboratorio
 * Producto entregable, es el producto resultado de la actividad
 * Tiempo programado, reportar en horas o fracciones de horas
@@ -99,11 +100,13 @@ En esta hoja los colaboradores además de registrar las mismas actividades que h
 * Tipo de entregable, indicar si el producto es un manuscrito, gráfica, figura, información, carpeta organizada, base de datos
 * Comentarios, si fuera necesario señalar el por qué del progreso
 
-#### Boletín informativo de revisión de actividades
+### Boletín informativo de revisión de actividades
 
 Este boletín se generará como un "issue" en GitHub. El objetivo es mantener informado al investigador responsable de proyectos del estatus de los proyectos que se realizan en APC. De esta forma, el investigador responsable definirá las actividades y prioridades de trabajo, y atenderá las actividades urgentes de resolver.
 
-Este boletín se hará cada semana independientemente que se tenga reunión con el investigador responsable. A continuación se describen sus características:
+Este boletín se hará cada semana independientemente que se tenga reunión con el investigador responsable. 
+
+A continuación se describen sus características:
 
 * Título: "SUPREMO: Revisar prioridades de la semana #Organización-APC"
 * Asignación: Asignar a al coordinador(a) del equipo de trabajo
@@ -131,13 +134,15 @@ Los repositorios que tenemos en el APC se dividen en:
 * Temporales
   * Storage
   * Cluster
-  * magrat
+  * Servidor
 
-Es obligatorio que los archivos se trabajen y guarden directamente en el DropBox. De inicio se puede trabajar en la carpeta personal y cuando se tenga el producto final se moverá a la carpeta del proyecto que le corresponda.
+Es obligatorio que todos los colaboradore trabajen y guarden sus archivos directamente en los repositorios permanentes.
+
+De inicio se puede trabajar en los espacio de trabajo personales que se encuentra en el Dropbox, y cuando se tenga el producto final se moverá a la carpeta del proyecto que le corresponda o también se puede trabajar de inicio en un espacio de trabajo solocitado en la carpeta del proyecto.
 
 ### Organización del DropBox
 
-El DropBox está organizado por carpetas principales que corresponden al proyecto principal y las cuales están nombradas en mayúsculas, ejemplo:
+El DropBox está organizado por carpetas principales que corresponden a los proyectos principales, las cuales están nombradas en mayúsculas, por ejemplo:
 
 ```
 DropBox (LNCS)\
@@ -180,7 +185,7 @@ Para reorganizar la información que se encuentra en las carpetas del DropBox se
 2. Eliminar las ligas y desvincular cuentas de la carpeta.
 3. Descargar la carpeta a una computadora local para poder manipularla y hacer los cambios necesarios.
 4. Hacer respaldo de la carpeta antes de modificarla en un disco duro externo.
-5. Una vez que ya se tenga la carpeta organizada conforme al presente procedimiento, se tiene que eliminar la carpeta del DropBox para poder volver a subir la carpeta ya organizada. Es importante asegurarse que se tienen respaldadas las carpetas, tanto la organizada como la desorganizada, en un disco duro
+5. Una vez que la carpeta esté organizada conforme al presente procedimiento, se tiene que eliminar la carpeta del DropBox para poder volver a subir la carpeta ya organizada. Es importante asegurarse que se tienen respaldadas las carpetas, tanto la organizada como la desorganizada, en un disco duro externo
 6. Sincronizar la carpeta arreglada
 7. Mandar aviso a los colaboradores de que ya se encuentra en el DropBox la carpeta organizada.
 
@@ -211,9 +216,9 @@ Los colaboradores tienen que seguir las siguientes indicaciones:
 
 * El equipo (computadoras y pantallas) tiene que estar desconectado al final del día, fines de semana y periodos vacacionales
 * El equipo (computadoras y pantallas) tiene que estar bajo llave o con candado
-* No dejar alimentos en nuestro lugar y cajones en periodos vacacionales
+* No dejar alimentos en los lugares de trabajo y cajones en periodos vacacionales
 * Se puede tener acceso al uso del refrigerador con la condición de que participes en el rol de la limpieza y que al final de la semana no queden toppers con comida
-* Dentro del área de Planeación Colaborativa el uso de la tarja está clausurado
+* Dentro del Área de Planeación Colaborativa el uso de la tarja está clausurado
 * La tarja que se encuentra en el pasillo está condicionada a no dejar trastes remojando en el área de la tarja y a no dejar trastes escurriendo sobre el escurridor, de lo contrario se van a tirar a la basura
 
 * * *
