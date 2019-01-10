@@ -30,7 +30,7 @@ No aplica.
 
 ## Actividades y responsables
 
-El jefe del Área asigna a un responsable para generar la gráfica y/o mapa.
+El responsable del proyecto o del producto asigna a un responsable para generar la gráfica y/o mapa proporcionando la base de datos correspondiente.
 
 Para generar una gráfica y/o un mapa en el lenguaje de R se tiene que contar con las bases de datos en formato de csv y éstas deben de tener sus respectivos metadatos ver, [Protocolo de recepción y entrega de activos de información](lancis_fed_pcr.html).
 
@@ -62,7 +62,7 @@ pre_analisis_nombre del tema o archivo que se trabaja_fecha
 
 Los Md deben de tener la siguiente información:
 
-* Información correspondiente a la cadena de custodia de los datos (ver `plantilla_md`)
+* Información correspondiente a la cadena de custodia de los datos (ver `plantilla_md`). Esta información debe ser proporcionada por el responsable del proyecto o del producto.
 
   * __Proyecto,__ nombre del proyecto
   * __Entrega,__ es la información del colaborador que está entregando activos de información
