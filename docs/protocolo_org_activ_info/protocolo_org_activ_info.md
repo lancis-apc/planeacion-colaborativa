@@ -53,7 +53,7 @@ Asimismo, también es factible crear archivos README para subcarpetas dentro del
 
 #### Nombre de las carpetas y archivos de cualquier activo de información
 
-El nombre de los archivos no debe llevar espacios, ni acentos, ni caracteres especiales restringidos:
+El nombre de los archivos debe ser en minúsculas y no debe llevar espacios, ni acentos, ni caracteres especiales restringidos:
 
  `# % & \ / { } < > * ? " ' : @ | +`
 
@@ -62,13 +62,12 @@ En lugar de espacios se usarán guiones bajos entre palabras.
 Asímismo el nombre del archivo deberá incorporar en el siguiente orden:
 
 1. Clave o prefijo
-2. Nombre del proyecto principal
-3. Descripción, tema o contenido
+2. Descripción, tema o contenido
 
  Para archivos con versiones en revisión deberán incluirse además:
 
-4. Fecha
-5. Iniciales de quien modifica la versión.
+3. Fecha
+4. Iniciales de quien modifica la versión.
 
 Como muestra, véase el siguiente ejemplo:
 
@@ -114,7 +113,7 @@ En algunos casos el requerimiento del prefijo puede parecer ocioso, más si cons
 
 | Extensión | Descripción |
 | --- | --- |
-| AI  | Adobe Illustrator |
+| ai | Adobe Illustrator |
 | xls  | Excel |
 | psd  | Photoshop |
 | etc | etc |
@@ -138,13 +137,13 @@ Se espera una descripción clara y lo más concisa posible del contenido del mis
 
 Como parte de la descripción se pueden especificar subcategorías cuando se considere necesario, por ejemplo, cuando se trate de un Esquema o de un Timeline, etc.
 
- _Ejemplo:_ `Fi_Megadapt_Esquema_Resiliencia.png`.
+ _Ejemplo:_ `fi_esquema_resiliencia.png`.
 
- Es importante evitar ambigüedades y ser tanto demasiado genérico como demasiado espacífico. Así, evitaremos llamar a algo `Base_de_datos.xls` o bien `Bd_Base_de_datos_encharcamientos_por_delegaciones_para_mes_de_mayo.csv`.
+ Es importante evitar ambigüedades y ser tanto demasiado genérico como demasiado espacífico. Así, evitaremos llamar a algo `base_de_datos.xls` o bien `bd_base_de_datos_encharcamientos_por_delegaciones_para_mes_de_mayo.csv`.
 
 En el caso de presentaciones, la descripción del contenido viene dada por el destinatario (a quién se presenta) y la fecha de presentación, o bien, si se trata de versiones (ediciones) del mismo archivo, la fecha de la versión y las iniciales de quien modifica (véase Figura 2).
 
-_Ejemplo:_ `Pr_Megadapt_Presentacion_Espejo_Yucatan_29marzo2017.png`.
+_Ejemplo:_ `pr_espejo_yucatan_29mar2017.pdf`.
 
 #### Versiones de archivos
 
