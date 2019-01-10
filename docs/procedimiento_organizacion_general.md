@@ -49,19 +49,20 @@
 
 El proceso de gestión de actividades consiste en que:
 
-* Los colaboradores del APC deben de registrar sus actividades en el GitHub y en el registro de actividades (google drive)
-* Estas actividades se tienen que revisar con el coordinador cada semana para que puedan asignar prioridades
+* Los colaboradores del APC deben de registrar sus actividades en el GitHub y en el registro de actividades (google drive) para técnicos por proyecto
+* Estas actividades se revisan y se asignan por el coordinador en reunión cada semana para que se puedan asignar prioridades
 
 Dichas actividades pueden:
 
 1. Resultar en una solicitud de diseño (ver `protocolo de solicitud de diseño`)
 2. Ser resultado de una solicitud externa (ver `protocolo de petición de servicios`)
+3. Ser resultado de una solicitud interna (ver `protocolo de petición de servicios`)
 
 Este tipo de actividades tienen que estar pre aprobadas por el coordinador.
 
-Las tareas asignadas tienen que estar verificadas antes de la entrega (ver `Procedimiento de verificación de productos`)
+Las tareas asignadas finalizadas deben ser verificadas antes de la entrega (ver `Procedimiento de verificación de productos`)
 
-**Nota:** Deben de estar las misma actividades tanto en el GitHub como en el registro de actividades.
+**Nota:** Las actividades deben estar registradas tanto en el GitHub como en el registro de actividades.
 
 ### Uso del GitHub
 
@@ -79,7 +80,7 @@ El repositorio a usar en la organización y comunicación de las actividades pro
 
 #### Reglas para el uso del GitHub
 
-Los colaboradores tienen que registrar sus actividades en "issues" y seguir el `Reglamento de uso de GitHub y DropBox` para crear y dar seguimiento a los "issues".
+Los colaboradores tienen que registrar sus actividades en "issues" al iniciarlas y seguir el `Reglamento de uso de GitHub y DropBox` para crear y dar seguimiento a los "issues".
 
 ### Registro de actividades y entregables
 
@@ -113,6 +114,8 @@ Este boletín se hará cada semana independientemente que se tenga reunión con 
    * *Prioridad muy alta.* Significa que no se puede continuar con las actividades si el investigador responsable no atiende las actividades.
    * *Prioridad intermedia.* Significa que las actividades pueden seguir haciendose por parte de los colaboradores, pero es necesario que el investigador responsable retroalimente, tome decisiones y ayude en el proceso de elaboración.
    * *Notificaciones.* Se enumeran las actividades por proyecto que están en proceso y/o ya se concluyeron y los productos están listos.No se requiere de la intervención del investigador responsable.
+  * Al describir las actividades utilizar la opción de lista de actividades ("task list") y al final de la descripción se debe señalar a la persona responsable y vincular la actividad con el número de "issue" correspondiente (ejem. #790).
+  
 * * *
 
 ## Gestión de activos de información
@@ -154,7 +157,7 @@ DropBox (LNCS)\
 └── PUBLICACIONES\
 ```
 
-Se tienen que seguir ciertas reglas para algunas subcarpetas:
+Para las siguientes carpetas se deben seguir ciertas reglas:
 
 **PUBLICACIONES**
   * En la carpeta `PUBLICACIONES/preparacion_articulo`, las subcarpetas que se incorporen tiene que nombrarse: `journal_año`, ejemplo: sesmo_2018
@@ -192,7 +195,7 @@ Si el proyecto está terminado, se debe de respaldar la información en dos disc
 
 ### Organización de activos de información
 
-Para conocer la forma de organizar todos los tipos de activos de información generados por APC se cuenta con un protocolo (ver `Protocolo de organización de presentaciones`)
+Para conocer la forma de organizar todos los tipos de activos de información generados por APC se cuenta con un protocolo (ver `Protocolo de activos de información`)
 
 * * *
 
