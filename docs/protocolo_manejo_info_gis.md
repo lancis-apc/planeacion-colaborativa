@@ -16,11 +16,15 @@ Este protocolo se divide en:
 - [Catálogo de datos geográficos.](#catalogo)
 
 ## Materiales, equipos y reactivos
-- GeoNetwork
+
+No aplica
 
 ## Actividades y responsables
 
+No aplica
+
 ### Recepción de la información {#recepcion}
+
 Los usuarios deberán ocupar el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScmUS8yb5Pc9GUc3KTt_14wONsRa9sdJI0-Qcq8M2Z2_fU2vA/viewform?usp=sf_link) para reportar la entrega de la información al responsable de los repositorios de SIG
 
 Una vez enviado se validará la información entregada y se notificará si es aprobada o si necesita modificaciones.
@@ -43,23 +47,21 @@ Los aspectos a revisar son los siguientes:
 
 ### Política de gestión de la información geográfica en directorios {#gestion}
 
-Hay tres repositorios(en proceso de aprobación)
+Se cuenta con tres repositorios:
+
+ 1. Insumos - los metadatos de las capas de este repositorio serán incorporados al catálogo digital de APC (GeoNetwork)
+ 2. Desarrollo - los metadatos de las capas verificadas de este repositorio serán incorporados al catálogo digital de APC (GeoNetwork)
+ 3. Proyectos - los metadatos de las capas de este repositorio serán incorporados al catálogo digital de APC (GeoNetwork).
 
 Lugar de almacenamiento: Dropbox.
 
 ```
-
 DropBox (LNCS)\
 └── SIG\
   └── insumos\
   └── desarrollo\
   └── proyectos\
 ```
-
- 1. Insumos - los metadatos de las capas de este repositorio serán incorporados al catálogo digital de APC (GeoNetwork)
- 2. Desarrollo - los metadatos de las capas verificadas de este repositorio serán incorporados al catálogo digital de APC (GeoNetwork)
- 3. Proyectos - los metadatos de las capas de este repositorio serán incorporados al catálogo digital de APC (GeoNetwork).
-
 
 #### 1. Repositorio insumos
 
@@ -81,12 +83,12 @@ DropBox (LNCS)\
 ```
 
 
-Dónde temática de acuerdo a la NOM-ISO-19115 corresponde a:
+La clasificación de la temática es de acuerdo a la NOM-ISO-19115:
 
 1. Agricultura
 2. Biota
 3. Límites
-4. Atmosfera, meteorología, climatología (amc)
+4. Atmósfera, meteorología, climatología (amc)
 5. Economía
 6. Elevación
 7. Medio ambiente (ambiente)
@@ -96,34 +98,34 @@ Dónde temática de acuerdo a la NOM-ISO-19115 corresponde a:
 11. Inteligencia militar (im)
 12. Aguas interiores (agua)
 13. Localización
-14. Oceanos
+14. Océanos
 15. Planeamiento catastral (catastro)
 16. Sociedad
 17. Estructura
 18. Transporte
 19. Redes de suministro (infraestructura)
 
-| Categorias temáticas |	Definición |
+| Categorías temáticas |	Definición |
 |:---------------------: | :-----------: |
-|Agricultura | Crianza de animales y / o cultivo de plantas Ejemplos: agricultura, riego, acuicultura, plantaciones, pastoreo, plagas y enfermedades que afectan los cultivos y el ganado. |
-| Biota	| Flora y / o fauna en ambiente natural Ejemplos: vida silvestre, vegetación, ciencias biológicas, ecología, vida silvestre, vida marina, humedales, hábitat. |
+|Agricultura | Crianza de animales y / o cultivo de plantas. Ejemplos: agricultura, riego, acuicultura, plantaciones, pastoreo, plagas y enfermedades que afectan los cultivos y el ganado. |
+| Biota	| Flora y / o fauna en ambiente natural. Ejemplos: vida silvestre, vegetación, ciencias biológicas, ecología, vida silvestre, vida marina, humedales, hábitat. |
 | Límites	| Descripciones legales de la tierra   Ejemplos: límites políticos y administrativos. |
-| Atmosfera, meteorología, climatología	| Procesos y fenómenos de la atmósfera Ejemplos: nubosidad, clima, condiciones atmosféricas, cambio climático, precipitación.
-| Economía | Actividades económicas, condiciones y empleo Ejemplos: producción, trabajo, ingresos, comercio, industria, turismo y ecoturismo, silvicultura, pesca, caza comercial o de subsistencia, exploración y explotación de recursos como minerales, petróleo y gas. |
-| Elevación | Altura por encima o por debajo del nivel del mar Ejemplos: altitud, batimetría, modelos digitales de elevación, pendiente, productos derivados.
-| Medio ambiente | Recursos ambientales, protección y conservación Ejemplos: contaminación ambiental, almacenamiento y tratamiento de residuos, evaluación del impacto ambiental, monitoreo del riesgo ambiental, reservas naturales, paisajes.|
-| Información geocientífica	| Información relacionada con las ciencias de la tierra Ejemplos: características y procesos geofísicos, geología, minerales, ciencias relacionadas con la composición, estructura y origen de las rocas de la tierra, riesgos de terremotos, actividad volcánica, derrumbes, información de gravedad, suelos, permafrost, hidrogeología, erosión. |
-| Salud	| Salud, servicios de salud, ecología humana y seguridad Ejemplos: enfermedad y enfermedad, factores que afectan la salud, la higiene, el abuso de sustancias, la salud mental y física, los servicios de salud.|
-| Cobertura de la tierra con mapas básicos e imágenes | Mapas base Ejemplos: cobertura terrestre, mapas topográficos, imágenes, imágenes no clasificadas, anotaciones.|
-| Inteligencia militar | Bases militares, estructuras, actividades Ejemplos: cuarteles, campos de entrenamiento, transporte militar, recolección de información.|
-| Aguas interiores | Características de aguas continentales, sistemas de drenaje y sus características Ejemplos: ríos y glaciares, lagos salados, planes de utilización del agua, represas, corrientes, inundaciones, calidad del agua, cartas hidrográficas|
-| Localización | Información posicional y servicios Ejemplos: direcciones, redes geodésicas, puntos de control, zonas postales y servicios, nombres de lugares |
-| Oceanos	|Características y características de las masas de agua salada (excluidas las aguas continentales) Ejemplos: mareas, maremotos, información costera, arrecifes"
-| Planeamiento catastral | Información utilizada para las acciones apropiadas para el uso futuro de la tierra Ejemplos: mapas de uso de la tierra, mapas de zonificación, estudios catastrales, propiedad de la tierra |
-| Sociedad | Características de la sociedad y las culturas Ejemplos: asentamientos, antropología, arqueología, educación, creencias tradicionales, costumbres y costumbres, datos demográficos, áreas y actividades recreativas, evaluaciones de impacto social, crimen y justicia, información censal.
-| Estructura | Construcción hecha por el hombre Ejemplos: edificios, museos, iglesias, fábricas, viviendas, monumentos, tiendas, torres.
-| Transporte | Medios y ayudas para transportar personas y / o bienes Ejemplos: carreteras, aeropuertos / pistas de aterrizaje, rutas de navegación, túneles, cartas náuticas, ubicación de vehículos o embarcaciones, cartas aeronáuticas, ferrocarriles.
-| Redes de suministro	| Sistemas de energía, agua y desechos e infraestructura y servicios de comunicaciones Ejemplos: fuentes de energía hidroeléctrica, geotérmica, solar y nuclear, purificación y distribución de agua, recolección y eliminación de aguas residuales, distribución de electricidad y gas, comunicación de datos, telecomunicaciones, radio, redes de comunicación" |
+| Atmósfera, meteorología, climatología	| Procesos y fenómenos de la atmósfera. Ejemplos: nubosidad, clima, condiciones atmosféricas, cambio climático, precipitación.
+| Economía | Actividades económicas, condiciones y empleo. Ejemplos: producción, trabajo, ingresos, comercio, industria, turismo y ecoturismo, silvicultura, pesca, caza comercial o de subsistencia, exploración y explotación de recursos como minerales, petróleo y gas. |
+| Elevación | Altura por encima o por debajo del nivel del mar. Ejemplos: altitud, batimetría, modelos digitales de elevación, pendiente, productos derivados.
+| Medio ambiente | Recursos ambientales, protección y conservación. Ejemplos: contaminación ambiental, almacenamiento y tratamiento de residuos, evaluación del impacto ambiental, monitoreo del riesgo ambiental, reservas naturales, paisajes.|
+| Información geocientífica	| Información relacionada con las ciencias de la tierra. Ejemplos: características y procesos geofísicos, geología, minerales, ciencias relacionadas con la composición, estructura y origen de las rocas de la tierra, riesgos de terremotos, actividad volcánica, derrumbes, información de gravedad, suelos, permafrost, hidrogeología, erosión. |
+| Salud	| Salud, servicios de salud, ecología humana y seguridad. Ejemplos: enfermedad y enfermedad, factores que afectan la salud, la higiene, el abuso de sustancias, la salud mental y física, los servicios de salud.|
+| Cobertura de la tierra con mapas básicos e imágenes | Mapas base. Ejemplos: cobertura terrestre, mapas topográficos, imágenes, imágenes no clasificadas, anotaciones.|
+| Inteligencia militar | Bases militares, estructuras, actividades. Ejemplos: cuarteles, campos de entrenamiento, transporte militar, recolección de información.|
+| Aguas interiores | Características de aguas continentales, sistemas de drenaje y sus características. Ejemplos: ríos y glaciares, lagos salados, planes de utilización del agua, represas, corrientes, inundaciones, calidad del agua, cartas hidrográficas|
+| Localización | Información posicional y servicios. Ejemplos: direcciones, redes geodésicas, puntos de control, zonas postales y servicios, nombres de lugares |
+| Océanos	|Características y características de las masas de agua salada (excluidas las aguas continentales). Ejemplos: mareas, maremotos, información costera, arrecifes"
+| Planeamiento catastral | Información utilizada para las acciones apropiadas para el uso futuro de la tierra. Ejemplos: mapas de uso de la tierra, mapas de zonificación, estudios catastrales, propiedad de la tierra |
+| Sociedad | Características de la sociedad y las culturas. Ejemplos: asentamientos, antropología, arqueología, educación, creencias tradicionales, costumbres y costumbres, datos demográficos, áreas y actividades recreativas, evaluaciones de impacto social, crimen y justicia, información censal.
+| Estructura | Construcción hecha por el hombre. Ejemplos: edificios, museos, iglesias, fábricas, viviendas, monumentos, tiendas, torres.
+| Transporte | Medios y ayudas para transportar personas y / o bienes. Ejemplos: carreteras, aeropuertos / pistas de aterrizaje, rutas de navegación, túneles, cartas náuticas, ubicación de vehículos o embarcaciones, cartas aeronáuticas, ferrocarriles.
+| Redes de suministro	| Sistemas de energía, agua y desechos e infraestructura y servicios de comunicaciones. Ejemplos: fuentes de energía hidroeléctrica, geotérmica, solar y nuclear, purificación y distribución de agua, recolección y eliminación de aguas residuales, distribución de electricidad y gas, comunicación de datos, telecomunicaciones, radio, redes de comunicación" |
 
 Proveedor: Es el nombre de la institución o persona de donde proviene el recurso
 
@@ -161,15 +163,11 @@ DropBox (LNCS)\
             └── resumen_ubicación_120_sitios.xls
 ```
 
-
-
-
-
 #### 2. Repositorio desarrollo
 Esta carpeta está organizada por subcarpetas por proyecto, cada carpeta contiene tres carpetas (procesamiento, entregables y finales) para organizar la información.
 - Este repositorio es para el desarrollo de capas entre colaboradores.
 
-**1. Procesamiento:** En esta carpeta el usuario creará subcarpetas especificas cuyo nombre exprese el objetivo o tema de la capa a realizar (de una a tres palabras separadas con guión bajo). Contendrá los insumos y las capas versionadas como resultado del avance del objetivo planteado.
+**Procesamiento:** En esta carpeta el usuario creará subcarpetas especificas cuyo nombre exprese el objetivo o tema de la capa a realizar (de una a tres palabras separadas con guión bajo). Contendrá los insumos y las capas versionadas como resultado del avance del objetivo planteado.
 
 Es importante que se documente en un readme los **insumos ocupados** y la metodología de  **procesamiento**  implementada para la realización de la capa.
 
@@ -191,7 +189,7 @@ tp_agebs_faltas_2018_v3.shp
 
 
 
-**2. Entregables:**
+**Entregables:**
 
 Tipos de entregables:
 1. Solicitado no terminado: Durante el tiempo de procesamiento puede surgir la necesidad de trabajar con alguna capa intermedia. El colaborador interesado en empezar a trabajar con alguna capa tendrá que solicitarla a través de un issue al responsable de la creación de la capa. El responsable de la capa tendrá la obligación de notificar en ese mismo issue si existe alguna nueva versión o avance en el procesamiento.
@@ -202,7 +200,7 @@ Tipos de entregables:
 3. Finales sin visto bueno: Son aquellas capas que en su procesamiento cumplen el objetivo final y que son necesarias para el proyecto. El responsable de la creación de la capa tendrá que generar los metadatos.
 
 
-**3. Finales:** Una vez completado el procesamiento y el objetivo de la actividad, se crea una **copia** (siempre y cuando haya sido validada por el responsable de los repositorios de SIG) que será la versión final de la capa y se almacenará en esta carpeta, junto con los metadatos creados.
+**Finales:** Una vez completado el procesamiento y el objetivo de la actividad, se crea una **copia** (siempre y cuando haya sido validada por el responsable de los repositorios de SIG) que será la versión final de la capa y se almacenará en esta carpeta, junto con los metadatos creados.
 
 #### 3. Repositorio proyectos
 
@@ -222,6 +220,7 @@ DropBox (LNCS)\
         └── tipo_de_recurso\
 
 ```
+
 ### Nombrado de archivos y de campos {#nombrado}
 
 #### Nombrado de archivos.
@@ -260,6 +259,7 @@ utilizarse punto y coma (;)
 ```
 
 ### Estándar para la generación de metadatos geográficos. {#estandar}
+
 #### 1. Metadato del conjunto de datos.
 En APC se adopta el estándar NOM-ISO-19139 que es la norma que describe la implementación reglada y codificada del estándar NOM-ISO-19115 a nivel de capa y de serie. Presenta esquemas XML especificos para la descripción, validación e intercambio de datos.
 
@@ -268,7 +268,7 @@ En APC se adopta el estándar NOM-ISO 19110 el cual permite la descripción de l
 
 
 ### Catálogo de datos geográficos. {#catalogo}
-GeoNetwork es una aplicación para la administración de recursos referenciados espacialmente, proporciona funciones de creación, edición y búsqueda de metadatos. Esta aplicación es usada ampliamente en la Universidad Nacional Autónoma de México(UNAM).
+GeoNetwork es una aplicación para la administración de recursos referenciados espacialmente, proporciona funciones de creación, edición y búsqueda de metadatos. Esta aplicación es usada ampliamente en la Universidad Nacional Autónoma de México (UNAM).
 
 El catálogo de datos geográficos de APC se encuentra disponible en la siguiente dirección:
 
