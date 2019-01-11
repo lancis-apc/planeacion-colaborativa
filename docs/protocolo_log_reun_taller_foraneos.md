@@ -84,14 +84,19 @@ ORGANIZACION_APC/apc_iso/formatos_lista_asistencia/FRA_SGC VER 1.docx
 ```
 
 Formato de registro de reunión (minuta)
+
 ```
 ORGANIZACION_APC/apc_iso/formatos_lista_asistencia/FRR_SGC VER 1.docx
 ```
 
 Vale de entrada y salida de equipo y mobiliario
+
 ```
 http://web.ecologia.unam.mx/index.php/formatos-secretaria-administrativa
 ```
+
+El formato del vale de salida es indispensable que sea firmado por el investigador responsable, del responsable de servicios generales y de vigilancia
+
 
 **Procedimiento de seguros de salida de equipo**
 
@@ -111,7 +116,7 @@ Los formatos se encuentran en la siguiente liga y deberán tramitarse 5 días h�
 http://web.ecologia.unam.mx/index.php/formatos-secretaria-administrativa
 ```
 
-Para activar la póliza es encesario entregar en la Secretaría Administrativa el formato de prácticas de campo llenado debidamente y firmado por el investigador responsable, y una copia de la identificación oficial (INE o pasaporte vigente) por cada alumno que va a participar en las reuniones y/o talleres fóraneos.
+Para activar la póliza es necesario entregar en la Secretaría Administrativa el formato de prácticas de campo llenado debidamente y firmado por el investigador responsable, y una copia de la identificación oficial (INE o pasaporte vigente) por cada alumno que va a participar en las reuniones y/o talleres fóraneos.
 
 *Proveedores*, en caso de no contar con un seguro de gastos médicos deberán contratar un seguro de gastos médicos de viajero por el tiempo que dure el viaje.
 
@@ -124,7 +129,7 @@ En caso de requerir una presentación se deberá revisar el [Protocolo de logís
 
 El día de la reunión y/o taller se llevarán acabo las siguientes actividades:
 
-*	Llegar treinta minutos con anticipación a la sesión para verificar la infraestructura requerida.
+*	Llegar treinta minutos con anticipación a la sesión para verificar la infraestructura requerida
 y material para la sesión.
 *	Colocar las listas de asistencia.
 *	Colocar el equipo de grabación de sonido en un lugar estratégico para que se pueda grabar a todos los participantes.
