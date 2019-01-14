@@ -17,14 +17,17 @@ Es importante considerar que el repositorio de APC es público por lo que es nec
 Para crear un issue ("new issue") se debe:
 
 * Poner un título ("Title"). El enunciado de la actividad debe de comenzar con un verbo en infinitivo seguido del complemento del enunciado
-* Escribir en mayúsculas el nombre del proyecto al que pertenece la actividad (`ORGANIZACION_APC`, `MEGADAPT`, `IAI`, `PACIFICO`, etcétera) anteponiendo un signo de #, al final del enunciado (ejem. #IAI)
+* Escribir el nombre del proyecto al que pertenece la actividad (`ORGANIZACION_APC`, `MEGADAPT`, `IAI`, `PACIFICO`, etcétera) anteponiendo un signo de #, al final del enunciado (ejem. #IAI)
 
 En la sección de comentarios (leave a comment)
-* Registrar los avances o comentarios en general que se tienen de la actividad
-* Poner @ "arrobar" a los colaboradores para notificar los avances referentes a la actividad. Estas notificaciones les llega vía correo electrónico. Escribir @ seguido del nombre del colaborador o usuario.
-      * se indica la dirección del DropBox donde está el producto final
-5. NUNCA SE COMPARTEN LIGAS DEL DROPBOX por este medio, solo se escribe la dirección en donde se encuentra el producto
-6. A las actividades se le tienen que asignar uno o varios responsables (Assignees) y etiquetar a los colaboradores que van a intervenir (Labels)
+
+* Añadir la ubicación de donde están los insumos y donde estarán ubicados los productos
+* Definir las actividades necesarias para cumplir con el "issue"
+* Asignar uno o varios responsables (Assignees) y etiquetar a los colaboradores que van a intervenir (Labels)
+* Poner @ ("arrobar") a los colaboradores para notificar los avances referentes a la actividad. Estas notificaciones les llega vía correo electrónico. Escribir @ seguido del nombre del colaborador o usuario.
+* Registrar los avances o comentarios en general que se tienen de la actividad si es el caso
+
+NUNCA SE COMPARTEN LIGAS DEL DROPBOX por este medio, solo se escribe la dirección en donde se encuentra el producto
 
 El seguimiento de las actividades se hace mediante las `etiquetas` (Labels), las cuales son:
 
@@ -36,12 +39,11 @@ El seguimiento de las actividades se hace mediante las `etiquetas` (Labels), las
 * Procesando, actividad que se está llevando a cabo
 * Terminado, actividad finalizada
 
-En la sección de los comentarios@ a los colaboradores a los que quieran notificar
-
 Una vez terminada la actividad se cierra el issue (Close issue), éste se puede reabrir si la actividad llega a continuar
+
 1. Crear "new issue"
 2. "Title": el enunciado de la actividad debe de comenzar con un verbo en infinitivo seguido del complemento del enunciado
-3. Al final del enunciado se debe escribir en mayúsculas el nombre del proyecto al que pertenece la actividad (`ORGANIZACION_APC`, `MEGADAPT`, `IAI`, `PACIFICO`, etcétera) anteponiendo un signo de #
+3. Al final del enunciado se debe escribir el nombre del proyecto al que pertenece la actividad (`ORGANIZACION_APC`, `MEGADAPT`, `IAI`, `PACIFICO`, etcétera) anteponiendo un signo de #
 4. En la sección de comentarios (leave a comment)
       * se registran los avances o comentarios en general que se tienen de la actividad
       * se puede @ a los colaboradores (@ más nombre de usuario del GitHub) para notificar los avances referentes a la actividad. Estas notificaciones les llega vía correo electrónico, para @ solo se escribe @nombre del usuario
