@@ -18,22 +18,26 @@ Para crear un issue ("new issue") se debe:
 
 * Poner un título ("Title"). Iniciar con un verbo que indique la actividad y terminar con un enunciado que facilite el entendimiento del issue
 * Agregar al final el proyecto o categoría para identificar la tarea (`ORGANIZACION_APC`, `MEGADAPT`, `IAI`, `PACIFICO`, etcétera) anteponiendo un signo de #, al final del enunciado (ejem. #IAI)
-* Asignar uno o varios responsables (Assignees)
-* Etiquetar a los colaboradores que van a intervenir en la actividad (labels)
-* Agregar "milestones" periodos o hitos de la actividad si es necesario
 
 En la sección de comentarios (leave a comment)
 
-* Registrar los avances o comentarios en general que se tienen de la actividad
-* Poner @ ("arrobar") a los colaboradores para notificar los avances referentes a la actividad. Estas notificaciones les llega vía correo electrónico. Escribir @ seguido del nombre del colaborador o usuario. No es necesario "arrobar" a personas asignadas
-* Indicar la dirección del DropBox donde están los insumos y/o donde quedará el producto final( ejem. OTROS/servicio_social/ss_oipa). Queda prohibido agregar enlaces abiertos (sin contraseña) de Dropbox.
-* Mantener actualizada la dirección si esta cambia durante el procesamiento de la actividad
+* Añadir la ubicación de donde están los insumos y donde estarán ubicados los productos (ejem. OTROS/servicio_social/ss_oipa). 
+* Definir las actividades necesarias para cumplir con el "issue"
+* Asignar uno o varios responsables (Assignees)
+* Etiquetar a los colaboradores que van a intervenir en la actividad (labels)
+* Agregar "milestones" periodos o hitos de la actividad si es necesario
+* Poner @ ("arrobar") a los colaboradores no asignados para notificar los avances referentes a la actividad. Estas notificaciones les llega vía correo electrónico. Escribir @ seguido del nombre del colaborador o usuario 
+* Registrar los avances o comentarios en general que se tienen de la actividad, si es el caso.
+
+*NOTA*
+NUNCA SE COMPARTEN LIGAS DEL DROPBOX por este medio, solo se escribe la dirección en donde se encuentra el producto. Queda prohibido agregar enlaces abiertos (sin contraseña) de Dropbox.
 
 En el seguimiento de las actividades se debe:
 
 * Reportar avances
 * Describir procesos, suposiciones, cambios, acuerdos, problemas, interrupciones a procesos, pausas, motivos de cancelación y cierre
 * "Arrobar" a los colaboradores que tienen que ser notificados para intervenir, hacer y/o revisar alguna actividad
+* Mantener actualizada la dirección si esta cambia durante el procesamiento de la actividad
 * Agregar etiquetas, las cuales son:
 
   * Usuario: etiquetar a los usuarios para que encuentren fácilmente sus issues o para notificar que otro usuario espera respuesta o verificación. Si los usuarios etiquetados no usan el sistema frecuentemente, es mejor "arrobarlos".
