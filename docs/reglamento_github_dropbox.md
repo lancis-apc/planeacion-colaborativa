@@ -30,7 +30,7 @@ En la sección de comentarios (leave a comment)
 * Registrar los avances o comentarios en general que se tienen de la actividad, si es el caso.
 
 *NOTA*
-NUNCA SE COMPARTEN LIGAS DEL DROPBOX por este medio, solo se escribe la dirección en donde se encuentra el producto. Queda prohibido agregar enlaces abiertos (sin contraseña) de Dropbox.
+
 
 En el seguimiento de las actividades se debe:
 
@@ -52,7 +52,8 @@ En el seguimiento de las actividades se debe:
 * Notificar al responsable de activos siempre que se agregue nueva información para su gestión y verificación
 
 ### Restricciones de Uso
-
+ 
+* No compartir ligas completas del Dropbox por este medio, solo se escribe la dirección en donde se encuentra el producto (subcarpetas). 
 * Evitar agregar enlaces abiertos (sin contraseña) de Dropbox
 * Evitar escribir nombres completos de personas en títulos y comentarios
 * Aplicar lal política de "no harm" de información personal y de terceros
@@ -78,13 +79,13 @@ Los colaboradores tienen que seguir las siguientes reglas para el uso del reposi
 * Utilizar y verificar los protocolos de nombres y organización
 * Respaldar la información en disco duros externos cada semana (ver `Protocolo de gestión de activos de información`)
 
-El cumplimiento de estas reglas es indispensable para el uso sino Se restringirá la entrada al Dropbox.
+El cumplimiento de estas reglas es indispensable para el uso del repositorio, sino se restringirá la entrada al Dropbox.
 
 ### Restricciones de uso
 
 * Evitar publicar enlaces de Dropbox en GitHub u otros espacios no controlados
-* No compartir carpetas de Dropbox personales, con propiedad diferente a DropBox (LANCIS). Las carpetas con propiedad diferente a DropBox (LANCIS), no se tiene el control por parte del repositorio y si las carpetas se eliminan de origen no hay posibilidad de restauración por parte de DropBox (LANCIS).
+* No compartir carpetas de Dropbox personales, con propiedad diferente a DropBox (LANCIS). Las carpetas con propiedad diferente a DropBox (LANCIS), no permite tener el control por parte del repositorio y si las carpetas se eliminan de origen no hay posibilidad de restauración por parte de DropBox (LANCIS).
 * No eliminar archivos o carpetas dentro del DropBox, excepto de sus carpetas de trabajo. La única persona con esas facultades es la responsable de gestión de activos de información (RGAI) del proyecto
 * No crear carpetas en raíz. En caso de necesitar la creación de alguna, solicitarla a la RGAI
 * Verificar con el responsable de activos de la carpeta si se requiere renombrar, mover o crear carpetas fuera de sus carpetas de trabajo
-* Asegurar que las carpetas sean creadas dentro del dominio de LANCIS para asegurar la propiedad y posibilidad de restauración de archivos
+* Asegurar que las carpetas sean creadas dentro del dominio de LANCIS para asegurar la propiedad y posibilidad de restauración de archivos. En caso contrario, transferir la propiedad al dominio de LANCIS.
