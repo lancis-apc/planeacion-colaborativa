@@ -84,6 +84,7 @@ El cumplimiento de estas reglas es indispensable para el uso del repositorio, si
 * No compartir carpetas de Dropbox personales, con propiedad diferente a DropBox (LANCIS). Las carpetas con propiedad diferente a DropBox (LANCIS), no permite tener el control por parte del repositorio y si las carpetas se eliminan de origen no hay posibilidad de restauración por parte de DropBox (LANCIS).
 * No eliminar archivos o carpetas dentro del DropBox, excepto de sus carpetas de trabajo. La única persona con esas facultades es la responsable de gestión de activos de información (RGAI) del proyecto
 * No crear carpetas en raíz. En caso de necesitar la creación de alguna, solicitarla a la RGAI
-* No sincronizar carpetas principales, ejemplo: `MEGADAPT`. 
+* No sincronizar o compartir carpetas principales, ejemplo: `MEGADAPT`
+* Compartir subcarpetas a través de vínculos mensuales a colaboradores externos
 * Verificar con el responsable de activos de la carpeta si se requiere renombrar, mover o crear carpetas fuera de sus carpetas de trabajo
 * Asegurar que las carpetas sean creadas dentro del dominio de LANCIS para asegurar la propiedad y posibilidad de restauración de archivos. En caso contrario, transferir la propiedad al dominio de LANCIS.
