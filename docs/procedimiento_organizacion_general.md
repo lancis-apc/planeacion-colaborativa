@@ -139,13 +139,17 @@ Los repositorios que tenemos en el APC se dividen en:
   * Cluster
   * Servidor
 
-Es obligatorio que todos los colaboradore trabajen y guarden sus archivos directamente en los repositorios permanentes.
+Es obligatorio que todos los colaboradores trabajen y guarden sus archivos directamente en los repositorios permanentes.
 
-De inicio se puede trabajar en los espacio de trabajo personales que se encuentra en el Dropbox, y cuando se tenga el producto final se moverá a la carpeta del proyecto que le corresponda o también se puede trabajar de inicio en un espacio de trabajo solocitado en la carpeta del proyecto. APC tiene una cuenta de Dropbox Business lo que permite recuperar archivos y carpetas eliminados después de más de un mes de ser borrado (vía restauración) o modificado (vía control de cambios) con el historial de versiones extendido.
+En APC se cuenta con dos modalidades para trabajar en el dropbox:
+- en los espacio de trabajo personales que se encuentra en el Dropbox, y cuando se tenga el producto final se moverá a la carpeta del proyecto que le corresponda
+- en un espacio de trabajo solocitado en la carpeta del proyecto. 
+
+APC tiene una cuenta de Dropbox Business lo que permite recuperar archivos y carpetas eliminados después de seis meses de ser borrado (vía restauración) o modificado (vía control de cambios) con el historial de versiones extendido.
 
 ### Organización del DropBox
 
-El DropBox está organizado por carpetas principales que corresponden a los proyectos principales, las cuales están nombradas en mayúsculas, por ejemplo:
+El DropBox está organizado por los proyectos principales, las cuales están nombradas en mayúsculas, por ejemplo:
 
 ```
 DropBox (LNCS)\
@@ -176,6 +180,7 @@ Para las siguientes carpetas se deben seguir ciertas reglas:
   * Los archivos contenidos en esta carpeta son de caracter temporal, ya que una vez que se tiene el producto final, éste se debe de mover a la carpeta correspondiente de insumos en el directorio del proyecto
 
 ### Sincronización del DropBox
+
 
 La sincronización del DropBox en las computadoras debe ser selectiva, y sólo se debe sincronizar y compartir a nivel de subcarpetas, ejemplo: `mega_procesamiento`.
 Se pueden compartir y sincronizar subcarpetas a cuentas de Dropbox personales de colaboradores internos de APC. Para ésto, es importante
