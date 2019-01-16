@@ -27,7 +27,7 @@ Equipo de cómputo y programa de DropBox instalado en el disco duro de la comput
 * * *
 ## Actividades y responsables
 
-#### Responsable de organización de activos de información
+### 1. Responsable de organización de activos de información
 
 El coordinador asignará a una persona como responsable de la creación y organización de las carpetas pertinentes, de acuerdo al tipo de activo de información que resguarde.
 
@@ -41,7 +41,7 @@ Sus actividades serán:
 En la carpeta de plantillas (`ORGANIZACION_APC\apc_plantillas`) se ubica una plantilla de muestra para el archivo README
 * Respaldar los activos cada semana
 
-#### Sobre el archivo README.txt
+#### 1.1 Sobre el archivo README.txt
 
 La plantilla proporcionada para este archivo es solo una muestra de un caso típico (ver `ORGANIZACION_APC\apc_plantillas\plantilla_de_archivos_README.txt`). El responsable puede modificarla haciéndolo más o menos detallado, según sea el caso, pero siempre considerando que la función de este archivo es ser útil a quien consulte el contenido de la carpeta y busque algo en ella. Lo que consideramos importante sobre este archivo es:
 
@@ -51,7 +51,7 @@ La plantilla proporcionada para este archivo es solo una muestra de un caso típ
 
 Asimismo, también es factible crear archivos README para subcarpetas dentro del proyecto, especialmente cuando se creen carpetas especiales no contempladas en el flujo normal de trabajo.
 
-#### Nombre de las carpetas y archivos de cualquier activo de información
+### 2. Nombre de las carpetas y archivos de cualquier activo de información
 
 El nombre de los archivos debe ser en minúsculas y no debe llevar espacios, ni acentos, ni caracteres especiales restringidos:
 
