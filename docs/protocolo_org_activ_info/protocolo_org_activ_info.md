@@ -19,6 +19,13 @@ La organización y el resguardo de la información generada en el Área es la ba
 * Clases de posgrado
 * Respaldo en discos duros externos
 
+**Puntos importantes a considerar**
+
+* Cómo hacer un archivo README para el contenido de subcarpetas en las que un colaborador de APC haya creado, manejado y trabajado (sección 1.1)
+* Cómo nombrar archivos (sección 2)
+* Cómo nombrar carpetas (sección 2 y 3.1)
+* Uso de discos duros externos para respaldo (sección 7)
+
 * * *
 ## Materiales, equipos y reactivos
 
@@ -68,6 +75,8 @@ Asímismo el nombre del archivo deberá incorporar en el siguiente orden:
 
 3. Fecha
 4. Iniciales de quien modifica la versión.
+
+El nombre de de los archivos debe tener máximo 60 caracteres. Para nombrar archivos de SIG, ver el [protocolo](https://lancis-apc.github.io/planeacion-colaborativa/protocolo_manejo_info_gis.html) para el manejo de la información geográfica.
 
 Como muestra, véase el siguiente ejemplo:
 
@@ -127,9 +136,9 @@ En algunos casos el requerimiento del prefijo puede parecer ocioso, más si cons
 | Gráficas | rmd, r | R, Illustrator |
 | Imágenes vectoriales | ai, pdf | Illustrator, Acrobat |
 
-#### 2) Proyecto principal
+#### 2) Proyecto principal (sólo para nombrar carpetas)
 
-Teniendo en cuenta que un archivo puede pertenecer a más de un proyecto, especificar cuál es el proyecto principal con que está relacionado. Se puede omitir este requerimiento cuando el producto sea de uso general, es decir, se utilice en varios productos de LANCIS y no pertenezca realmente a un proyecto específico.
+Teniendo en cuenta que una carpeta puede pertenecer a más de un proyecto, y que se comparten y sincronizan a nivel de subcarpetas al usar el Dropbox, es necesario especificar cuál es el proyecto principal con el que está relacionado. 
 
 #### 3) Descripción
 
@@ -145,9 +154,9 @@ En el caso de presentaciones, la descripción del contenido viene dada por el de
 
 _Ejemplo:_ `pr_espejo_yucatan_29mar2017.pdf`.
 
-#### Versiones de archivos
+#### 2.1 Versiones de archivos
 
-El uso de DropBox nos asegura un respaldo en línea y un historial de versiones, por lo que en principio no es necesario conservar múltiples versiones de ningún archivo; sin embargo, hay casos en los que sí se considera justificado hacerlo saber:
+El uso de Dropbox nos asegura un respaldo en línea y un historial de versiones, por lo que en principio no es necesario conservar múltiples versiones de ningún archivo; sin embargo, hay casos en los que sí se considera justificado hacerlo saber:
 
 * Presentaciones con múltiples ediciones de diferentes colaboradores. Como se muestra en la Figura 2 y en el apartado  **Descripción,** es una forma común de trabajo que se conserven las modificaciones específicas por fecha y por colaborador.
 * Productos adaptados a distintos formatos, por ejemplo:
@@ -160,7 +169,7 @@ Lo recomendable es no llenarnos de versiones innecesarias y hacer una depuració
 **Nota:** Para mayor información sobre el historial de versiones de Dropbox [revisar este link.](https://www.dropbox.com/help/security/version-history-overview)
 
 * * *
-### Proyectos
+### 3. Proyectos
 
 Cada nuevo proyecto quedará registrado por el responsable de activos de información en la hoja de cálculo del google drive `Organización_General`.
 
@@ -176,11 +185,11 @@ DropBox (LNCS)\
 └── PAPIIT\
 
 ```
-#### Estructura de las carpetas o directorios
+#### 3.1 Estructura de las carpetas o directorios
 
 El nombre de las carpetas tiene que ser corto:
 
-* Las carpetas que se encuentra en el nivel inferior a la carpeta principal del proyecto, tienen que tener como prefijo el nombre corto del proyecto, ejemplo: `mega_insumos`, así como se muestra la siguiente sección
+* Las carpetas que se encuentra en el nivel inferior a la carpeta principal del proyecto (subcarpetas), tienen que tener como prefijo el nombre corto del proyecto, ejemplo: `mega_insumos`, así como se muestra la siguiente sección
 
 Como ya se mencionó, es labor del responsable de los activos de información crear la carpeta y subcarpetas necesarias para el proyecto. Quien realice la coordinación tiene que decidir la estructura más conveniente de subcarpetas, como mínimo debe de contener las siguientes subcarpetas:
 
@@ -208,14 +217,14 @@ Como ya se mencionó, es labor del responsable de los activos de información cr
  * __README.txt__ Archivo de texto creado y actualizado por el responsable de la presentación con la descripción del contenido y organización de la carpeta.
 
 * * *
-### Presentaciones
+### 4. Presentaciones
 
 En el Área de Planeación Colaborativa realizamos al menos dos tipos de presentaciones:
 
 1. Presentaciones ordinarias en Powerpoint para uso interno o externo.
 2. Presentaciones especiales preparadas expresamente para el Anfiteatro de Decisiones.
 
-#### Creación de la presentación inicial mediante plantilla
+#### 4.1 Creación de la presentación inicial mediante plantilla
 Todas las presentaciones toman como punto de partida la plantilla oficial de presentaciones LANCIS, ubicada en nuestra carpeta de Dropbox en la siguiente ruta:
 
 ```
@@ -224,12 +233,12 @@ ORGANIZACION_APC\plantillas\plantillas_presentaciones
 
 Esta plantilla está preparada para pantallas _widescreen,_ con relación de aspecto 16:9.
 
-#### Tipos de presentaciones
+#### 4.2 Tipos de presentaciones
 
-#### Presentaciones ordinarias
+#### 4.2.1 Presentaciones ordinarias
 Las presentaciones ordinarias (aquellas que no se utilizan en el Anfiteatro de Decisiones) constan básicamente de un solo archivo PPT donde se vierte el contenido correspondiente, dentro de su carpeta, puede conservarse también otro tipo de contenido (figuras, gráficas, fotos, mapas, etc.) generado o modificado expresamente para dicha presentación.
 
-#### Presentaciones para Anfiteatro
+#### 4.2.2 Presentaciones para Anfiteatro
 Las presentaciones preparadas para el Anfiteatro suelen tener mayor complejidad en cuanto a la cantidad de insumos y productos que hay que procesar y generar. En su forma final, una presentación para el Anfiteatro consta de:
 
 * _Slides._ Archivos PNG exportados desde PowerPoint (o algún otro programa) en la resolución y proporciones de las pantallas del Anfiteatro.
@@ -243,7 +252,7 @@ Otra parte importante en el procedimiento es el desarrollo del guión, para lo c
 ```
 ORGANIZACION_APC\plantillas\plantillas_presentaciones
 ```
-#### Organización de carpetas
+#### 4.3 Organización de carpetas
 
 Como ya mencionamos, las presentaciones más sencillas pueden consistir únicamente de un archivo PPT (y su versión en PDF) y no requerir ningún insumo adicional. Por otra parte, las presentaciones más complejas requieren que  los insumos (gráficas, tablas, figuras, esquemas, videos, etc.) se conserven en la misma carpeta del PPT para futuras revisiones. Este punto se describe con mayor detalle en el apartado [Estructura de las carpetas o directorios.](#Estructura de las carpetas o directorios)
 
@@ -255,7 +264,7 @@ El responsable de activos de información creará una carpeta de cada presentaci
 
 Así, un nombre típico de carpeta o directorio sería: `pr_megadapt_diputados_29mar2017`
 
-#### Estructura de carpetas en presentaciones ordinarias
+#### 4.3.1 Estructura de carpetas en presentaciones ordinarias
 En el caso de presentaciones sencillas una posibilidad es agrupar como en el siguiente ejemplo:
 
 ```
@@ -278,7 +287,7 @@ Nótese que todos los insumos creados o utilizados para la presentación están 
 
 Puede haber casos que requieran alguna carpeta especial no contemplada en esta estructura, se deja la decisión en manos del coordinador responsable de la carpeta.
 
-#### Estructura de carpetas para presentaciones del Anfiteatro
+#### 4.3.2 Estructura de carpetas para presentaciones del Anfiteatro
 En el caso de presentaciones para el Anfiteatro de Decisiones la estructura propuesta es la siguiente:
 
 ```
@@ -339,13 +348,13 @@ En donde:
 * __PowerPoint__ y __PDF__ con la versión maestra o final de la presentación. De preferencia debe estar completo y en el orden que se utilizará en el anfiteatro. A través del PPT se generan las slides finales para la plataforma. Una vez ocurrida la presentación deben integrarse al PPT los _screenshots_ de las interfaces que se hayan operado. El PDF es importante como respaldo y se genera a partir del PowerPoint final.
 * __README.txt__ Archivo de texto creado y actualizado por el responsable de la presentación con la descripción del contenido y organización de la carpeta.
 
-#### Actividades posteriores al término de la presentación
+#### 4.4 Actividades posteriores al término de la presentación
 
 Una vez que haya ocurrido la presentación es de suma importancia hacer una revisión del contenido de la carpeta `plataforma` y revisar que todos los insumos utilizados estén en la raíz de esta carpeta. De no ser el caso, se procederá a incorporarlos y modificar las rutas correspondientes en el guión final.
 
 Asímismo, se debe actualizar el archivo PPTX con la versión final presentada y se incorporarán en ellos los screenshots de las pantallas que hayan operado a través de páginas web o alguna interfaz particular. Se debe generar también un PDF final a partir del archivo de PowerPoint.
 
-#### Apéndices: Manuales de apoyo
+#### 4.5 Apéndices: Manuales de apoyo
 
 * Manual para exportar _slides_ a resolución y formato HD: `manual_reescalar_slides_a_resolucion_anfiteatro.html` ubicado en
 
@@ -356,11 +365,11 @@ Asímismo, se debe actualizar el archivo PPTX con la versión final presentada y
  Este documento describe cómo modificar la resolución de exportación desde Powerpoint y posteriormente reescalar los PNG exportados a la resolución correcta para las pantallas.
 
 * * *
-### Propuestas
+### 5. Propuestas
 
 Todas las propuestas hechas por APC para la obtención de proyectos se respaldarán en `Dropbox (LANCIS)ADMIN`. Dentro de esta carpeta general hay una carpeta `admin_propuestas` en las que se crearán subcarpetas con el nombre de la institución convocante o a la institución a la que se le entrega la propuesta (ejem. CONACYT, PAPIIT, SEMARNAT, INE, etc.).
 
-#### Estructura de carpetas
+#### 5.1 Estructura de carpetas
 
 El coordinador responsable de la propuesta o la persona responsable de la gestión de la información de la propuesta generará la siguiente estructura de carpetas dentro de la subcarpeta con el nombre de la institución. La estructura de carpetas, como ya se ha mencionado anteriormente, es flexible a las necesidades de la propuesta, por lo que no es necesario que se generen todas las subcarpetas propuestas. Sin embargo,si es necesario crear otra subcarpeta diferente a las ya establecidas se debe notificar al responsable de activos de información para que esté enterado.
 
@@ -386,13 +395,13 @@ En donde:
 * **notificaciones:** Correos electrónicos, oficios y demás documentos donde se solicite la información adicional.
 
 * * *
-### Clases de posgrado
+### 6. Clases de posgrado
 
 La organización de clases de posgrado que se generan en APC se refiere a toda la información utilizada y generada en los diferentes cursos de posgrado impartidas por los integrantes del Área.
 
 El profesor responsable del curso designará al responsable de la gestión de la información que se genere o requiera para su curso. Por lo tanto, este responsable será el encargado de solicitar y recopilar toda la información utilizada para impartir la materia.
 
-#### Estructura de carpetas
+#### 6.1 Estructura de carpetas
 
 El responsable generará una carpeta general con el nombre de la materia en la carpeta POSGRADO anteponiendo la abreviatura porgra_ en el Dropbox (Ejem. posgra_herramientas_analiticas_enlcs).
 Dentro de esta carpeta general se creará la siguiente estructura de carpetas:
@@ -423,11 +432,11 @@ En donde:
 En caso de que la materia no sea obligatoria y se repita cada año, la carpeta general deberá contener al menos las subcarpetas generales, ejercicios y presentaciones.
 
 * * *
-### Respaldo en discos duros externos
+### 7. Respaldo en discos duros externos
 
 Toda información de un proyecto activo debe quedar respaldada en el DropBox, y semanalmente hacer respaldo en un disco duro externo que se haya designado previamente.
 
-#### Responsables de hacer respaldos de activos de información
+#### 7.1 Responsables de hacer respaldos de activos de información
 
 * Responsable de la gestión de activos de información de Proyectos
 * Responsable de la gestión de activos de información de carpetas del Dropbox que no sean proyectos
@@ -435,7 +444,7 @@ Toda información de un proyecto activo debe quedar respaldada en el DropBox, y 
 * Técnicos por proyectos
 * Estudiantes
 
-#### Asignación de discos duros externos
+#### 7.2 Asignación de discos duros externos
 
 Los responsables de la gestión de activos de información asignarán cuatro proyectos o carpetas de Dropbox por cada disco. El disco duro debe contener una carpeta general con el nombre del proyecto y o carpeta donde se guardará la información.
 
@@ -443,7 +452,7 @@ El responsable de administración tendrá un disco exclusivo para resguardo de l
 
 Los técnicos por proyecto y estudiantes tendrán un disco duro asignado para resguardo de sus carpetas de trabajo.
 
-#### Actividades para resguardar activos de información
+#### 7.3 Actividades para resguardar activos de información
 
 * Etiquetar los discos con la fecha de inicio de uso y su contenido (nombre de proyectos o carpetas)
 * Respaldar los activos de información en la carpeta establecida previamente para tal propósito
@@ -453,11 +462,11 @@ Los técnicos por proyecto y estudiantes tendrán un disco duro asignado para re
 
 Al termino de un proyecto, se debe respaldar la información en dos discos duros externos y eliminar la carpeta del DropBox.
 
-#### Software para respaldar en discos duros externos
+#### 7.4 Software para respaldar en discos duros externos
 
 Para realizar los respaldos de manera automatizada de los activos de información en discos duros se usará el software Acronis. [Ver video de uso de Acronis]().
 
-#### Esquemas para respaldar los activos de información de acuerdo a proyectos.
+#### 7.4.1 Esquemas para respaldar los activos de información de acuerdo a proyectos.
 
 Los activos de información se respaldarán de acuerdo a sus características intrínsecas con esquemas diferenciales que el software ofrece. En la tabla siguiente se describen los esquemas y se explican qué tipo de activos de información aplican para cada uno de los esquemas.
 
