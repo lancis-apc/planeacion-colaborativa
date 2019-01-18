@@ -32,29 +32,48 @@
 
 **Índice**
 
-* Gestión de actividades
-  * Uso del GitHub
-  * Registro de actividades y entregables
-  * Boletín informativo de revisión de actividades
-* Gestión de activos de información
-  * Repositorios
-  * Organización del DropBox
-  * Sincronización del DropBox
-  * Reorganización de carpetas del DropBox
-  * Reglas para el uso del Repositorio DropBox
-  * Respaldo de información
-  * Organización de activos de información
-* Uso de equipo
-* Uso de las intalaciones
+* 1. Gestión de actividades
+  * 1.1 Uso del GitHub
+  * 1.2 Registro de actividades y entregables
+  * 1.3 Boletín informativo de revisión de actividades
+* 2. Gestión de activos de información
+  * 2.1 Repositorios
+  * 2.2 Organización del DropBox
+  * 2.3 Sincronización del DropBox
+  * 2.4 Reorganización de carpetas del DropBox
+  * 2.5 Reglas para el uso del Repositorio DropBox
+  * 2.6 Respaldo de información
+  * 2.7 Organización de activos de información
+* 3. Uso de equipo
+* 4. Uso de las instalaciones
+
+* * * 
+
+*Puntos importantes a considerar*
+
+Al iniciar cualquier actividad los colaboradores del APC se deben de reunir para organizar y priorizar las actividades (sección 1).
+
+Los colaboradores trabajan y guardan sus archivos directamente en repositorios permanentes: dropbox y github (sección 2.1).
+
+Los responsables de la gestión de activos de información son las personas encargadas de crear la estructura de carpetas en el Dropbox y de vigilar que los colaboradores sigan el protocolo de organización de activos de información y el reglamento para el uso de GitHub y DropBox (sección 2.2).
+
+Los colaboradores deben obligatoriamente leer el `Reglamento de uso de GitHub y DropBox` para hacer uso del repositorio (sección 2.5).
+
+Toda información de un proyecto activo debe quedar respaldada en el DropBox (sección 2.6).
+
+El asistente administrativo del APC se encarga de la asignación del equipo de cómputo, tarjeta de acceso, lugar para trabajar y entregar llave de la gabeta (ver Recibo de equipo y tarjeta de acceso) (sección 3).
+
 
 * * *
 
-## Gestión de actividades
+## 1. Gestión de actividades
 
 El proceso de gestión de actividades consiste en que:
 
-* Los colaboradores del APC y los técnicos por proyecto tienen que registrar sus actividades en el GitHub, además de este registo, los técnicos por proyecto tienen que escribir sus actividades en la hoja de registro de actividades (google drive)
-* Estas actividades se revisan y se asignan por el coordinador en reunión cada semana para que se puedan asignar prioridades
+* Al iniciar cualquier actividad los colaboradores del APC se deben de reunir para organizar y priorizar las actividades. 
+* Los colaboradores del APC y los técnicos por proyecto tienen que registrar sus actividades en el GitHub, además de este registo, los técnicos por proyecto tienen que escribir sus actividades en la hoja de registro de actividades (google drive).
+* Los técnicos por proyecto deben reunirse cada semana con el coordinador para revisar las actividades y asignar prioridades.
+
 
 Dichas actividades pueden:
 
@@ -64,10 +83,10 @@ Dichas actividades pueden:
 
 Este tipo de actividades tienen que estar aprobadas por el coordinador.
 
-Las tareas finalizadas tienen que ser verificadas antes de la entrega (ver `Procedimiento de verificación de productos`)
+Las tareas finalizadas tienen que ser verificadas antes de la entrega (ver `Procedimiento de verificación de productos`).
 
 
-### Uso del GitHub
+### 1.1 Uso del GitHub
 
 El uso del GitHub como gestor es indispensable en la organización y comunicación de actividades programadas por los colaboradores, por lo tanto, es indispensable que los colaboradores tengan una cuenta.
 
@@ -85,7 +104,7 @@ El repositorio a usar en la organización y comunicación de las actividades pro
 
 Los colaboradores tienen que registrar sus actividades en "issues" y seguir el `Reglamento de uso de GitHub y DropBox` para crear y dar seguimiento a los "issues".
 
-### Registro de actividades y entregables (google drive)
+### 1.2 Registro de actividades y entregables (google drive)
 
 En esta hoja los técnicos por proyecto además de registrar las mismas actividades que han registrado en el GitHub tienen que registrar:
 
@@ -104,7 +123,7 @@ En esta hoja los técnicos por proyecto además de registrar las mismas activida
 * Tipo de entregable, indicar si el producto es un manuscrito, gráfica, figura, información, carpeta organizada, base de datos
 * Comentarios, si fuera necesario señalar el por qué del progreso
 
-### Boletín informativo de revisión de actividades
+### 1.3 Boletín informativo de revisión de actividades
 
 Este boletín se generará como un "issue" en GitHub. El objetivo es mantener informado al investigador responsable de proyectos del estatus de los proyectos que se realizan en APC. De esta forma, el investigador responsable definirá las actividades y prioridades de trabajo, y atenderá las actividades urgentes de resolver.
 
@@ -125,7 +144,9 @@ A continuación se describen sus características:
   
 * * *
 
-## Gestión de activos de información
+## 2. Gestión de activos de información
+
+### 2.1 Repositorios
 
 Los repositorios que tenemos en el APC se dividen en:
 
@@ -147,7 +168,7 @@ En APC se cuenta con dos modalidades para trabajar en el dropbox:
 
 APC tiene una cuenta de Dropbox Business lo que permite recuperar archivos y carpetas eliminados después de seis meses de ser borrado (vía restauración) o modificado (vía control de cambios) con el historial de versiones extendido.
 
-### Organización del DropBox
+### 2.2 Organización del DropBox
 
 El DropBox está organizado por los proyectos principales, las cuales están nombradas en mayúsculas, por ejemplo:
 
@@ -169,6 +190,8 @@ DropBox (LNCS)\
 └── PUBLICACIONES\
 ```
 
+Los responsables de la gestión de activos de información son las personas encargadas de crear la estructura de carpetas en el Dropbox y de vigilar que los colaboradores sigan el protocolo de organización de activos de información y el reglamento para el uso de GitHub y DropBox.
+
 Para las siguientes carpetas se deben seguir ciertas reglas:
 
 **PUBLICACIONES**
@@ -179,14 +202,20 @@ Para las siguientes carpetas se deben seguir ciertas reglas:
   * La organización de las carpetas de los colaboradores tienen que estar organizadas por proyecto y por producto
   * Los archivos contenidos en esta carpeta son de caracter temporal, ya que una vez que se tiene el producto final, éste se debe de mover a la carpeta correspondiente de insumos en el directorio del proyecto
 
-### Sincronización del DropBox
+### 2.3 Sincronización del DropBox
 
+La sincronización del DropBox en las computadoras es la mejor manera de poder trabajar directamente en el repositorio y para poder hacer la sincronización debe de considerarse las siguientes indicaciones:
 
-La sincronización del DropBox en las computadoras debe ser selectiva, y sólo se debe sincronizar y compartir a nivel de subcarpetas, ejemplo: `mega_procesamiento`.
-Se pueden compartir y sincronizar subcarpetas a cuentas de Dropbox personales de colaboradores internos de APC. Para ésto, es importante
+a. instalarse en C:/
+
+b. seleccionar sincronización selectiva, es decir solo debe de sincronizar las sub carpetas que está utilizando ejemplo: `mega_procesamiento`.
+
+Se pueden compartir y sincronizar subcarpetas (segundo nivel) a cuentas de Dropbox personales de colaboradores internos de APC. Para ésto, es importante
 tomar en cuenta que: a) si se modifica el nombre de una carpeta en Dropbox cuando está sincronizada en otras computadoras (incluyendo cambios de mayúsculas a minúsculas se debe desvincular la carpeta a las cuentas personales de las otras computadoras antes de hacer el cambio de nombre porque sino la modificación sólo se realiza en la computadora que hizo la modificación y en los otros equipos permanece el nombre viejo. b) Al eliminar una carpeta compartida de Dropbox solamente se afecta en la cuenta personal pero el resto de los miembros pueden acceder a ella. Sin embargo, al eliminar archivos de una carpeta compartida, los archivos sí se eliminan para todos los miembros de la carpeta compartida.
 
-### Reorganización de carpetas del DropBox
+
+
+### 2.4 Reorganización de carpetas del DropBox
 
 Para reorganizar la información que se encuentra en las carpetas del DropBox se tienen que seguir los siguientes pasos:
 
@@ -198,28 +227,28 @@ Para reorganizar la información que se encuentra en las carpetas del DropBox se
 6. Sincronizar la carpeta arreglada
 7. Mandar aviso a los colaboradores de que ya se encuentra en el DropBox la carpeta organizada.
 
-### Reglas para el uso del Repositorio DropBox
+### 2.5 Reglas para el uso del Repositorio DropBox
 
 Los colaboradores deben obligatoriamente leer el `Reglamento de uso de GitHub y DropBox` para hacer uso del repositorio.
 
-### Respaldo de información
+### 2.6 Respaldo de información
 
 Toda información de un proyecto activo debe quedar respaldada en el DropBox, y semanalmente hacer respaldo en un disco duro externo.
 Si el proyecto está terminado, se debe de respaldar la información en dos discos duros externos y eliminarlo del DropBox.
 
-### Organización de activos de información
+### 2.7 Organización de activos de información
 
 Para conocer la forma de organizar todos los tipos de activos de información generados por APC se cuenta con un protocolo (ver `Protocolo de activos de información`)
 
 * * *
 
-## Uso de equipo
+## 3. Uso de equipo
 
 El asistente administrativo del APC se encarga de la asignación del equipo de cómputo, tarjeta de acceso, lugar para trabajar y entregar llave de la gabeta (ver Recibo de equipo y tarjeta de acceso).
 
 * * *
 
-## Uso de las instalaciones
+## 4. Uso de las instalaciones
 
 Los colaboradores tienen que seguir las siguientes indicaciones:
 
