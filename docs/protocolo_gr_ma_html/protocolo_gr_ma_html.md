@@ -40,33 +40,32 @@ Para generar una gráfica y/o un mapa en el lenguaje de R se tiene que contar co
 
 ### Nombre de las gráficas y Md:
 
-Estos archivos deben ser nombrados de la siguiente forma:
+Las gráficas deben ser nombradas de la siguiente forma:
 
-gr_nombre_proyecto_fecha
+gr_nombre_fecha(ddmesaño)
 
-Donde:
+donde:
 
 gr= prefijo de gráfica
-
 nombre= tema o título que indique el contenido de la gráfica
-
-proyecto= nombre del proyecto de donde proceden los datos
-
-fecha= día, mes y año de cuando se envía esa versión de los datos
+fecha= cuando se envía esa versión de los datos. Para el fechado se utilizan dos dígitos para el día (01), tres letras para el mes (mar) y cuatro dígitos para el año (2019) y corresponde a la f
 
 En caso de tratarse de un pre procesamiento de datos, cuyo fin no es el de obtener una gráfica o un mapa, debe de indicarse en el nombre del Md de la siguiente forma:
 
-pre_analisis_nombre del tema o archivo que se trabaja_fecha
+tp_analisis_nombre del tema o archivo que se trabaja_fecha
+
+donde:
+
+tp= temporal
 
 ### Información mínima necesaria contenida en los Md
 
-Los Md deben de tener la siguiente información:
+Los Md deben de tener la siguiente información al inicio:
 
 * Información correspondiente a la cadena de custodia de los datos (ver `plantilla_md`). Esta información debe ser proporcionada por el responsable del proyecto o del producto.
 
   * __Proyecto,__ nombre del proyecto
   * __Entrega,__ es la información del colaborador que está entregando activos de información
-  * __Recepción,__ es la información del colaborador que se encarga de recibir los activos de información
   * __Título,__ es el título de la información que se está representando en las gráficas y/o mapas
   * __Tema,__ en algunos proyectos están divididos en temas, ejemplos: peces, fauna terrestre, microbiota, vegetación, abiótico, geomorfología
   * __Fecha de toma de muestras,__ se coloca la fecha de la toma de las muestra
@@ -75,7 +74,10 @@ Los Md deben de tener la siguiente información:
   * __R (versión) Rstudio (versión),__ es importante especificar la versión de los lenguajes de programación en el que fueron ejecutados los datos
 
 
-**Nota:** Para dar formato al texto, en Markdown se utilizan signos de puntuación y caracteres básicos; se recomienda consultar los siguientes enlaces para conocer cómo operan:
+#### Formato de texto 
+
+Para dar formato al texto, en Markdown se utilizan signos de puntuación y caracteres básicos; se recomienda consultar los siguientes enlaces para conocer cómo operan:
+
 ```
 http://rmarkdown.rstudio.com/authoring_basics.html
 ```
@@ -83,6 +85,8 @@ http://rmarkdown.rstudio.com/authoring_basics.html
 https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf
 
 ```
+
+### Recomendaciones para la organización del Markdown
 
 El orden de los comandos recomendado para realizar un Md es el siguiente:
 
