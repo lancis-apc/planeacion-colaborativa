@@ -5,7 +5,7 @@
 
 **Objetivo:** Estandarizar la elaboración de base de datos para mapas y gráficas en la realización de los proyectos del Área de Planeación Colaborativa (APC), así como la información entregada por colaboradores externos.
 
-**Alcance:** Aplica para todos los colaboraddores y usuarios internos y externos del APC.
+**Alcance:** Aplica para cualquier tipo de bases de datos generadas por los colaboraddores internos y externos del APC.
 
 
 ## Protocolo
