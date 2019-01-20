@@ -6,7 +6,7 @@
 
 **Objetivo:** Establecer los estándares de calidad y cadena de custodia de los activos de información que se entregan por parte de los colaboradores y usuarios del Área de Planeación Colaborativa (APC).
 
-**Alcance:** Este protocolo aplica para los colaboradores y usuarios internos y externos del APC.
+**Alcance:** Este protocolo aplica para la información derivada de la entrega y generación de activos de información en donde intervienen los colaboradores internos y externos del APC.
 
 * * *
 
