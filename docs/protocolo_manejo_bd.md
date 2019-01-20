@@ -5,12 +5,11 @@
 
 **Objetivo:** Estandarizar la elaboración de base de datos para mapas y gráficas en la realización de los proyectos del Área de Planeación Colaborativa (APC), así como la información entregada por colaboradores externos.
 
-**Alcance:** Aplica para todos los proyectos internos y externos desarrollados por el APC.
+**Alcance:** Aplica para todos los colaboraddores y usuarios internos y externos del APC.
 
 
 ## Protocolo
 
-El cumplimiento de los estándares generales en la creación de las bases de datos es fundamental para el buen desempeño en la generación de gráficas y mapas.
 Este protocolo se divide en los siguientes estándares que se desarrollan a continuación:
 * Configuración del sistema
 * Codificación del archivo
@@ -18,18 +17,23 @@ Este protocolo se divide en los siguientes estándares que se desarrollan a cont
 * Formato estandar de entrega
 * Nombrado del archivo
 * Generación de metadatos
+* Tablas dinámicas
 * Entrega de la información
+
+**Puntos importantes a revisar**
+
+* En qué codificación y configuración del sistema deben estar las computadoras para elaborar y procesar bases de datos (Sección 1 y 2)
+* Cuáles son las reglas principales a seguir cuando se elabora una base de datos que será procesada por medio de tablas dinámicas (Sección 7)
 
 ## Materiales, equipos y reactivos
 
 No aplica.
 
-
 ## Actividades y responsables
 
 El colaborador responsable de crear una base de datos debe realizar las siguientes actividades para cumplir con los estándares generales solicitados por APC.
 
-### Configuración del Sistema
+### 1. Configuración del Sistema
 
 Independientemente del sistema operativo utilizado el colaborador debe revisar que la separación de los miles esté establecida por comas(,); y la separación decimal por puntos (.).
 
@@ -39,26 +43,28 @@ Nota:
 Panel de control/ Configuración regional y de idioma/ Configuración adicional.
 ```
 
-### Codificación del archivo
+### 2. Codificación del archivo
 
 Las bases de datos deben ser trabajados y guardados en UTF8. El colaborador debe verificar que el programa donde está haciendo la base de datos tenga esta codificación.
 
-### Nombrado de campos
+### 3. Nombrado de campos
 
-Los campos de la base de datos se nombran bajo las siguientes características, ver [Protocolo de manejo de información geográfica](https://lancis-apc.github.io/planeacion-colaborativa/protocolo_manejo_info_gis.html) para mayor información:
+Los campos de la base de datos para elaboración de mapas y gráficas se nombran bajo las siguientes características, ver [Protocolo de manejo de información geográfica](https://lancis-apc.github.io/planeacion-colaborativa/protocolo_manejo_info_gis.html) para mayor información:
 
 * Nombre de los campos en minúsculas
 * Nombrado sin caracteres especiales
 * Nombrado sin espacios
 * Máximo de 10 caracteres 
 
-### Formato estandar de entrega
+Para otro tipo de bases de datos, los nombres deben ser concisos e informativos. Ejem. *Vigencia/No disponible en gaceta; Ingreso*. Si la información de las celdas es numérica es necesario que en el nombre del campo se ponga las unidades en las que está o qué significa cada valor. Ejem. *Vigencia (años); Superficie de desmonte (ha)*.
 
-El fomato estandar de entrega debe ser en valores separados por comas (CSV) y codificado en UTF8.
+### 4. Formato estandar de entrega
+
+El fomato estandar de entrega para bases de datos de mapas y gráficas debe ser en valores separados por comas (CSV) y codificado en UTF8.
 
 Las bases de datos se pueden trabajar en diversos programas como Excel para windows o mac (.xls, .xlsx), Libre office, Open office (.ods, .ots) entre otros.
 
-### Nombrado del archivo
+### 5. Nombrado del archivo
 
 Las bases de datos tienen que estar nombrados con el siguiente formato:
 
@@ -76,7 +82,10 @@ nombre= del archivo, ya sea tema, título o algo que indique el contenido
 Ejemplo:
 bd_escasez_2017.csv
 
-### Generación de metadatos
+### 6. Generación de metadatos
+
+Para la elaboración de mapas ver [Protocolo de manejo de información geográfica](https://lancis-apc.github.io/planeacion-colaborativa/protocolo_manejo_info_gis.html).
+
 Las bases de datos creadas o procesadas tienen que tener un archivo txt el cual será nombrado como:
 
 readme_nombre_fecha
@@ -110,10 +119,18 @@ Procesamiento / Método: Describir los pasos realizados para la creación o proc
 
 Linaje: Fuente de los datos.
 
-### Entrega de la información
+### 7. Tablas dinámicas
 
-La base de datos debe de estar en formato CSV y codificada en UTF8. Se entrega junto con el metadato.
-Leer el protocolo de recepción de activos de información y llenar el formulario [Formulario para reportar la entrega de activos de información](https://goo.gl/forms/cTrYr1Yo0BahmYc63). 
+Para bases de datos que serán procesados por medio de tablas dinámicas es importante considerar los siguiente:
+
+* Cuidar que toda la información contenida en las celdas de una misma columna esté unificada en alineación y sin espacios de más
+* Separar por fila la información de una celda y no por comas o interlineas en una misma celda
+* Utilizar el valor "1 y 0" para indicar "si y no", o "presencia y ausencia".
+
+### 8. Entrega de la información
+
+En caso de entregara bases de datos para la elaboración de mapas y gráficas, la base de datos debe de estar en formato CSV y codificada en UTF8. Se entrega junto con el metadato.    
+Leer el protocolo de recepción y entrega de activos de información y llenar el formulario [Formulario para reportar la entrega de activos de información](https://goo.gl/forms/cTrYr1Yo0BahmYc63). 
 
 * * *
 
