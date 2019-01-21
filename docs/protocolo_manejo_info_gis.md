@@ -30,7 +30,7 @@ No aplica
 
 No aplica
 
-### Recepción de la información {#recepcion}
+### Recepción de la información{#recepcion}
 
 Los usuarios deberán ocupar el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLScmUS8yb5Pc9GUc3KTt_14wONsRa9sdJI0-Qcq8M2Z2_fU2vA/viewform?usp=sf_link) para reportar la entrega de la información al responsable de los repositorios de SIG
 
