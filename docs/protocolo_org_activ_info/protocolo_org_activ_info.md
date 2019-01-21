@@ -87,7 +87,7 @@ Como muestra, véase el siguiente ejemplo:
 
 Suele ser frecuente en presentaciones el caso de archivos en revisión de los cuales se generan múltiples versiones del PPT. En el siguiente ejemplo vemos cómo en lugar de descripción se incorpora el destinatario de la presentación además de la fecha y el responsable de la versión.
 
-![Figura 2](Fi_Protocolo_Presentaciones_Nombre_archivos_con_versiones.png)
+![Figura 2](fi_protocolo_presentaciones_nombre_archivos_versiones.png)
 **Figura 2.** Ejemplo de nombre de archivo de presentación con múltiples versiones.
 
 #### 1) Clave o prefijo
