@@ -15,6 +15,13 @@ Este protocolo se divide en:
 - [Estándar de metadatos geográficos.](#estandar)
 - [Catálogo de datos geográficos.](#catalogo)
 
+De las reglas más importantes a seguir son:
+- Trabajar el la carpeta de procesamiento
+- Generar una copia de los insumos a utilizar. 
+- Respetar el nombrado de archivos y campos.
+- Documentar el proceso de los datos.
+- Generar los metadatos de la capa a entregar sin olvidar especificar el linaje.
+
 ## Materiales, equipos y reactivos
 
 No aplica
@@ -180,7 +187,7 @@ Ejemplo:
 DropBox (LNCS)\
 └── SIG\
   └── desarrollo\
-    └── megadapt\
+    └── sig_megadapt\
       └── procesamiento\
       └── entregables\
       └── finales\     
