@@ -19,6 +19,19 @@ Para dar salida, respaldo y acceso a las gráficas y mapas, el script debe ser h
 ```
 http://rmarkdown.rstudio.com/lesson-1.html
 ```
+Contenido del protocolo:
+
+* 1. Requisitos para recibir base de datos
+* 2. Nombre de los archivos y las gráficas y Md
+* 3. Cadena de custodia
+* 4. Formato de texto 
+* 5. Recomendaciones para la organización del Markdown
+
+**Puntos importantes a revisar**
+
+* Qué información debes entregar si quieres que te elaboren una gráfica o mapa (Sección 1 y 3)
+* Enlaces de formato de texto en R (Sección 4)
+* Cómo organizar un md (Sección 5)
 
 * * *
 
@@ -30,17 +43,17 @@ No aplica.
 
 ## Actividades y responsables
 
+### 1. Requisitos para recibir base de datos
+
 El responsable del proyecto o del producto asigna a un responsable para generar la gráfica y/o mapa proporcionando la base de datos correspondiente.
 
 Para generar una gráfica y/o un mapa en el lenguaje de R se tiene que contar con las bases de datos en formato de csv y éstas deben de tener sus respectivos metadatos ver, [Protocolo de recepción y entrega de activos de información](lancis_fed_pcr.html).
 
-### Requisitos para recibir base de datos
-
 *	Llenar el formulario de entrega de datos, ver [Formulario para reportar la entrega de activos de información](https://goo.gl/forms/cTrYr1Yo0BahmYc63); y revisar el [Protocolo para el manejo de bases de datos](protocolo_manejo_bd.html) para conocer los estándares generales con los que deben cumplir las bases de datos.
 
-### Nombre de las gráficas y Md:
+### 2. Nombre de los archivos y las gráficas y Md
 
-Las gráficas deben ser nombradas de la siguiente forma:
+Los archivos de las gráficas deben ser nombradas de la siguiente forma:
 
 gr_nombre_fecha(ddmesaño)
 
@@ -58,7 +71,7 @@ donde:
 
 tp= temporal
 
-### Información mínima necesaria contenida en los Md
+### 3. Cadena de custodia
 
 Los Md deben de tener la siguiente información al inicio:
 
@@ -74,7 +87,7 @@ Los Md deben de tener la siguiente información al inicio:
   * __R (versión) Rstudio (versión),__ es importante especificar la versión de los lenguajes de programación en el que fueron ejecutados los datos
 
 
-#### Formato de texto 
+### 4. Formato de texto 
 
 Para dar formato al texto, en Markdown se utilizan signos de puntuación y caracteres básicos; se recomienda consultar los siguientes enlaces para conocer cómo operan:
 
@@ -86,7 +99,7 @@ https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf
 
 ```
 
-### Recomendaciones para la organización del Markdown
+### 5. Recomendaciones para la organización del Markdown
 
 El orden de los comandos recomendado para realizar un Md es el siguiente:
 
