@@ -11,14 +11,14 @@
 ## Protocolo
 
 Este protocolo se divide en los siguientes estándares que se desarrollan a continuación:
-* Configuración del sistema
-* Codificación del archivo
-* Nombrado de campos
-* Formato estandar de entrega
-* Nombrado del archivo
-* Generación de metadatos
-* Tablas dinámicas
-* Entrega de la información
+* 1. Configuración del sistema
+* 2. Codificación del archivo
+* 3. Nombrado de campos
+* 4. Formato estandar de entrega
+* 5. Nombrado del archivo
+* 6. Generación de metadatos
+* 7. Tablas dinámicas
+* 8. Entrega de la información
 
 **Puntos importantes a revisar**
 
