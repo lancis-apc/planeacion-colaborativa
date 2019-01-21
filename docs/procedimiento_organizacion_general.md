@@ -4,9 +4,9 @@
 
 ## Objetivo y alcance
 
-**Objetivo:** Organización general del área de Planeación Colaborativa (APC)
+**Objetivo:** Dar a conocer la forma de organización del trabajo en el Área de Planeación Colaborativa (APC).
 
-**Alcance:** Los colaboradores del APC del LANCIS deberán seguir el presente protocolo, el cual establece los procedimientos a seguir para la organización general del área.
+**Alcance:** Los colaboradores del APC del LANCIS deberán seguir el presente procedimiento, el cual describe la forma de trabajo colaborativo a seguir para la organización general del área.
 
 ## Términos, definiciones y abreviaturas:
 
@@ -24,9 +24,9 @@
 
 ## Responsabilidad y autoridad:
 
-* Técnico académico
-* Investigador académico
-* Jéfe de área
+* Técnico académico es el responsable de coordinar y participar en la obtención de productos para los proyectos en los que participa APC.
+* Investigador académico es el responsable de los proyectos que se desarrollan en APC.
+
 
 ## Descripción de actividades
 
@@ -49,31 +49,27 @@
 
 * * * 
 
-*Puntos importantes a considerar*
+**Puntos importantes a revisar**
 
-Al iniciar cualquier actividad los colaboradores del APC se deben de reunir para organizar y priorizar las actividades (sección 1).
+* Cuáles son las actividades a realizar al iniciar un proyecto o solicitud de producto (sección 1).
 
-Los colaboradores trabajan y guardan sus archivos directamente en repositorios permanentes: dropbox y github (sección 2.1).
+* Instrucciones de manejo de repositorios (sección 2.1 y 2.5).
 
-Los responsables de la gestión de activos de información son las personas encargadas de crear la estructura de carpetas en el Dropbox y de vigilar que los colaboradores sigan el protocolo de organización de activos de información y el reglamento para el uso de GitHub y DropBox (sección 2.2).
+* Cuáles son las actividades del los responsables de la gestión de activos de información (sección 2.2).
 
-Los colaboradores deben obligatoriamente leer el `Reglamento de uso de GitHub y DropBox` para hacer uso del repositorio (sección 2.5).
+* Cuál es el procedimiento de respaldo en APC (sección 2.6).
 
-Toda información de un proyecto activo debe quedar respaldada en el DropBox (sección 2.6).
-
-El asistente administrativo del APC se encarga de la asignación del equipo de cómputo, tarjeta de acceso, lugar para trabajar y entregar llave de la gabeta (ver Recibo de equipo y tarjeta de acceso) (sección 3).
-
+* Cuáles son las actividades de apoyo a los nuevos colaboradores que desempeña el asistente administrativo del APC (sección 3).
 
 * * *
 
 ## 1. Gestión de actividades
 
-El proceso de gestión de actividades consiste en que:
+El proceso de gestión de actividades consiste en:
 
-* Al iniciar cualquier actividad los colaboradores del APC se deben de reunir para organizar y priorizar las actividades. 
-* Los colaboradores del APC y los técnicos por proyecto tienen que registrar sus actividades en el GitHub, además de este registo, los técnicos por proyecto tienen que escribir sus actividades en la hoja de registro de actividades (google drive).
+* Al iniciar cualquier actividad, los colaboradores del APC se deben reunir para organizar y priorizar las actividades. 
+* Los colaboradores del APC y los técnicos por proyecto tienen que registrar sus actividades en el GitHub. Además de este registo, los técnicos por proyecto tienen que escribir sus actividades en la hoja de registro de actividades (google drive).
 * Los técnicos por proyecto deben reunirse cada semana con el coordinador para revisar las actividades y asignar prioridades.
-
 
 Dichas actividades pueden:
 
@@ -84,7 +80,6 @@ Dichas actividades pueden:
 Este tipo de actividades tienen que estar aprobadas por el coordinador.
 
 Las tareas finalizadas tienen que ser verificadas antes de la entrega (ver `Procedimiento de verificación de productos`).
-
 
 ### 1.1 Uso del GitHub
 
@@ -210,10 +205,9 @@ a. instalarse en C:/
 
 b. seleccionar sincronización selectiva, es decir solo debe de sincronizar las sub carpetas que está utilizando ejemplo: `mega_procesamiento`.
 
-Se pueden compartir y sincronizar subcarpetas (segundo nivel) a cuentas de Dropbox personales de colaboradores internos de APC. Para ésto, es importante
-tomar en cuenta que: a) si se modifica el nombre de una carpeta en Dropbox cuando está sincronizada en otras computadoras (incluyendo cambios de mayúsculas a minúsculas se debe desvincular la carpeta a las cuentas personales de las otras computadoras antes de hacer el cambio de nombre porque sino la modificación sólo se realiza en la computadora que hizo la modificación y en los otros equipos permanece el nombre viejo. b) Al eliminar una carpeta compartida de Dropbox solamente se afecta en la cuenta personal pero el resto de los miembros pueden acceder a ella. Sin embargo, al eliminar archivos de una carpeta compartida, los archivos sí se eliminan para todos los miembros de la carpeta compartida.
-
-
+Se pueden compartir y sincronizar subcarpetas (segundo nivel) a cuentas de Dropbox personales de colaboradores internos de APC. Para ésto, es importante tomar en cuenta que: 
+a) si se modifica el nombre de una carpeta en Dropbox cuando está sincronizada en otras computadoras (incluyendo cambios de mayúsculas a minúsculas se debe desvincular la carpeta a las cuentas personales de las otras computadoras antes de hacer el cambio de nombre porque sino la modificación sólo se realiza en la computadora que hizo la modificación y en los otros equipos permanece el nombre viejo. 
+b) Al eliminar una carpeta compartida de Dropbox solamente se afecta en la cuenta personal pero el resto de los miembros pueden acceder a ella. Sin embargo, al eliminar archivos de una carpeta compartida, los archivos sí se eliminan para todos los miembros de la carpeta compartida.
 
 ### 2.4 Reorganización de carpetas del DropBox
 
