@@ -12,14 +12,16 @@
 
 La organización y el resguardo de la información generada en el Área es la base para el buen desarrollo de los proyectos en APC. A continuación se describe la forma de organizar los activos de información de los siguientes rubros:
 
-* Proyectos
-* Presentaciones
-* Informes
-* Propuestas
-* Clases de posgrado
-* Respaldo en discos duros externos
+* 1. Responsable de organización de activos de información
+* 2. Nombre de las carpetas y archivos de cualquier activo de información
+* 3. Proyectos
+* 4. Presentaciones
+* 5. Informes
+* 6. Propuestas
+* 7. Clases de posgrado
+* 8. Respaldo en discos duros externos
 
-**Puntos importantes a considerar**
+**Puntos importantes a revisar**
 
 * Cómo hacer un archivo README para el contenido de subcarpetas en las que un colaborador de APC haya creado, manejado y trabajado (sección 1.1)
 * Cómo nombrar archivos (sección 2)
