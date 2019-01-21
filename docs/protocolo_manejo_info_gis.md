@@ -83,7 +83,7 @@ DropBox (LNCS)\
 ```
 
 
-La clasificación de la temática es de acuerdo a la NOM-ISO-19115:
+La clasificación de la temática es de acuerdo a la Norma-ISO-19115:
 
 1. Agricultura
 2. Biota
