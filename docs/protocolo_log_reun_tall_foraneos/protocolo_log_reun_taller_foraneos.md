@@ -16,10 +16,10 @@ Los colaboradores deben cumplir con las actividades descritas en este protocolo 
 
 Actividades:
 
-* 1. Planeación
-* 2. Elaboración de la presentación
-* 3. Desarrollo de la reunión y/o taller
-* 4. Seguimiento
+1. Planeación
+2. Elaboración de la presentación
+3. Desarrollo de la reunión y/o taller
+4. Seguimiento
 
 **Puntos importantes a considerar**
 
