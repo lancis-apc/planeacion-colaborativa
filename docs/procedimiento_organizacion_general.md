@@ -33,18 +33,31 @@
 **Índice**
 
 1. Gestión de actividades
-  1.1 Uso del GitHub
-  1.2 Registro de actividades y entregables
-  1.3 Boletín informativo de revisión de actividades
+
+    1.1 Uso del GitHub
+  
+    1.2 Registro de actividades y entregables
+  
+    1.3 Boletín informativo de revisión de actividades
+  
 2. Gestión de activos de información
-  2.1 Repositorios
-  2.2 Organización del DropBox
-  2.3 Sincronización del DropBox
-  2.4 Reorganización de carpetas del DropBox
-  2.5 Reglas para el uso del Repositorio DropBox
-  2.6 Respaldo de información
-  2.7 Organización de activos de información
+
+    2.1 Repositorios
+  
+    2.2 Organización del DropBox
+  
+    2.3 Sincronización del DropBox
+  
+    2.4 Reorganización de carpetas del DropBox
+  
+    2.5 Reglas para el uso del Repositorio DropBox
+  
+    2.6 Respaldo de información
+  
+    2.7 Organización de activos de información
+  
 3. Uso de equipo
+
 4. Uso de las instalaciones
 
 * * * 
