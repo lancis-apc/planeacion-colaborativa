@@ -32,20 +32,20 @@
 
 **Índice**
 
-* 1. Gestión de actividades
-  * 1.1 Uso del GitHub
-  * 1.2 Registro de actividades y entregables
-  * 1.3 Boletín informativo de revisión de actividades
-* 2. Gestión de activos de información
-  * 2.1 Repositorios
-  * 2.2 Organización del DropBox
-  * 2.3 Sincronización del DropBox
-  * 2.4 Reorganización de carpetas del DropBox
-  * 2.5 Reglas para el uso del Repositorio DropBox
-  * 2.6 Respaldo de información
-  * 2.7 Organización de activos de información
-* 3. Uso de equipo
-* 4. Uso de las instalaciones
+1. Gestión de actividades
+  1.1 Uso del GitHub
+  1.2 Registro de actividades y entregables
+  1.3 Boletín informativo de revisión de actividades
+2. Gestión de activos de información
+  2.1 Repositorios
+  2.2 Organización del DropBox
+  2.3 Sincronización del DropBox
+  2.4 Reorganización de carpetas del DropBox
+  2.5 Reglas para el uso del Repositorio DropBox
+  2.6 Respaldo de información
+  2.7 Organización de activos de información
+3. Uso de equipo
+4. Uso de las instalaciones
 
 * * * 
 
@@ -206,7 +206,9 @@ a. instalarse en C:/
 b. seleccionar sincronización selectiva, es decir solo debe de sincronizar las sub carpetas que está utilizando ejemplo: `mega_procesamiento`.
 
 Se pueden compartir y sincronizar subcarpetas (segundo nivel) a cuentas de Dropbox personales de colaboradores internos de APC. Para ésto, es importante tomar en cuenta que: 
+
 a) si se modifica el nombre de una carpeta en Dropbox cuando está sincronizada en otras computadoras (incluyendo cambios de mayúsculas a minúsculas se debe desvincular la carpeta a las cuentas personales de las otras computadoras antes de hacer el cambio de nombre porque sino la modificación sólo se realiza en la computadora que hizo la modificación y en los otros equipos permanece el nombre viejo. 
+
 b) Al eliminar una carpeta compartida de Dropbox solamente se afecta en la cuenta personal pero el resto de los miembros pueden acceder a ella. Sin embargo, al eliminar archivos de una carpeta compartida, los archivos sí se eliminan para todos los miembros de la carpeta compartida.
 
 ### 2.4 Reorganización de carpetas del DropBox
