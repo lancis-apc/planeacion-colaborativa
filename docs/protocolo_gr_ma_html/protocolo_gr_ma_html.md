@@ -21,11 +21,11 @@ http://rmarkdown.rstudio.com/lesson-1.html
 ```
 Contenido del protocolo:
 
-* 1. Requisitos para recibir base de datos
-* 2. Nombre de los archivos y las gráficas y Md
-* 3. Cadena de custodia
-* 4. Formato de texto 
-* 5. Recomendaciones para la organización del Markdown
+1. Requisitos para recibir base de datos
+2. Nombre de los archivos y las gráficas y Md
+3. Cadena de custodia
+4. Formato de texto 
+5. Recomendaciones para la organización del Markdown
 
 **Puntos importantes a revisar**
 
