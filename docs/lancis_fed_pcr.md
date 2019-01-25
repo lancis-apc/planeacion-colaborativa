@@ -13,14 +13,25 @@
 # Protocolo
 
 Este protocolo se divide en los siguientes activos de información:
-*	Bases de datos
-*	Gráficas
-*	Mapas
-*	Scripts de análisis estadísticos
+1. Bases de datos
+2. Gráficas
+3. Mapas
+4. Scripts de análisis estadísticos
 
 Para la recepción de información geográfica ver "Protocolo de manejo de información geográfica"
 
 * * *
+
+**De las reglas más importantes a seguir son:**
+
+* La codificación de los archivos para bases de datos, gráficas, mapas debe de ser **UTF-8**
+
+* Para realizar la entrega de información de bases de datos se deberá llenar el [formulario](https://docs.google.com/forms/d/e/1FAIpQLSf8n_aR8laEZgTl-QB8p4vj1iIydZzhubVGrYCQzb9xRhSQ-g/viewform?usp=sf_link)
+
+* Las gráficas entregadas se hacen en el lenguaje de programación R, en el entorno RStudio, Inc. Y se utiliza la librería “ggplot2”.
+
+
+* * * 
 
 # Materiales, equipos y reactivos
 
@@ -29,15 +40,45 @@ No aplica
 * * *
 # Actividades y responsables
 
-## Bases de datos
+## 1. Bases de datos
 
-*	Para realizar la entrega de información se deberá llenar el [formulario](https://docs.google.com/forms/d/e/1FAIpQLSf8n_aR8laEZgTl-QB8p4vj1iIydZzhubVGrYCQzb9xRhSQ-g/viewform?usp=sf_link) por cada entrega:
+#### 1.1 Nombrado de archivos.
+
+Consultar el protocolo de organización de activos de información en la sección "Nombre de las carpetas y archivos de cualquier activo de información"
+
+Utilizar solo minúsculas, sin espacios y con guión bajo para separar las palabras
+
+El nombre del archivo debe de comenzar con el prefijo *bd_* seguido de un nombre corto y claro y al finalizar la fecha (diamesaño)
+
+La codificación del banco de datos deberá estar en **UTF-8**
+
+#### 1.2 Nombrado de campos.
+
+* Utilizar solo letras minúsculas y número
+
+* Máximo 10 caracteres
+
+* Tiene que ser indicativo de los datos contenidos en el campo
+
+* Debe iniciar con letras (excepto "ñ")
+
+* No debe haber espacios entre palabras, para su separación se emplea guión bajo (_)
+
+* Si el campo está relacionado con alguna referencia temporal, esta se agrega al final del nombre, 4 caracteres para un año
+
+* No debe contener caracteres especiales como: ' % # ¿ entre otros
+
+* En el formulario de entrega de información, sección "Metadatos", en "Tabla de atributos" se tiene que llenar con el nombre del campo, las unidades y la descripción.
+
+#### 1.3 Entrega de bases de datos
+
+*	Para realizar la entrega de información de bases de datos se deberá llenar el [formulario](https://docs.google.com/forms/d/e/1FAIpQLSf8n_aR8laEZgTl-QB8p4vj1iIydZzhubVGrYCQzb9xRhSQ-g/viewform?usp=sf_link) por cada entrega:
 
 * Mediante este formulario se notifica la entrega al responsable de los activos de información y al coordinador.
 
 *	El responsable de los activos de información confirmará la recepción y revisión de los mismos mediante correo electrónico.
 
-*	Cuando los datos sean revisados y aceptados se comunicará por correo electrónico la aprobación de la información.
+*	Cuando los datos sean revisados y validados se comunicará por correo electrónico la aprobación de la información.
 
 *	Bajo ninguna excepción se recibirá información sin el formulario de Entrega de activos de información.
 
@@ -68,7 +109,7 @@ En la primera sección se tiene que escribir el **nombre** de quien envía la in
 **Cita oficial.** Cita textual que pide la fuente de los datos.
 
 
-## Gráficas
+## 2. Gráficas
 Las gráficas entregadas se hacen en el lenguaje de programación R, en el entorno RStudio, Inc. Y se utiliza la librería “ggplot2”.
 
 Las gráficas entregadas estarán en fondo blanco sin la retícula con las siguientes características:
@@ -89,10 +130,10 @@ Las gráficas tienen que ser entregadas junto con el markdown y HTML correspondi
 ```
 ORGANIZACION_APC/apc_iso/protocolos/ protocolo_gr_ma_html
 ```
-## Mapas
+## 3. Mapas
 La entrega de mapas puede ser de dos tipos:
 
-**1.	Mapas para informe**
+**3.1 Mapas para informe**
 
 Los elementos mínimos que tiene que contener un mapa para informe son:
 
@@ -109,7 +150,7 @@ Los elementos mínimos que tiene que contener un mapa para informe son:
 
 El estilo de la fuente de la letra tiene que ser “Calibri” y el tamaño dependerá del tipo de elemento del mapa.
 
-**2.	Mapas interactivos en la web**
+**3.2 Mapas interactivos en la web**
 
 La visualización de los mapas interactivos en la web tiene que ser esquemático y los elementos mínimos que se necesita son:
 
@@ -118,7 +159,7 @@ La visualización de los mapas interactivos en la web tiene que ser esquemático
 *	Un título de lo que se está mostrando (opcional)
 *	Una leyenda, puede estar fija o puede ser dinámica, es decir, que cuando te posiciones en un dato se despliegue un conjunto de información.
 
-## Scripts en R de análisis estadísticos
+## 4. Scripts en R de análisis estadísticos
 Los scripts de programación en R, deben cumplir con los siguientes parámetros para su entrega.
 *	Nombres de los archivos
 
@@ -134,15 +175,15 @@ Ej. CORRECTO:  calcular_encharcamientos.R
 
 La manera preferente de asignar nombres a las variables en con minúsculas y separados con un punto (nombre.variable). Los nombres de las funciones deben tener mayúsculas al inicio (NombreFuncion). Las constantes se nombran como las funciones pero deben contener una k al inicio.
 
-**Variables**
+**4.1 Variables**
 
 Ej. CORRECTO :  prom.enchar
 
-**Nombre de funciones**
+**4.2 Nombre de funciones**
 
 Ej. CORRECTO :  CalcularPromedioEnchar
 
-**Nombre de constantes**
+**4.3 Nombre de constantes**
 
 Ej. CORRECTO :  kNombreConstante
 *	Longitud
