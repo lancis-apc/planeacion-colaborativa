@@ -22,8 +22,8 @@ Este protocolo se divide en los siguientes estándares que se desarrollan a cont
 
 **Puntos importantes a revisar**
 
-* En qué codificación y configuración del sistema deben estar las computadoras para elaborar y procesar bases de datos (Sección 1 y 2)
-* Cuáles son las reglas principales a seguir cuando se elabora una base de datos que será procesada por medio de tablas dinámicas (Sección 7)
+* [En qué codificación y configuración del sistema deben estar las computadoras para elaborar y procesar bases de datos (Sección 1 y 2)](#Seccion1)
+* [Cuáles son las reglas principales a seguir cuando se elabora una base de datos que será procesada por medio de tablas dinámicas] (#Seccion7)
 
 ## Materiales, equipos y reactivos
 
@@ -33,7 +33,7 @@ No aplica.
 
 El colaborador responsable de crear una base de datos debe realizar las siguientes actividades para cumplir con los estándares generales solicitados por APC.
 
-### 1. Configuración del Sistema
+### 1. Configuración del Sistema {#Seccion1}
 
 Independientemente del sistema operativo utilizado el colaborador debe revisar que la separación de los miles esté establecida por comas(,); y la separación decimal por puntos (.).
 
@@ -119,7 +119,7 @@ Procesamiento / Método: Describir los pasos realizados para la creación o proc
 
 Linaje: Fuente de los datos.
 
-### 7. Tablas dinámicas
+### 7. Tablas dinámicas {#Seccion7}
 
 Para bases de datos que serán procesados por medio de tablas dinámicas es importante considerar los siguiente:
 
