@@ -23,10 +23,10 @@ La organización y el resguardo de la información generada en el Área es la ba
 
 **Puntos importantes a revisar**
 
-* Cómo hacer un archivo README para el contenido de subcarpetas en las que un colaborador de APC haya creado, manejado y trabajado (sección 1.1)
-* Cómo nombrar archivos (sección 2)
-* Cómo nombrar carpetas (sección 2 y 3.1)
-* Uso de discos duros externos para respaldo (sección 7)
+* [Cómo hacer un archivo README para el contenido de subcarpetas en las que un colaborador de APC haya creado, manejado y trabajado] (#seccion1.1)
+* [Cómo nombrar archivos y carpetas](#seccion2)
+* [Estructura de las carpetas](#seccion3.1)
+* [Uso de discos duros externos para respaldo](#seccion7)
 
 * * *
 ## Materiales, equipos y reactivos
@@ -50,7 +50,7 @@ Sus actividades serán:
 En la carpeta de plantillas (`ORGANIZACION_APC\apc_plantillas`) se ubica una plantilla de muestra para el archivo README
 * Respaldar los activos cada semana
 
-#### 1.1 Sobre el archivo README.txt
+#### 1.1 Sobre el archivo README.txt {#seccion1.1}
 
 La plantilla proporcionada para este archivo es solo una muestra de un caso típico (ver `ORGANIZACION_APC\apc_plantillas\plantilla_de_archivos_README.txt`). El responsable puede modificarla haciéndolo más o menos detallado, según sea el caso, pero siempre considerando que la función de este archivo es ser útil a quien consulte el contenido de la carpeta y busque algo en ella. Lo que consideramos importante sobre este archivo es:
 
@@ -60,7 +60,7 @@ La plantilla proporcionada para este archivo es solo una muestra de un caso típ
 
 Asimismo, también es factible crear archivos README para subcarpetas dentro del proyecto, especialmente cuando se creen carpetas especiales no contempladas en el flujo normal de trabajo.
 
-### 2. Nombre de las carpetas y archivos de cualquier activo de información
+### 2. Nombre de las carpetas y archivos de cualquier activo de información {Seccion2}
 
 El nombre de los archivos debe ser en minúsculas y no debe llevar espacios, ni acentos, ni caracteres especiales restringidos:
 
@@ -187,7 +187,7 @@ DropBox (LNCS)\
 └── PAPIIT\
 
 ```
-#### 3.1 Estructura de las carpetas o directorios
+#### 3.1 Estructura de las carpetas o directorios {#Seccion3.1}
 
 El nombre de las carpetas tiene que ser corto:
 
@@ -434,7 +434,7 @@ En donde:
 En caso de que la materia no sea obligatoria y se repita cada año, la carpeta general deberá contener al menos las subcarpetas generales, ejercicios y presentaciones.
 
 * * *
-### 7. Respaldo en discos duros externos
+### 7. Respaldo en discos duros externos {#Seccion7}
 
 Toda información de un proyecto activo debe quedar respaldada en el DropBox, y semanalmente hacer respaldo en un disco duro externo que se haya designado previamente.
 
