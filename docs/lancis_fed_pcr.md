@@ -41,7 +41,7 @@ No aplica
 * * *
 # Actividades y responsables
 
-## 1. Bases de datos [#bases]
+## 1. Bases de datos {#bases}
 
 #### 1.1 Nombrado de archivos.
 
