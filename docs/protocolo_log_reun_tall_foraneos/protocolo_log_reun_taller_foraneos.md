@@ -23,9 +23,9 @@ Actividades:
 
 **Puntos importantes a considerar**
 
-* [Impresión de listas de asistencia y minuta](#Sección 1.2)
-* [Cuál es el procedimiento de salida de equipo](#Sección 1.2 y 1.3)
-* [Cual e el procedimiento para seguros de viaje](#Sección 1.4)
+[Impresión de listas de asistencia y minuta](#Sección 1.2)
+[Cuál es el procedimiento de salida de equipo](#Sección 1.2 y 1.3)
+[Cual e el procedimiento para seguros de viaje](#Sección 1.4)
 
 * * *
 
