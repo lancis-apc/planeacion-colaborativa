@@ -23,9 +23,9 @@ La organización y el resguardo de la información generada en el Área es la ba
 
 **Puntos importantes a revisar**
 
-* [Cómo hacer un archivo README para el contenido de subcarpetas en las que un colaborador de APC haya creado, manejado y trabajado] (#seccion1.1)
+* [Cómo hacer un archivo README para el contenido de subcarpetas en las que un colaborador de APC haya creado, manejado y trabajado] (#seccion1)
 * [Cómo nombrar archivos y carpetas](#seccion2)
-* [Estructura de las carpetas](#seccion3.1)
+* [Estructura de las carpetas](#seccion3)
 * [Uso de discos duros externos para respaldo](#seccion7)
 
 * * *
@@ -50,7 +50,7 @@ Sus actividades serán:
 En la carpeta de plantillas (`ORGANIZACION_APC\apc_plantillas`) se ubica una plantilla de muestra para el archivo README
 * Respaldar los activos cada semana
 
-#### 1.1 Sobre el archivo README.txt {#seccion1.1}
+#### 1.1 Sobre el archivo README.txt {#seccion1}
 
 La plantilla proporcionada para este archivo es solo una muestra de un caso típico (ver `ORGANIZACION_APC\apc_plantillas\plantilla_de_archivos_README.txt`). El responsable puede modificarla haciéndolo más o menos detallado, según sea el caso, pero siempre considerando que la función de este archivo es ser útil a quien consulte el contenido de la carpeta y busque algo en ella. Lo que consideramos importante sobre este archivo es:
 
@@ -187,7 +187,7 @@ DropBox (LNCS)\
 └── PAPIIT\
 
 ```
-#### 3.1 Estructura de las carpetas o directorios {#Seccion3.1}
+#### 3.1 Estructura de las carpetas o directorios {#Seccion3}
 
 El nombre de las carpetas tiene que ser corto:
 
