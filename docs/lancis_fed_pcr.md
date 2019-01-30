@@ -14,10 +14,10 @@
 
 Este protocolo se divide en los siguientes activos de información:
 
-1. [Bases de datos] (#bases)
-2. [Gráficas] (#graficas)
-3. [Mapas] (#mapas)
-4. [Scripts de análisis estadísticos] (#scripts)
+1. [Bases de datos](# bases)
+2. [Gráficas](#graficas)
+3. [Mapas](#mapas)
+4. [Scripts de análisis estadísticos](#scripts)
 
 Para la recepción de información geográfica ver "Protocolo de manejo de información geográfica"
 
@@ -25,11 +25,11 @@ Para la recepción de información geográfica ver "Protocolo de manejo de infor
 
 **De las reglas más importantes a seguir son:**
 
-* [La codificación de los archivos para bases de datos, gráficas, mapas tiene que ser **UTF-8**] (#bases)
+* [La codificación de los archivos para bases de datos, gráficas, mapas tiene que ser **UTF-8**](#bases)
 
-* [Para realizar la entrega de información de bases de datos se deberá llenar el [formulario] (https://docs.google.com/forms/d/e/1FAIpQLSf8n_aR8laEZgTl-QB8p4vj1iIydZzhubVGrYCQzb9xRhSQ-g/viewform?usp=sf_link)
+* [Para realizar la entrega de información de bases de datos se deberá llenar el [formulario](https://docs.google.com/forms/d/e/1FAIpQLSf8n_aR8laEZgTl-QB8p4vj1iIydZzhubVGrYCQzb9xRhSQ-g/viewform?usp=sf_link)
 
-* Las gráficas entregadas se hacen en el lenguaje de programación R, en el entorno RStudio, Inc. Y se utiliza la librería “ggplot2”. (#scripts)
+* Las gráficas entregadas se hacen en el lenguaje de programación R, en el entorno RStudio, Inc. Y se utiliza la librería “ggplot2”.(#scripts)
 
 
 * * * 
@@ -41,7 +41,7 @@ No aplica
 * * *
 # Actividades y responsables
 
-## 1. Bases de datos [#bases]
+## 1. Bases de datos {#bases}
 
 #### 1.1 Nombrado de archivos.
 
@@ -110,7 +110,7 @@ En la primera sección se tiene que escribir el **nombre** de quien envía la in
 **Cita oficial.** Cita textual que pide la fuente de los datos.
 
 
-## 2. Gráficas [#graficas]
+## 2. Gráficas {#graficas}
 Las gráficas entregadas se hacen en el lenguaje de programación R, en el entorno RStudio, Inc. Y se utiliza la librería “ggplot2”.
 
 Las gráficas entregadas estarán en fondo blanco sin la retícula con las siguientes características:
@@ -131,7 +131,7 @@ Las gráficas tienen que ser entregadas junto con el markdown y HTML correspondi
 ```
 ORGANIZACION_APC/apc_iso/protocolos/ protocolo_gr_ma_html
 ```
-## 3. Mapas [#mapas]
+## 3. Mapas {#mapas}
 La entrega de mapas puede ser de dos tipos:
 
 **3.1 Mapas para informe**
@@ -160,7 +160,7 @@ La visualización de los mapas interactivos en la web tiene que ser esquemático
 *	Un título de lo que se está mostrando (opcional)
 *	Una leyenda, puede estar fija o puede ser dinámica, es decir, que cuando te posiciones en un dato se despliegue un conjunto de información.
 
-## 4. Scripts en R de análisis estadísticos [#scripts]
+## 4. Scripts en R de análisis estadísticos {#scripts}
 Los scripts de programación en R, deben cumplir con los siguientes parámetros para su entrega.
 *	Nombres de los archivos
 
