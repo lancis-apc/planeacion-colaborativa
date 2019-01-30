@@ -43,7 +43,7 @@ La organización de reuniones y/o presentaciones que se generan en APC deberán 
 
 ## Planeación
 
-La planeación iniciará con una reunión de una a dos semanas antes del día de la presentación con todos los involucrados en el proyecto. En esta reunión se organizarán dos temas: la elaboración de la presentación y la logística de la presentación. A continuación, se enlistan las actividades a realizar en la reunión.
+La planeación inicia con una reunión, una a dos semanas antes del día de la presentación, con todos los involucrados en el proyecto. En esta reunión se organizan dos temas: la elaboración de la presentación y la logística de la presentación. A continuación, se enlistan las actividades a realizar en la reunión.
 
 **Planificación de la presentación**
 
@@ -53,7 +53,7 @@ La planeación iniciará con una reunión de una a dos semanas antes del día de
 *	Identificar los insumos requeridos
 *	Definir roles y responsabilidades
 *	Definir al coordinador de la presentación que será el encargado de la toma de decisiones
-*	Asignar al colaborador responsable de la presentación que se encargará de aplicar y verificar el Protocolo de presentaciones LANCIS
+*	Asignar al colaborador responsable de la presentación que se encargará de aplicar y verificar el [Protocolo](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/docs/protocolo_org_activ_info/protocolo_org_activ_info.html) de organización de activos de información 
 *	Establecer tiempos de entrega
 
 **Logística de la presentación**
@@ -66,7 +66,7 @@ Dependiendo del tipo de presentación se realizarán alguna o todas de las activ
 ```
 ORGANIZACION_APC/apc_iso/formatos_lista_asistencia
 ```
-Archivo pcr_fra_sigc.docx
+Archivo FRA-SGC VER1.docx
 
 ```
 ORGANIZACION_APC/apc_iso/formatos_solicitud
@@ -77,9 +77,10 @@ Archivo para solicitud de grabadoras: formato_solicitud_equipo_lancis. docsx
 ORGANIZACION_APC/apc_plantillas/plantillas_presentaciones
 ```
 
-Archivo esquema_sala_inmersión.ai
+Archivo esquema_sala_inmersion.ai
+
 ```
-ORGANIZACION_APC/apc_iso/protocolos/auxiliares_(versiones_anteriores)/logistica/anexos
+ORGANIZACION_APC/apc_iso/protocolos/protocolo_logistica
 ```
 Archivo de orden del día: anexo3_d_programa.docx
 
@@ -93,20 +94,19 @@ Archivo de identificadores: anexo4_plantilla_nombres_invitados.ait
 
 ## Elaboración de la presentación
 
-El responsable de la presentación creará la carpeta y subcarpetas necesarias dónde se encontrarán los entregables.
+El responsable de la presentación crea la carpeta y subcarpetas necesarias dónde se encuentran los entregables.
 
-Cada que inicie la elaboración del entregable para la presentación se deberá:
+Cada que inicie la elaboración del entregable para la presentación se debe:
 
-*	Nombrar los archivos de acuerdo al Protocolo de presentaciones LANCIS
+*	Nombrar los archivos de acuerdo al [Protocolo](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/docs/protocolo_org_activ_info/protocolo_org_activ_info.html) de oranización de activos de información
 *	Revisar los insumos con la coordinación interna y/o el jefe de laboratorio
 *	Revisar los entregables terminados con la coordinación (imágenes, gráficas, mapas, GIF, guion)
 *	Obtener retroalimentación
 *	Realizar correcciones
 
-Al finalizar los entregables se deberá:
+Al finalizar los entregables se debe:
 
 *	Preparar el guion de la presentación
-*	Elaborar las miniaturas de cada una de las slides que conforman el guion de acuerdo al Manual para la creación de miniaturas a partir de slides
 *	Elaborar los materiales de logística para la presentación:
 
 *	a) Lista de asistencia con autorización de grabar video y tomar fotos (pcr_fra_sigc.docx),
@@ -120,7 +120,7 @@ Al finalizar los entregables se deberá:
 *	Confirmar la asistencia de los participantes
 *	Confirmar la asistencia de los medios de comunicación y enviar un resumen de la presentación.
 *	Enviar a medios de comunicación, el orden del día y resumen de la presentación además de la lista de los asistentes
-*	Esquematizar el recinto donde se llevará a cabo la presentación y la numeración de asientos, tomando en cuenta la disposición de espacios, localización de acceso, pantallas, equipo auxiliar, muebles y asientos disponibles. Cuando se utilice la sala de inmersión de LANCIS, los lugares se enumeran en pares del lado derecho de la sala, y los impares del lado izquierdo (EsquemaSalaInmersion)
+*	Esquematizar el recinto donde se llevará a cabo la presentación y la numeración de asientos, tomando en cuenta la disposición de espacios, localización de acceso, pantallas, equipo auxiliar, muebles y asientos disponibles. Cuando se utilice la sala de inmersión de LANCIS, los lugares se enumeran en pares del lado derecho de la sala, y los impares del lado izquierdo Esquema de la sala de inmersión
 *	Asignar los lugares de acuerdo con:
 
 *	a) si es participante directo del proyecto,
