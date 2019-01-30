@@ -14,7 +14,7 @@
 
 Este protocolo se divide en los siguientes activos de información:
 
-1. [Bases de datos](# bases)
+1. [Bases de datos](#bases)
 2. [Gráficas](#graficas)
 3. [Mapas](#mapas)
 4. [Scripts de análisis estadísticos](#scripts)
@@ -25,11 +25,11 @@ Para la recepción de información geográfica ver "Protocolo de manejo de infor
 
 **De las reglas más importantes a seguir son:**
 
-* [La codificación de los archivos para bases de datos, gráficas, mapas tiene que ser **UTF-8**](#bases)
+* [La codificación de los archivos para bases de datos, gráficas, mapas tiene que ser **UTF-8**]
 
 * [Para realizar la entrega de información de bases de datos se deberá llenar el [formulario](https://docs.google.com/forms/d/e/1FAIpQLSf8n_aR8laEZgTl-QB8p4vj1iIydZzhubVGrYCQzb9xRhSQ-g/viewform?usp=sf_link)
 
-* Las gráficas entregadas se hacen en el lenguaje de programación R, en el entorno RStudio, Inc. Y se utiliza la librería “ggplot2”.(#scripts)
+* Las gráficas entregadas se hacen en el lenguaje de programación R, en el entorno RStudio, Inc. Y se utiliza la librería “ggplot2”.
 
 
 * * * 
