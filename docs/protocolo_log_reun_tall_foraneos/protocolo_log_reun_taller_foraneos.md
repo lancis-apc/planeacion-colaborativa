@@ -23,11 +23,11 @@ Actividades:
 
 **Puntos importantes a considerar**
 
-[Impresión de listas de asistencia y minuta](#Seccion 1.2)
+[Impresión de listas de asistencia y minuta](#Seccion12)
 
-[Cuál es el procedimiento de salida de equipo](#Seccion 1.2 y 1.3)
+[Cuál es el procedimiento de salida de equipo](#Seccion12)
 
-[Cual e el procedimiento para seguros de viaje](#Seccion 1.4)
+[Cual e el procedimiento para seguros de viaje](#Seccion14)
 
 * * *
 
@@ -83,7 +83,7 @@ Esta reunión se realizará con una anticipación de una a dos semanas antes del
 *	Definir roles y responsabilidades
 *	Definir al coordinador de la reunión y/o taller
 
-**1.2 Logística de la reunión y/o taller**[#Seccion 1.2][#Seccion 1.2 y 1.3]
+**1.2 Logística de la reunión y/o taller**{#Seccion12}
 
 Dependiendo del tipo de reunión y/o taller se realizarán alguna o todas de las actividades que se describen a continuación:
 
@@ -103,13 +103,13 @@ Formato de registro de reunión (minuta)
 ORGANIZACION_APC/apc_iso/formatos_lista_asistencia/FRR_SGC VER 1.docx
 ```
 
-**1.3 Procedimiento de salida de equipo**[#Seccion 1.2 y 1.3]
+**1.3 Procedimiento de salida de equipo**
 
 El vale de entrada y salida de equipo y mobiliario debe ser llenado y firmado por el Responsable del Proyecto (Dr. Luis Bojórquez), la Secretaría Administrativa y el vigilante de turno (por confirmar).
 
 [Vale de entrada y salida de equipo y mobiliario](http://web.ecologia.unam.mx/index.php/formatos-secretaria-administrativa)
 
-**1.4 Procedimiento de seguros de viajero**[#Sección 1.4]
+**1.4 Procedimiento de seguros de viajero**{#Seccion14}
 
 *Académicos y técnicos*, se tiene que tramitar el "Seguro de vida nacional y extranjero Metlife", el cual se encuentra en la sección de Formatos Secretaría Administrativa de la página del Instituto de Ecología.
 
