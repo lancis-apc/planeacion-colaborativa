@@ -1,15 +1,12 @@
 # Área de Planeación Colaborativa
 
 Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laboratorio Nacional de Ciencias de la Sostenibilidad, (LANCIS-UNAM).
-Última actualización 11 de diciembre de 2018.
+Última actualización 30 de enero de 2019.
 * * *
 
 
 # Páginas de uso cotidiano internas
-
-- [Solicitud de diseño gráfico](https://docs.google.com/forms/d/1pwCTylchzKK58oTkInZ98I9l-XVhmLRvR4dSdbE8z-E/edit?ts=5b803ab7)
 - [Página oficial de LANCIS](http://lancis.ecologia.unam.mx/)
-- [Moodle del Posgrado de Ciencias de la Sostenibilidad](http://aulas.mine.nu/recursos/login/index.php)
 - [Github de APC](https://github.com/lancis-apc/planeacion-colaborativa)
 - [Reservación de salas LANCIS](http://web.ecologia.unam.mx/index.php/asuntos-internos/206-reservacion-de-aulas)
 - [Reservación de salas Anfiteatro-LANCIS](http://lancis.ecologia.unam.mx/anfiteatro/)
@@ -77,8 +74,6 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 # Aplicaciones
 - [Parallel coordinates por colonias](http://pc.magrat.mine.nu/parallel_coordinates_maps/bc81f943e30eb935c47d169bc9910e10)
 - [Parallel coordinates por AGEB](http://pc.magrat.mine.nu/parallel_coordinates_maps/5c4e14c30a705b3386bbe6318846ed53)
-- [Red de desalojo lluvias](http://magrat.mine.nu/~fidel/lluvias/#11/19.3951/-99.1319)
-- [Red de desalojo secas](http://magrat.mine.nu/~fidel/secas/#11/19.3951/-99.1324)
 - [Red de desalojo comparación sacmex-lancis](http://magrat.mine.nu/~fidel/comparacion/#12/19.3759/-99.1066)
 - [Plataforma de funciones de valor](http://gvf.magrat.mine.nu/elevacion/gaussian/)
 
