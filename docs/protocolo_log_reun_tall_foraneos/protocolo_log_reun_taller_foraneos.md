@@ -83,7 +83,7 @@ Esta reunión se realizará con una anticipación de una a dos semanas antes del
 *	Definir roles y responsabilidades
 *	Definir al coordinador de la reunión y/o taller
 
-**1.2 Logística de la reunión y/o taller** [#seccion12]
+**1.2 Logística de la reunión y/o taller** {#seccion12}
 
 Dependiendo del tipo de reunión y/o taller se realizarán alguna o todas de las actividades que se describen a continuación:
 
@@ -109,7 +109,7 @@ El vale de entrada y salida de equipo y mobiliario debe ser llenado y firmado po
 
 [Vale de entrada y salida de equipo y mobiliario](http://web.ecologia.unam.mx/index.php/formatos-secretaria-administrativa)
 
-**1.4 Procedimiento de seguros de viajero** [#seccion14]
+**1.4 Procedimiento de seguros de viajero** {#seccion14}
 
 *Académicos y técnicos*, se tiene que tramitar el "Seguro de vida nacional y extranjero Metlife", el cual se encuentra en la sección de Formatos Secretaría Administrativa de la página del Instituto de Ecología.
 
