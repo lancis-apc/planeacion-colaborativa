@@ -30,7 +30,7 @@ Contenido del protocolo:
 **Puntos importantes a revisar**
 
 * [Qué información debes entregar si quieres que te elaboren una gráfica o mapa (Sección 1 y 3](#Seccion1)
-* [Enlaces de formato de texto en R](#Seccion 4)
+* [Enlaces de formato de texto en R](#Seccion4)
 * [Cómo organizar un md](#Seccion5)
 
 * * *
