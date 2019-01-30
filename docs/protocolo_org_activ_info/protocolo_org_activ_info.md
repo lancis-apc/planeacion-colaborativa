@@ -23,7 +23,7 @@ La organización y el resguardo de la información generada en el Área es la ba
 
 **Puntos importantes a revisar**
 
-* [Cómo hacer un archivo README para el contenido de subcarpetas en las que un colaborador de APC haya creado, manejado y trabajado] (#seccion1)
+* [Cómo hacer un archivo README para el contenido de subcarpetas en las que un colaborador de APC haya creado, manejado y trabajado](#seccion1)
 * [Cómo nombrar archivos y carpetas](#seccion2)
 * [Estructura de las carpetas](#seccion3)
 * [Uso de discos duros externos para respaldo](#seccion7)
