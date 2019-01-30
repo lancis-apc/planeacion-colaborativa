@@ -105,6 +105,10 @@ ORGANIZACION_APC/apc_iso/formatos_lista_asistencia/FRR_SGC VER 1.docx
 
 El vale de entrada y salida de equipo y mobiliario debe ser llenado y firmado por el Responsable del Proyecto (Dr. Luis Bojórquez), la Secretaría Administrativa y el vigilante de turno (por confirmar).
 
+```
+[Vale de entrada y salida de equipo y mobiliario](http://web.ecologia.unam.mx/index.php/formatos-secretaria-administrativa)
+```
+
 **1.4 Procedimiento de seguros de viajero**
 
 *Académicos y técnicos*, se tiene que tramitar el "Seguro de vida nacional y extranjero Metlife", el cual se encuentra en la sección de Formatos Secretaría Administrativa de la página del Instituto de Ecología.
