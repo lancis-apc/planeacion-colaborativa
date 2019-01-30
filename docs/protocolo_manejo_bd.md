@@ -23,7 +23,7 @@ Este protocolo se divide en los siguientes estándares que se desarrollan a cont
 **Puntos importantes a revisar**
 
 * [En qué codificación y configuración del sistema deben estar las computadoras para elaborar y procesar bases de datos (Sección 1 y 2)](#Seccion1)
-* [Cuáles son las reglas principales a seguir cuando se elabora una base de datos que será procesada por medio de tablas dinámicas] (#Seccion7)
+* [Cuáles son las reglas principales a seguir cuando se elabora una base de datos que será procesada por medio de tablas dinámicas](#Seccion7)
 
 ## Materiales, equipos y reactivos
 
