@@ -43,7 +43,7 @@ No aplica.
 
 ## Actividades y responsables
 
-### 1. Requisitos para recibir base de datos[#Seccion1]
+### 1. Requisitos para recibir base de datos [#Seccion1]
 
 El responsable del proyecto o del producto asigna a un responsable para generar la gráfica y/o mapa proporcionando la base de datos correspondiente.
 
