@@ -42,19 +42,19 @@
   
 2. Gestión de activos de información
 
-    2.1 Repositorios
+    2.1 Uso del Dropbox
   
-    2.2 Organización del DropBox
+        2.1.1 Organización del DropBox
   
-    2.3 Sincronización del DropBox
+        2.1.2 Sincronización del DropBox
   
-    2.4 Reorganización de carpetas del DropBox
+        2.1.3 Reorganización de carpetas del DropBox
   
-    2.5 Reglas para el uso del Repositorio DropBox
+        2.1.4 Reglas para el uso del Repositorio DropBox
   
-    2.6 Respaldo de información
+    2.2 Respaldo de información
   
-    2.7 Organización de activos de información
+    2.3 Organización de activos de información
   
 3. Uso de equipo
 
@@ -64,19 +64,19 @@
 
 **Puntos importantes a revisar**
 
-* Cuáles son las actividades a realizar al iniciar un proyecto o solicitud de producto (sección 1).
+- [Cuáles son las actividades a realizar al iniciar un proyecto o solicitud de producto](#seccion 1)
 
-* Instrucciones de manejo de repositorios (sección 2.1 y 2.5).
+- [Instrucciones de manejo de repositorios](#seccion 21)
 
-* Cuáles son las actividades del los responsables de la gestión de activos de información (sección 2.2).
+- [Cuáles son las actividades del los responsables de la gestión de activos de información](#seccion 211)
 
-* Cuál es el procedimiento de respaldo en APC (sección 2.6).
+- [Cuál es el procedimiento de respaldo en APC](#sección 22)
 
-* Cuáles son las actividades de apoyo a los nuevos colaboradores que desempeña el asistente administrativo del APC (sección 3).
+- [Cuáles son las actividades de apoyo a los nuevos colaboradores que desempeña el asistente administrativo del APC](#seccion 3)
 
 * * *
 
-## 1. Gestión de actividades
+## 1. Gestión de actividades {#seccion 1}
 
 El proceso de gestión de actividades consiste en:
 
@@ -154,9 +154,7 @@ A continuación se describen sus características:
 
 ## 2. Gestión de activos de información
 
-### 2.1 Repositorios
-
-Los repositorios que tenemos en el APC se dividen en:
+El APC cuenta con dos tipos de repositorios para la gestión de los activos de información:
 
 * Permanentes
   * DropBox (repositorio oficial)
@@ -170,15 +168,24 @@ Los repositorios que tenemos en el APC se dividen en:
 
 Es obligatorio que todos los colaboradores trabajen y guarden sus archivos directamente en los repositorios permanentes.
 
-En APC se cuenta con dos modalidades para trabajar en el dropbox:
-- en los espacio de trabajo personales que se encuentra en el Dropbox, y cuando se tenga el producto final se moverá a la carpeta del proyecto que le corresponda
-- en un espacio de trabajo solocitado en la carpeta del proyecto. 
+El APC cuenta con una cuenta en el dropbox de tipo empresarial, la cual permite:
 
-APC tiene una cuenta de Dropbox Business lo que permite recuperar archivos y carpetas eliminados después de seis meses de ser borrado (vía restauración) o modificado (vía control de cambios) con el historial de versiones extendido.
+- recuperar archivos y carpetas eliminadas con una arigüedad de 6 meses
 
-### 2.2 Organización del DropBox
+- tener un historial de versiones
 
-El DropBox está organizado por los proyectos principales, las cuales están nombradas en mayúsculas, por ejemplo:
+- tener una capacidad en la cuenta de 7 Tb
+
+En el APC se cuenta con dos modalidades para trabajar en el dropbox:
+
+- en los espacio de trabajo personales (/CARPETAS_TRABAJO/) y cuando se tenga el producto final se moverá a la carpeta del proyecto que le corresponda y, 
+
+- en la carpeta del proyecto (solicitud al responsable de los activos de información de un espacio de trabajo)
+
+
+### 2.1.1 Organización del DropBox {#seccion 211}
+
+El DropBox está organizado por los proyectos principales, las cuales están nombradas en mayúsculas, ejemplo:
 
 ```
 DropBox (LNCS)\
@@ -210,21 +217,21 @@ Para las siguientes carpetas se deben seguir ciertas reglas:
   * La organización de las carpetas de los colaboradores tienen que estar organizadas por proyecto y por producto
   * Los archivos contenidos en esta carpeta son de caracter temporal, ya que una vez que se tiene el producto final, éste se debe de mover a la carpeta correspondiente de insumos en el directorio del proyecto
 
-### 2.3 Sincronización del DropBox
+### 2.1.2 Sincronización del DropBox
 
 La sincronización del DropBox en las computadoras es la mejor manera de poder trabajar directamente en el repositorio y para poder hacer la sincronización debe de considerarse las siguientes indicaciones:
 
 a. instalarse en C:/
 
-b. seleccionar sincronización selectiva, es decir solo debe de sincronizar las sub carpetas que está utilizando ejemplo: `mega_procesamiento`.
+b. seleccionar sincronización selectiva, es decir solo se debe de sincronizar las sub carpetas que están utilizando ejemplo: `mega_procesamiento`.
 
-Se pueden compartir y sincronizar subcarpetas (segundo nivel) a cuentas de Dropbox personales de colaboradores internos de APC. Para ésto, es importante tomar en cuenta que: 
+Se pueden compartir y sincronizar subcarpetas (a partir del segundo nivel de organización) a cuentas de Dropbox personales de colaboradores internos de APC. Para ésto, es importante tomar en cuenta que: 
 
-a) si se modifica el nombre de una carpeta en Dropbox cuando está sincronizada en otras computadoras (incluyendo cambios de mayúsculas a minúsculas se debe desvincular la carpeta a las cuentas personales de las otras computadoras antes de hacer el cambio de nombre porque sino la modificación sólo se realiza en la computadora que hizo la modificación y en los otros equipos permanece el nombre viejo. 
+a. si se modifica el nombre de una carpeta en Dropbox cuando está sincronizada en otras computadoras (incluyendo cambios de mayúsculas a minúsculas se debe desvincular la carpeta a las cuentas personales de las otras computadoras antes de hacer el cambio de nombre porque sino la modificación sólo se realiza en la computadora que hizo la modificación y en los otros equipos permanece el nombre viejo. 
 
-b) Al eliminar una carpeta compartida de Dropbox solamente se afecta en la cuenta personal pero el resto de los miembros pueden acceder a ella. Sin embargo, al eliminar archivos de una carpeta compartida, los archivos sí se eliminan para todos los miembros de la carpeta compartida.
+b. al eliminar una carpeta compartida de Dropbox solamente se afecta en la cuenta personal pero el resto de los miembros pueden acceder a ella. Sin embargo, al eliminar archivos de una carpeta compartida, los archivos sí se eliminan para todos los miembros de la carpeta compartida.
 
-### 2.4 Reorganización de carpetas del DropBox
+### 2.1.3 Reorganización de carpetas del DropBox
 
 Para reorganizar la información que se encuentra en las carpetas del DropBox se tienen que seguir los siguientes pasos:
 
@@ -236,22 +243,23 @@ Para reorganizar la información que se encuentra en las carpetas del DropBox se
 6. Sincronizar la carpeta arreglada
 7. Mandar aviso a los colaboradores de que ya se encuentra en el DropBox la carpeta organizada.
 
-### 2.5 Reglas para el uso del Repositorio DropBox
+### 2.1.4 Reglas para el uso del Repositorio DropBox
 
 Los colaboradores deben obligatoriamente leer el `Reglamento de uso de GitHub y DropBox` para hacer uso del repositorio.
 
-### 2.6 Respaldo de información
+### 2.2 Respaldo de información {#sección 26}
 
-Toda información de un proyecto activo debe quedar respaldada en el DropBox, y semanalmente hacer respaldo en un disco duro externo.
+Toda información de un proyecto activo debe quedar respaldada en el DropBox, para que así, los responsables de la gestión de los activos de información puedan respaldar el dropbox semanalmente en un disco duro externo.
+
 Si el proyecto está terminado, se debe de respaldar la información en dos discos duros externos y eliminarlo del DropBox.
 
-### 2.7 Organización de activos de información
+### 2.3 Organización de activos de información
 
 Para conocer la forma de organizar todos los tipos de activos de información generados por APC se cuenta con un protocolo (ver `Protocolo de activos de información`)
 
 * * *
 
-## 3. Uso de equipo
+## 3. Uso de equipo {#seccion 3}
 
 El asistente administrativo del APC se encarga de la asignación del equipo de cómputo, tarjeta de acceso, lugar para trabajar y entregar llave de la gabeta (ver Recibo de equipo y tarjeta de acceso).
 
