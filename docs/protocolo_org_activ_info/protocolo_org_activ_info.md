@@ -60,7 +60,7 @@ La plantilla proporcionada para este archivo es solo una muestra de un caso típ
 
 Asimismo, también es factible crear archivos README para subcarpetas dentro del proyecto, especialmente cuando se creen carpetas especiales no contempladas en el flujo normal de trabajo.
 
-### 2. Nombre de las carpetas y archivos de cualquier activo de información {#Seccion2}
+### 2. Nombre de las carpetas y archivos de cualquier activo de información {#seccion2}
 
 El nombre de los archivos debe ser en minúsculas y no debe llevar espacios, ni acentos, ni caracteres especiales restringidos:
 
@@ -187,7 +187,7 @@ DropBox (LNCS)\
 └── PAPIIT\
 
 ```
-#### 3.1 Estructura de las carpetas o directorios {#Seccion3}
+#### 3.1 Estructura de las carpetas o directorios {#seccion3}
 
 El nombre de las carpetas tiene que ser corto:
 
@@ -434,7 +434,7 @@ En donde:
 En caso de que la materia no sea obligatoria y se repita cada año, la carpeta general deberá contener al menos las subcarpetas generales, ejercicios y presentaciones.
 
 * * *
-### 7. Respaldo en discos duros externos {#Seccion7}
+### 7. Respaldo en discos duros externos {#seccion7}
 
 Toda información de un proyecto activo debe quedar respaldada en el DropBox, y semanalmente hacer respaldo en un disco duro externo que se haya designado previamente.
 
