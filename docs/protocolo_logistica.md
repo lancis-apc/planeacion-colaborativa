@@ -43,7 +43,7 @@ La organización de reuniones y/o presentaciones que se generan en APC deberán 
 
 ## Planeación
 
-La planeación inicia con una reunión, una a dos semanas antes del día de la presentación, con todos los involucrados en el proyecto. En esta reunión se organizan dos temas: la elaboración de la presentación y la logística de la presentación. A continuación, se enlistan las actividades a realizar en la reunión.
+La planeación inicia con una reunión, al menos con una semana de anticipación, para definir, con el responsable del proyecto los siguientes temas: la elaboración de la presentación y la logística de la presentación. A continuación, se enlistan las actividades a realizar en la reunión.
 
 **Planificación de la presentación**
 
@@ -60,9 +60,9 @@ La planeación inicia con una reunión, una a dos semanas antes del día de la p
 
 Dependiendo del tipo de presentación se realizarán alguna o todas de las actividades que se describen a continuación:
 
-*	Desarrollar el orden del día de la presentación
-*	Elaborar la lista preliminar de asistentes
-*	Determinar los materiales para la reunión (orden del día, identificadores, lista de asistencia, esquema de la sala de inmersión, solicitud de equipo, documentos a repartir, copias de la presentación)
+*	Elaborar el programa de la presentación
+* Definir los asistentes, a reserva de validar la información
+*	Determinar los materiales para la reunión (identificadores, lista de asistencia, organización de la sala, documentos a repartir, carpetas y copias de la presentación)
 ```
 ORGANIZACION_APC/apc_iso/formatos_lista_asistencia
 ```
@@ -86,23 +86,21 @@ Archivo de orden del día: anexo3_d_programa.docx
 
 Archivo de identificadores: anexo4_plantilla_nombres_invitados.ait
 
-*	Determinar los medios e infraestructura requeridos para la presentación (pantallas, micrófonos, videoconferencia, grabadoras, plataforma para la presentación)
-*	Tramitar las solicitudes de préstamo del equipo de audio de LANCIS
-*	Establecer roles y responsabilidades de los colaboradores (as) en el desarrollo de la presentación (personal de recepción, toma de asistencia, operador de la presentación/plataforma, operador del audio y video)
-*	Identificar medios de comunicación que puedan cubrir el evento (si es el caso) medios impresos, radio, televisión, etc.
-*	Convocar a los medios para la presentación, informando fecha, hora, lugar, instituciones involucradas y participantes
+* Determinar los medios e infraestructura requeridos para la presentación (pantallas, micrófonos, videoconferencia, grabadoras, plataforma para la presentación)
+-	Tramitar las solicitudes de préstamo del equipo de audio de LANCIS
+-	Establecer roles y responsabilidades de los colaboradores en el desarrollo de la presentación (personal de recepción, toma de asistencia, operador de la presentación/plataforma, operador del audio y video)
+-	Identificar medios de comunicación que puedan cubrir el evento (si es el caso) medios impresos, radio, televisión, etc.
+-	Convocar a los medios para la presentación, informando fecha, hora, lugar, instituciones involucradas y participantes
 
 ## Elaboración de la presentación
 
-El responsable de la presentación crea la carpeta y subcarpetas necesarias dónde se encuentran los entregables.
+El responsable de la presentación crea la carpeta y subcarpetas necesarias dónde se alojarán y desarrollarán los entregables conforme al [protocolo](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/docs/protocolo_org_activ_info/protocolo_org_activ_info.html) de organización de activos de información, indicando:
 
-Cada que inicie la elaboración del entregable para la presentación se debe:
-
-*	Nombrar los archivos de acuerdo al [Protocolo](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/docs/protocolo_org_activ_info/protocolo_org_activ_info.html) de oranización de activos de información
-*	Revisar los insumos con la coordinación interna y/o el jefe de laboratorio
-*	Revisar los entregables terminados con la coordinación (imágenes, gráficas, mapas, GIF, guion)
-*	Obtener retroalimentación
-*	Realizar correcciones
+*	Nombre de los archivos de acuerdo al [Protocolo](https://github.com/lancis-apc/planeacion-colaborativa/blob/master/docs/protocolo_org_activ_info/protocolo_org_activ_info.html) de oranización de activos de información
+*	Los insumos con la coordinación interna y/o el jefe de laboratorio
+*	Los entregables terminados con la coordinación (imágenes, gráficas, mapas, GIF, guion)
+*	Una vez realizada la entrega parcial se debe obtener retroalimentación de la demás áreas
+*	Con ellas, se realizan las correcciones
 
 Al finalizar los entregables se debe:
 
@@ -132,14 +130,14 @@ Al finalizar los entregables se debe:
 
 ## Desarrollo de la presentación
 
-El día de la presentación se llevarán a cabo las siguientes actividades:
+El día de la presentación se llevan a cabo las siguientes actividades:
 
-+	Llegar de una a dos horas de anticipación a la presentación para verificar que esté todo listo para el evento
+*	Llegar de una a dos horas de anticipación a la presentación para verificar que esté todo listo para el evento
 *	Colocar las listas de asistencia en la recepción del anfiteatro
 *	Colocar los materiales de la presentación en los lugares de los participantes
 *	Generar nuevos materiales (si es el caso)
 
-Las personas asignadas para las actividades de logística deberán:
+Las personas asignadas para las actividades de logística deben:
 
 *	Estar en la entrada del estacionamiento, en caso de que los invitados necesiten estacionamiento. El encargado tendrá una lista de los invitados e informará a la persona encargada de la recepción, la llegada de los invitados para la preparación del gafete o la asignación del lugar
 *	Recibir a los asistentes, invitarlos a que se registren, y a que pasen a la recepción antes de entrar al anfiteatro a tomar alguna bebida o botana
