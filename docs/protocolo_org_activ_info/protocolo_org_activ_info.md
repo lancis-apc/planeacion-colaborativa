@@ -60,7 +60,7 @@ La plantilla proporcionada para este archivo es solo una muestra de un caso típ
 
 Asimismo, también es factible crear archivos README para subcarpetas dentro del proyecto, especialmente cuando se creen carpetas especiales no contempladas en el flujo normal de trabajo.
 
-### 2. Nombre de las carpetas y archivos de cualquier activo de información {Seccion2}
+### 2. Nombre de las carpetas y archivos de cualquier activo de información {#Seccion2}
 
 El nombre de los archivos debe ser en minúsculas y no debe llevar espacios, ni acentos, ni caracteres especiales restringidos:
 
