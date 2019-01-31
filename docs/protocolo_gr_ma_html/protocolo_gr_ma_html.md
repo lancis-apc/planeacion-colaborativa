@@ -29,7 +29,7 @@ Contenido del protocolo:
 
 **Puntos importantes a revisar**
 
-* [Qué información debes entregar si quieres que te elaboren una gráfica o mapa (Sección 1 y 3](#Seccion1)
+* [Qué información debes entregar si quieres que te elaboren una gráfica o mapa (Sección 1 y 3)](#Seccion1)
 * [Enlaces de formato de texto en R](#Seccion4)
 * [Cómo organizar un md](#Seccion5)
 
@@ -87,7 +87,7 @@ Los Md deben de tener la siguiente información al inicio:
   * __R (versión) Rstudio (versión),__ es importante especificar la versión de los lenguajes de programación en el que fueron ejecutados los datos
 
 
-### 4. Formato de texto {Seccion4} 
+### 4. Formato de texto {#Seccion4} 
 
 Para dar formato al texto, en Markdown se utilizan signos de puntuación y caracteres básicos; se recomienda consultar los siguientes enlaces para conocer cómo operan:
 
@@ -99,7 +99,7 @@ https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf
 
 ```
 
-### 5. Recomendaciones para la organización del Markdown {Seccion5}
+### 5. Recomendaciones para la organización del Markdown {#Seccion5}
 
 El orden de los comandos recomendado para realizar un Md es el siguiente:
 
