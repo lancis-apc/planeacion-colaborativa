@@ -12,10 +12,10 @@ GeoNetwork es un sistema basado en estándares para la gestión y creación de m
 Para cada capa generada en APC se generarán dos metadatos:
 
 #### 1. Metadato del conjunto de datos.
-En APC se adopta el estándar NOM-ISO-19139 que es la norma que describe la implementación reglada y codificada del estándar NOM-ISO-19115 a nivel de capa y de serie. Presenta esquemas XML especificos para la descripción, validación e intercambio de datos.
+En APC se adopta el estándar NOM-ISO-19139 que es la norma que describe la implementación reglada y codificada del estándar NORMA-ISO-19115 a nivel de capa y de serie. Presenta esquemas XML especificos para la descripción, validación e intercambio de datos.
 
 #### 2. Metadato del catálogo de atributos.
-En APC se adopta el estándar NOM-ISO 19110 el cual permite la descripción de los atributos y sus relaciones.
+En APC se adopta el estándar NORMA-ISO 19110 el cual permite la descripción de los atributos y sus relaciones.
 
 ## Cuenta de usuario.
 La cuenta de usurio le permite crear los metadatos asociados a las capas geográficas
@@ -64,7 +64,8 @@ pasos.
 3. Elegir la plantila para el catálogo de atributos.
 4. Elegir de la lista despegable el proyecto al cual corresponde.
 5. clic en el botón *Crear*.
-
+6. Es importante que cada nombre de la tabla de atributos se coloque el prefijo "CDA_"
+  ejemplo: CDA_agebs
 
 ![](crear_cat.PNG)
 
