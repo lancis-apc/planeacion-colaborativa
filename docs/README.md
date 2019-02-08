@@ -1,7 +1,7 @@
 # Área de Planeación Colaborativa
 
 Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laboratorio Nacional de Ciencias de la Sostenibilidad, (LANCIS-UNAM).
-Última actualización 30 de enero de 2019.
+Última actualización 8 de febrero de 2019.
 * * *
 
 
@@ -12,6 +12,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 - [Reservación de salas Anfiteatro-LANCIS](http://lancis.ecologia.unam.mx/anfiteatro/)
 - [Formulario para reportar la entrega de la información al responsable de los repositorios de SIG](https://docs.google.com/forms/d/e/1FAIpQLScmUS8yb5Pc9GUc3KTt_14wONsRa9sdJI0-Qcq8M2Z2_fU2vA/viewform?usp=sf_link) 
 - [Formulario para reportar la entrega de activos de información](https://goo.gl/forms/cTrYr1Yo0BahmYc63) 
+- [Plataformas computacionales y servicios Web del Área de Planeación Colaborativa](https://lancisapc.wixsite.com/plataformas)
 
 # Páginas de uso cotidiano externas
 - [Proyecto MEGADAPT](http://megadapt.weebly.com)
@@ -70,12 +71,6 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 - [Preparación de inputs de sleuth_automation](https://github.com/sostenibilidad-unam/slueth_inputs)
 - [Repositorio de Geo-value function](https://github.com/sostenibilidad-unam/geo-value-function)
 - [Repositorio de parallel coordinates para análisis espaciales en mapas](https://github.com/sostenibilidad-unam/parallel_coordinates_maps)
-
-# Aplicaciones
-- [Parallel coordinates por colonias](http://pc.magrat.mine.nu/parallel_coordinates_maps/bc81f943e30eb935c47d169bc9910e10)
-- [Parallel coordinates por AGEB](http://pc.magrat.mine.nu/parallel_coordinates_maps/5c4e14c30a705b3386bbe6318846ed53)
-- [Red de desalojo comparación sacmex-lancis](http://magrat.mine.nu/~fidel/comparacion/#12/19.3759/-99.1066)
-- [Plataforma de funciones de valor](http://gvf.magrat.mine.nu/elevacion/gaussian/)
 
 # Videos
 - [Manual de uso del programa Acronis para respaldar activos de información]()
