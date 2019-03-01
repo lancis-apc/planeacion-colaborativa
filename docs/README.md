@@ -1,7 +1,7 @@
 # Área de Planeación Colaborativa
 
 Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laboratorio Nacional de Ciencias de la Sostenibilidad, (LANCIS-UNAM).
-Última actualización 8 de febrero de 2019.
+Última actualización 1 de marzo de 2019.
 * * *
 
 
@@ -13,6 +13,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 - [Formulario para reportar la entrega de la información al responsable de los repositorios de SIG](https://docs.google.com/forms/d/e/1FAIpQLScmUS8yb5Pc9GUc3KTt_14wONsRa9sdJI0-Qcq8M2Z2_fU2vA/viewform?usp=sf_link) 
 - [Formulario para reportar la entrega de activos de información](https://goo.gl/forms/cTrYr1Yo0BahmYc63) 
 - [Plataformas computacionales y servicios Web del Área de Planeación Colaborativa](https://lancisapc.wixsite.com/plataformas)
+- [Geonetwork](http://magrat.mine.nu:8088/geonetwork/)
 
 # Páginas de uso cotidiano externas
 - [Proyecto MEGADAPT](http://megadapt.weebly.com)
