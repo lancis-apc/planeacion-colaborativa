@@ -11,6 +11,7 @@ Este protocolo se divide en:
 
 - [Recepción de la información.](#recepcion)
 - [Política de gestión de la información geográfica en directorios.](#gestion)
+- [Generación de mapas en Qgis 2.18](#mapas)
 - [Nombrado de archivos y de los campos.](#nombrado)
 - [Estándar de metadatos geográficos.](#estandar)
 - [Catálogo de datos geográficos.](#catalogo)
@@ -68,6 +69,7 @@ DropBox (LNCS)\
   └── insumos\
   └── desarrollo\
   └── proyectos\
+  
 ```
 
 #### 1. Repositorio insumos
@@ -190,7 +192,9 @@ DropBox (LNCS)\
     └── sig_megadapt\
       └── procesamiento\
       └── entregables\
-      └── finales\     
+      └── finales\
+      └── mapas\
+        └── plantillas\
 ```
 tp_agebs_faltas_2018_v3.shp
 
@@ -227,6 +231,26 @@ DropBox (LNCS)\
         └── tipo_de_recurso\
 
 ```
+### Generación de mapas en Qgis 2.8 {#mapas}
+
+La carpeta del proyecto contendrá una subcarpeta llamada ** mapas ** que será la carpeta indicada para almancenar los proyectos de qgis en la elaboración de mapas, estará conformada por dos subcarpetas 
+1. estilos: esta carpeta conntendrá los estilos de las capas vectoriales que sirven como insumo, el propósito es homogenizar la visualización en tos la producción de mapas del proyecto
+2. plantillas Ejemplo: 
+
+DropBox (LNCS)\
+└── SIG\
+  └── desarrollo\
+    └── sig_megadapt\
+      └── procesamiento\
+      └── entregables\
+      └── finales\
+      └── mapas\
+        └── estilos\
+        └── plantillas\
+          └── recursos\
+
+        
+
 
 ### Nombrado de archivos y de campos {#nombrado}
 
@@ -239,6 +263,18 @@ DropBox (LNCS)\
 - Para archivos temporales se agrega al final del nombre un indicativo especificando el número de versión Ejemplo:
   - tp_agebs_faltas_2018_v3.shp
 
+
+### Nombrado de proyectos en Qgis 2.18
+ - Deben comenzar con un prefijo "mp" seguido del nombre del proyecto y temática. Ejemplo:
+  -mp_fomix_carreteras_lugares_centrales.qgs
+  -mp_fomix_carreteras_localidades.qgs
+ - Máximo 60 caracteres (no considerar la extensión del archivo) 
+#### Nombrado de plantillas para la composición de mapas
+  - Deben comenzar con un prefijo "pl" seguido del nombre del proyecto y escala (utilizar la letra k para representar miles). Ejemplo:
+    - pl_papiit_50k.qpt  (la escala de este mapa es de 1:50,000)
+  - Máximo 60 caracteres (no considerar la extensión del archivo)
+   
+ 
 #### Nombrado de campos.
 
 - Utilizar solo letras minúsculas y números.
