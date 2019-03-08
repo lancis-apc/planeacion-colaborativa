@@ -17,7 +17,7 @@ Este protocolo se divide en:
 - [Catálogo de datos geográficos.](#catalogo)
 
 De las reglas más importantes a seguir son:
-- Trabajar el la carpeta de procesamiento
+- Trabajar en la carpeta de procesamiento
 - Generar una copia de los insumos a utilizar. 
 - Respetar el nombrado de archivos y campos.
 - Documentar el proceso de los datos.
@@ -235,8 +235,11 @@ DropBox (LNCS)\
 
 La carpeta del proyecto contendrá una subcarpeta llamada ** mapas ** que será la carpeta indicada para almancenar los proyectos de qgis en la elaboración de mapas, estará conformada por dos subcarpetas 
 1. estilos: esta carpeta conntendrá los estilos de las capas vectoriales que sirven como insumo, el propósito es homogenizar la visualización en tos la producción de mapas del proyecto
-2. plantillas Ejemplo: 
+2. plantillas: En esta carpeta se almacenarán las plantillas que se ocuparán en el diseñador de impresión de Qgis. 2.18, el cual contiene los elementos y parámetros requeridos para facilitar el proceso de creación de mapas. la subcarpeta " recursos " contendrá los archivos que se ocupen en la plantilla como son los logotipos. 
 
+Ejemplo: 
+
+```
 DropBox (LNCS)\
 └── SIG\
   └── desarrollo\
@@ -248,6 +251,7 @@ DropBox (LNCS)\
         └── estilos\
         └── plantillas\
           └── recursos\
+```
 
         
 
