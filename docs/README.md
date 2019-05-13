@@ -14,6 +14,7 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 - [Formulario para reportar la entrega de activos de información](https://goo.gl/forms/cTrYr1Yo0BahmYc63) 
 - [Plataformas computacionales y servicios Web del Área de Planeación Colaborativa](https://lancisapc.wixsite.com/plataformas)
 - [Geonetwork](http://magrat.mine.nu:8088/geonetwork/)
+- [Formato de reporte de quejas](http://www.ecologia.unam.mx/index.php/formatos-secretaria-administrativa)
 
 # Páginas de uso cotidiano externas
 - [Proyecto MEGADAPT](http://megadapt.weebly.com)
