@@ -90,6 +90,8 @@ Suele ser frecuente en presentaciones el caso de archivos en revisión de los cu
 ![Figura 2](fi_protocolo_presentaciones_nombre_archivos_versiones.png)
 **Figura 2.** Ejemplo de nombre de archivo de presentación con múltiples versiones.
 
+Para el nombramiento de los slides en las presentaciones, se pone el prefijo "sl", guión bajo y el número consecutivo que le corresponda. Ejemplo sl_1.png. En el caso que se hagan secuencias con los slides se nombraran todos los archivos con el mismo número consecutivo que les corresponde, agregando la secuencia numérica con un 01, 02, etc. de acuerdo al total de slides que forman la secuencia. Ejemplo sl_2_01.png, sl_2_02.png.
+
 #### 1) Clave o prefijo
 
 Se utilizarán dos letras como prefijo para indicar el tipo de producto del que se trate.
