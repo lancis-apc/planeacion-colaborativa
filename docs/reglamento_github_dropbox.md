@@ -16,8 +16,8 @@ Es importante considerar que el repositorio de APC es público por lo que es nec
 
 Para crear un issue ("new issue") se debe:
 
-* Poner un título ("Title"). Iniciar con un verbo que indique la actividad y terminar con un enunciado que facilite el entendimiento del issue
-* Agregar al final el proyecto o categoría para identificar la tarea (`ORGANIZACION_APC`, `MEGADAPT`, `IAI`, `PACIFICO`, etcétera) anteponiendo un signo de #, al final del enunciado (ejem. #IAI)
+* Poner un título ("Title"). Iniciar con un verbo que indique la actividad y terminar con un enunciado que facilite el entendimiento del issue (tarea)
+* Agregar al final de la oración el proyecto o categoría para identificar la tarea (`ORGANIZACION_APC`, `MEGADAPT`, `IAI`, `PACIFICO`, etcétera) anteponiendo un signo de # al final del enunciado (ejem. #IAI)
 
 En la sección de comentarios (leave a comment)
 
@@ -47,36 +47,43 @@ En el seguimiento de las actividades se debe:
 * Desglosar las tareas cuando sean más de una, o cuando haya más de un comentario independiente. Numerarlos y dar seguimiento con la numeración
 * Cerrar una vez que los responsables de verificación o de recepción de entregables sean notificados
 * Notificar al responsable de activos siempre que se agregue nueva información para su gestión y verificación
+* Colocar como título en la sección de los comentarios si es un Avance, Actualización
 
 ### Restricciones de Uso
  
-* No compartir ligas completas del Dropbox por este medio, solo se escribe la dirección en donde se encuentra el producto (subcarpetas). 
+* No compartir ligas completas del Dropbox por este medio, solo se escribe la ruta en donde se encuentra el producto (subcarpetas). 
 * Evitar agregar enlaces abiertos (sin contraseña) de Dropbox
 * Evitar escribir nombres completos de personas en títulos y comentarios
-* Aplicar lal política de "no harm" de información personal y de terceros
+* Aplicar la política de "no harm" de información personal y de terceros
 * Evitar mensajes personales que no estén relacionados con el mantenimiento de la bitácora del proceso o issue
 * Minimizar el etiquetado de usuarios (@usuario) a necesidades reales de colaboración
 * No cerrar, editar o modificar issues si no están asignados, son los generadores del issue o responsables de su coordinación.
 * Mantener las bitácoras con un lenguaje profesional que permita dar seguimiento al procesamiento de las tareas.
 
-Una vez terminada la actividad se cierra el issue (Close issue), éste se puede reabrir si la actividad llega a continuar
+Una vez terminada la actividad se cierra el issue (Close issue), éste se puede reabrir si la actividad llega a continuar.
+
 Cuando se requiera revisar una tarea terminada ya cerrada, reabrir el issue y continuar la bitácora en el issue original.
 
 ### Reglas para el uso del Repositorio DropBox
 
 Los colaboradores tienen que seguir las siguientes reglas para el uso del repositorio:
 
-* Recibir capacitación en el uso general del Dropbox. Única forma de conocer cuenta y contraseña de acceso
+* Recibir capacitación en el uso general del Dropbox. 
+* Contestar el formulario de "Diagnóstico en el uso del Dropbox" y aprobarlo con mínimo 8 respuestas correctas. Única forma de conocer cuenta y contraseña de acceso al DropBox
 * Proporcionar al administrador de Dropbox el nombre de las computadoras, el sistema operativo y el IP de donde usarán el Dropbox
 * Tener conocimiento en la organización general del Dropbox, ver el `Procedimiento de organización general`
 * Tener conocimiento de la organización por proyecto (ver el `Procedimiento de organización general`)
+* Tener instalado la versión de escritorio en C:\Dropbox (LANCIS)
+* Tener sincronizado el Dropbox en la computadora de uso solo con las carpetas que se estén ocupando con la opción de "Sincronización selectiva"
 * Saber a qué nivel pueden sincronizar carpetas en las computadoras
 * Conocer cómo compartir carpetas con colaboradores internos y externos
 * Notificar al responsable de gestión de activos de información de los movimientos de los activos (cambio de carpeta e ingreso o egreso) dentro de los proyectos
 * Utilizar y verificar los protocolos de nombres y organización
 * Respaldar la información en disco duros externos cada semana (ver `Protocolo de gestión de activos de información`)
+* Eliminar la selección de carpetas cuando ya no se estén ocupando
+* Eliminar la selección de carpetas y la cuenta del dropbox en la computadora cuando se deje de colaborar en el Área de Planeación Colaborativa
 
-El cumplimiento de estas reglas es indispensable para el uso del repositorio, sino se restringirá la entrada al Dropbox.
+El cumplimiento de estas reglas es indispensable para el uso del repositorio, sino se restringirá el acceso a la cuenta del Dropbox.
 
 ### Restricciones de uso
 
