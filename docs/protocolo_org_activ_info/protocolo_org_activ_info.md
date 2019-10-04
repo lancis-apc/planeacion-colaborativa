@@ -46,9 +46,8 @@ Sus actividades serán:
   _(ver el apartado: Estructura de las carpetas)_.
 * Mandar un correo informativo con la ubicación de las carpetas.
 * Monitorear a los colaboradores dando seguimiento a la organización y nombramiento de los archivos.
-* Crear un archivo `README.txt` en la raíz de la carpeta con la descripción del contenido. Este archivo debe ser actualizado cada que se modifique contenido importante en las carpetas
-En la carpeta de plantillas (`ORGANIZACION_APC\apc_plantillas`) se ubica una plantilla de muestra para el archivo README
-* Respaldar los activos cada semana
+* Crear un archivo `README.txt` en la raíz de la carpeta con la descripción del contenido. Este archivo debe ser actualizado cada que se modifique contenido e indicar en el encabezado del archivo la fecha de la última modificación; así como también indicar que carpeta(s) es la importante. En la carpeta de plantillas (`ORGANIZACION_APC\apc_plantillas`) se ubica una plantilla de muestra para el archivo README
+* Respaldar los activos cada semana y cada seis meses todo el proyecto
 
 #### 1.1 Sobre el archivo README.txt {#seccion1}
 
@@ -56,7 +55,9 @@ La plantilla proporcionada para este archivo es solo una muestra de un caso típ
 
 1. Que el archivo exista en la raíz de la carpeta principal.
 2. Que se revise y actualice con regularidad (obligadamente al concluir el proyecto).
-3. Que sea claro para quien lo consulte.
+3. Que se indique en el encabezado del documento la fecha de la última actualización.
+4. Que se indique la carpeta que contiene los archivos más importantes.
+5. Que sea claro para quien lo consulte.
 
 Asimismo, también es factible crear archivos README para subcarpetas dentro del proyecto, especialmente cuando se creen carpetas especiales no contempladas en el flujo normal de trabajo.
 
@@ -116,6 +117,7 @@ Los tipos de archivos y sus prefijos se enlistan en la siguiente tabla:
 | GIF                 | gif_   |
 | Miniatura           | mini_  |
 | Logotipo            | logo_  |
+| Temporal            | tp_  |
 
 Para casos no contemplados en la tabla, se propone escribir el tipo de producto en el nombre del archivo, así, un informe, una ficha, o un manual, comenzarán con la palabra, `informe_`, `ficha_` o `manual_`, respectivamente.
 
@@ -259,7 +261,7 @@ ORGANIZACION_APC\plantillas\plantillas_presentaciones
 ```
 #### 4.3 Organización de carpetas
 
-Como ya mencionamos, las presentaciones más sencillas pueden consistir únicamente de un archivo PPT (y su versión en PDF) y no requerir ningún insumo adicional. Por otra parte, las presentaciones más complejas requieren que  los insumos (gráficas, tablas, figuras, esquemas, videos, etc.) se conserven en la misma carpeta del PPT para futuras revisiones. Este punto se describe con mayor detalle en el apartado [Estructura de las carpetas o directorios.](#Estructura de las carpetas o directorios)
+Como ya mencionamos, las presentaciones más sencillas pueden consistir únicamente de un archivo PPT (y su versión en PDF) y no requerir ningún insumo adicional. Por otra parte, las presentaciones más complejas requieren que los insumos (gráficas, tablas, figuras, esquemas, videos, etc.) se conserven en la misma carpeta del PPT para futuras revisiones. Este punto se describe con mayor detalle en el apartado [Estructura de las carpetas o directorios.](#Estructura de las carpetas o directorios)
 
 El responsable de activos de información creará una carpeta de cada presentación en `Dropbox (LANCIS)/PRESENTACIONES`. Igual que los archivos, estas deberán identificarse con los siguientes elementos:
 
@@ -376,7 +378,7 @@ Todas las propuestas hechas por APC para la obtención de proyectos se respaldar
 
 #### 5.1 Estructura de carpetas
 
-El coordinador responsable de la propuesta o la persona responsable de la gestión de la información de la propuesta generará la siguiente estructura de carpetas dentro de la subcarpeta con el nombre de la institución. La estructura de carpetas, como ya se ha mencionado anteriormente, es flexible a las necesidades de la propuesta, por lo que no es necesario que se generen todas las subcarpetas propuestas. Sin embargo,si es necesario crear otra subcarpeta diferente a las ya establecidas se debe notificar al responsable de activos de información para que esté enterado.
+El coordinador responsable de la propuesta o la persona responsable de la gestión de la información de la propuesta generará la siguiente estructura de carpetas dentro de la subcarpeta con el nombre de la institución. La estructura de carpetas, como ya se ha mencionado anteriormente, es flexible a las necesidades de la propuesta, por lo que no es necesario que se generen todas las subcarpetas propuestas. Sin embargo, si es necesario crear otra subcarpeta diferente a las ya establecidas se debe notificar al responsable de activos de información para que esté enterado.
 
 ```
 DropBox (LANCIS)\
@@ -439,7 +441,7 @@ En caso de que la materia no sea obligatoria y se repita cada año, la carpeta g
 * * *
 ### 7. Respaldo en discos duros externos {#seccion7}
 
-Toda información de un proyecto activo debe quedar respaldada en el DropBox, y semanalmente hacer respaldo en un disco duro externo que se haya designado previamente.
+Toda la información de un proyecto activo debe quedar respaldada en el DropBox, y semanalmente hacer respaldo en un disco duro externo que se haya designado previamente.
 
 #### 7.1 Responsables de hacer respaldos de activos de información
 
