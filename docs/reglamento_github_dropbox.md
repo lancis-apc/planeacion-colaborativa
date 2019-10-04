@@ -1,6 +1,6 @@
 # Reglamento para el uso de GitHub y DropBox
 
-El Área de Planeación Colaborativa (APC) usa GitHub y Dropbox como gestor de proyectos y tareas, así como repositorios para códigos y de activos de información. A continuación se describe el uso que se les dá y reglas de uso:
+El Área de Planeación Colaborativa (APC) usa GitHub y Dropbox como gestor de proyectos y tareas, así como repositorios para códigos y de activos de información. A continuación se describe el uso que se les da y reglas de uso:
 
 ## GitHub:
 
