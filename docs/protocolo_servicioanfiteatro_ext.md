@@ -59,7 +59,7 @@ El coordinador de la presentación enviará la siguiente información a la direc
 
 ### Reunión de trabajo
 
-El coordinador y colaboradores en la elaboración de la presentación se reunirán con el personal designado en LANCIS para prestar el servicio del Anfiteatro (operador de la plataforma, capacitador y personal de logística) con el objeto de mostrarles el procedimiento a seguir para elaborar y desplegar una presentación.
+El coordinador y colaboradores en la elaboración de la presentación se reunirán con el personal designado en LANCIS para prestar el servicio del Anfiteatro (operador de la plataforma, capacitador y personal de logística) con el objeto de mostrarles el procedimiento a seguir para elaborar y desplegar una presentación. La reunión deberá realizarse una semana antes de la fecha de presentación
 
 A continuación se describen los requisitos y las recomendaciones para elaborar las presentaciones.
 
@@ -110,7 +110,7 @@ Una vez generados todos los slides de la presentación se deberán nombrar de ac
 * * *
 ### Documentos a entregar a LANCIS
 
-El coordinador subirá a la carpeta de la presentación de Dropbox, los slides finales y el guión en PowerPoint de la presentación para que el operador pueda generar el guion en la plataforma antes de que se lleven a cabo los ensayos. Los ensayos serán la única oportunidad para hacer correcciones. El día de la presentación no se harán correcciones al guion de la plataforma. Si se hacen correcciones a los slides posteriores a los ensayos, será responsabilidad del coordinador la calidad y la funcionalidad de los mismos.
+El coordinador subirá a la carpeta de la presentación de Dropbox, los slides finales y el guión en PowerPoint de la presentación para que el operador pueda generar el guion en la plataforma antes de que se lleven a cabo los ensayos. Los slides finales deberán estar disponibles cuatro días antes de la presentación. Los ensayos serán la única oportunidad para hacer correcciones. Los ensayos se harán tres días antes de la presentación. El día de la presentación no se harán correcciones al guion de la plataforma. Si se hacen correcciones a los slides posteriores a los ensayos, será responsabilidad del coordinador la calidad y la funcionalidad de los mismos.
 
 
 El coordinador de la presentación tiene la obligación de imprimir y entregar a LANCIS después del evento los siguientes documentos:
