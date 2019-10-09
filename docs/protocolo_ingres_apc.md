@@ -27,12 +27,11 @@ No aplica
 
 ## Actividades y responsables
 
-El ingreso al APC comienza con una solicitud, vía correo electrónico, por parte de los interesados (coordinador interno o externo del proyecto y estudiantes) al jefe del APC para informar de la necesidad de una nueva contratación, colaboración, espacio o intención de ser alumno del Área.  Al ser recibido el correo, se enviará un formulario al interesado para conocer más detalles de la solicitud y para evaluar el ingreso al APC.
+El ingreso al APC comienza con una solicitud, vía correo electrónico, por parte de los interesados (coordinador interno o externo del proyecto y estudiantes) al jefe del APC para informar de la necesidad de una nueva contratación, colaboración, espacio o intención de ser alumno del Área.  Al ser recibido el correo, se enviará un  [formulario](https://docs.google.com/forms/d/1muyYLeqCfR_SB3_y7k03cKo8SPdXtXVbGRUMGXCibBU/viewform?edit_requested=true) al interesado para conocer más detalles de la solicitud y para evaluar el ingreso al APC.
 
 #### Ingreso de servicios sociales
 
-El proceso de ingreso de personas que participen en el programa de servicio social de APC esta descrito en el - [Protocolo para el manejo de bases de datos](#manual)
-
+El proceso de ingreso de personas que participen en el programa de servicio social de APC esta descrito en el [manual](https://lancis-apc.github.io/planeacion-colaborativa/manual_servicio_social.html) 
 #### Ingreso de becarios
 
 ##### Becarios de ingresos extraordinarios
