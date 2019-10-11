@@ -262,6 +262,7 @@ Para conocer la forma de organizar todos los tipos de activos de información ge
 ## 3. Uso de equipo {#seccion 3}
 
 El asistente administrativo del APC se encarga de la asignación del equipo de cómputo, tarjeta de acceso, lugar para trabajar y entregar llave de la gabeta (ver Recibo de equipo y tarjeta de acceso).
+Por ningún motivo se permite que el usuario del equipo decida cambiar el sistema operativo de la computadora que se le fue entregada. Los cambios de sistema operativo únicamente se harán bajo concenso del coordinador del proyecto y el jefe del APC si fuera absolutamente necesario para la realización de alguna actividad dentro del proyecto.
 
 * * *
 
