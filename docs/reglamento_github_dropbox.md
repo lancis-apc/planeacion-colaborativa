@@ -14,18 +14,6 @@ El Área de Planeación Colaborativa (APC) usa GitHub y Dropbox como gestor de p
 
 Es importante considerar que el gestor de proyectos de APC es público por lo que es necesario seguir las siguientes reglas al hacer uso de él.
 
-## Dropbox:
-
-1. Repositorio de activos de información
-* Permite una organización por proyectos principales
-* Permite subir y guardar archivos de cualquier formato y tamaño
-* Permite tener los archivo sincronizados localmente en la computadora
-* Cuenta con versiones de archivos
-* Permite recuperar archivos eliminados
-* Se puede compartir la información mediante una liga
-
-Es importante considerar que el dropbox es el repositorio de proyectos de APC, es una cuenta privada por lo que es necesario seguir las siguientes reglas al hacer uso de él.
-
 ### Reglas para el uso del GitHub
 
 Para crear un issue ("new issue") se debe:
@@ -78,6 +66,18 @@ Una vez terminada la actividad se cierra el issue (Close issue), éste se puede 
 
 Cuando se requiera revisar una tarea terminada ya cerrada, reabrir el issue y continuar la bitácora en el issue original.
 
+## Dropbox:
+
+1. Repositorio de activos de información
+* Permite una organización por proyectos principales
+* Permite subir y guardar archivos de cualquier formato y tamaño
+* Permite tener los archivo sincronizados localmente en la computadora
+* Cuenta con versiones de archivos
+* Permite recuperar archivos eliminados
+* Se puede compartir la información mediante una liga
+
+Es importante considerar que el dropbox es el repositorio de proyectos de APC, es una cuenta privada por lo que es necesario seguir las siguientes reglas al hacer uso de él.
+
 ### Reglas para el uso del Repositorio DropBox
 
 Los colaboradores tienen que seguir las siguientes reglas para el uso del repositorio:
@@ -87,7 +87,7 @@ Los colaboradores tienen que seguir las siguientes reglas para el uso del reposi
 * Proporcionar al administrador de Dropbox el nombre de las computadoras, el sistema operativo y el IP de donde usarán el Dropbox
 * Tener conocimiento en la organización general del Dropbox, ver el `Procedimiento de organización general`
 * Tener conocimiento de la organización por proyecto (ver el `Procedimiento de organización general`)
-* Tener instalado la versión de escritorio en C:\Dropbox (LANCIS)
+* Tener instalado la versión de escritorio del Dropbox en C:\
 * Tener sincronizado el Dropbox en la computadora de uso solo con las carpetas que se estén ocupando con la opción de "Sincronización selectiva"
 * Saber a qué nivel pueden sincronizar carpetas en las computadoras
 * Conocer cómo compartir carpetas con colaboradores internos y externos
