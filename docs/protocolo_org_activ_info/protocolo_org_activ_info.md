@@ -53,13 +53,13 @@ Sus actividades serán:
 
 La plantilla proporcionada para este archivo es solo una muestra de un caso típico (ver `ORGANIZACION_APC\apc_plantillas\plantilla_de_archivos_README.txt`). El responsable puede modificarla haciéndolo más o menos detallado, según sea el caso, pero siempre considerando que la función de este archivo es ser útil a quien consulte el contenido de la carpeta y busque algo en ella. Lo que consideramos importante sobre este archivo es:
 
-1. Que el archivo exista en la raíz de la carpeta principal.
+1. Que el archivo exista en la raíz de la carpeta principal y en carpetas de proyectos y presentaciones.
 2. Que se revise y actualice con regularidad (obligadamente al concluir el proyecto).
 3. Que se indique en el encabezado del documento la fecha de la última actualización.
 4. Que se indique la carpeta que contiene los archivos más importantes.
 5. Que sea claro para quien lo consulte.
 
-Asimismo, también es factible crear archivos README para subcarpetas dentro del proyecto, especialmente cuando se creen carpetas especiales no contempladas en el flujo normal de trabajo.
+Asimismo, también es factible crear archivos README para subcarpetas dentro del proyecto, especialmente cuando se creen carpetas especiales no contempladas en el flujo normal de trabajo, y/o cuando contenga información con características especiales. Los colaboradores de APC serán los responsables de hacer y actualizar este tipo de archivo README.
 
 ### 2. Nombre de las carpetas y archivos de cualquier activo de información {#seccion2}
 
