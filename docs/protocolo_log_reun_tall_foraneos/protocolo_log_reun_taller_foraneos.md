@@ -105,7 +105,9 @@ ORGANIZACION_APC/apc_iso/formatos_lista_asistencia/FRR_SGC VER 1.docx
 
 **1.3 Procedimiento de salida de equipo**
 
-El vale de entrada y salida de equipo y mobiliario debe ser llenado y firmado por el Responsable del Proyecto (Dr. Luis Bojórquez), la Secretaría Administrativa y el vigilante de turno (por confirmar).
+Para solicitar el cañón, la cámara de video y el tripié se debe escribir un correo a la técnica académica Lakshmi Charli solicitando el equipo y notificando los días y el motivo de uso. Ella enviará los formatos correspondientes para el préstamo del equipo. Estos formatos deben ser llenados y firmado por el investigador responsable del proyecto.
+
+Para la salida de equipo interno del Área de Planeación Colaborativa, el vale de entrada y salida de equipo y mobiliario debe ser llenado y firmado por el investigador responsable del proyecto, la Secretaría Administrativa y el vigilante de turno.
 
 [Vale de entrada y salida de equipo y mobiliario](http://web.ecologia.unam.mx/index.php/formatos-secretaria-administrativa)
 
