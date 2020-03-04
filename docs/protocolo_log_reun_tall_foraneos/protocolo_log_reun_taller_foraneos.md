@@ -36,6 +36,7 @@ Actividades:
 **Materiales**
 
 * Listas de asistencia
+* Permisos de foto y video
 *	Orden del día
 *	Documentos a repartir
 * Extensiones
@@ -51,6 +52,7 @@ Actividades:
 * Maskin tape
 * Enchufe adaptador
 * Adaptadores VGA
+* Gafetes
 
 
 **Equipo**
@@ -60,6 +62,7 @@ Actividades:
 *	Equipo de grabación de sonido
 *	Equipo fotográfico
 * Formato de salida de equipo
+* Equipo de video
 
 
 Nota: La cantidad del material y del equipo dependerá del número de participantes de la reunión y/o taller.
@@ -89,6 +92,7 @@ Dependiendo del tipo de reunión y/o taller se realizarán alguna o todas de las
 
 *	Desarrollar el orden del día
 *	Imprimir lista de asistencia
+* Actualizar e imprimir permisos de foto y video
 *	Determinar los materiales para la reunión y/o taller (ver lista de materiales)
 * Hacer trámites de salida ([vale de entrada y salida de equipo y mobiliario](http://web.ecologia.unam.mx/index.php/formatos-secretaria-administrativa) y seguros de viajero)
 
@@ -101,6 +105,15 @@ ORGANIZACION_APC/apc_iso/formatos_lista_asistencia/FRA_SGC VER 1.docx
 Formato de registro de reunión (minuta)
 ```
 ORGANIZACION_APC/apc_iso/formatos_lista_asistencia/FRR_SGC VER 1.docx
+```
+
+Formato de permiso de foto y video en español e inglés
+```
+ORGANIZACION_APC/apc_iso/formatos_lista_asistencia/permiso_foto_video_es.docx
+```
+
+```
+ORGANIZACION_APC/apc_iso/formatos_lista_asistencia/permiso_foto_video_ingles.docx
 ```
 
 **1.3 Procedimiento de salida de equipo**
