@@ -37,7 +37,7 @@ Actividades:
 
 * Listas de asistencia
 * Permisos de foto y video
-*	Orden del día
+*	Orden del día y minuta
 *	Documentos a repartir
 * Extensiones
 * Multicontactos
@@ -53,6 +53,7 @@ Actividades:
 * Enchufe adaptador
 * Adaptadores VGA
 * Gafetes
+* Agenda del evento
 
 
 **Equipo**
@@ -63,6 +64,18 @@ Actividades:
 *	Equipo fotográfico
 * Formato de salida de equipo
 * Equipo de video
+* Micrófonos
+* Enlace para videoconferencia
+* Extensiones
+
+**Otros**
+
+* Servicio de café
+* Servicio de alimentación
+* Traducción simultánea
+* Internet
+* Invitaciones
+* Convocatoria a los medios de comunicación
 
 
 Nota: La cantidad del material y del equipo dependerá del número de participantes de la reunión y/o taller.
