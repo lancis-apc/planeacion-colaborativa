@@ -26,7 +26,7 @@ ORGANIZACION_APC/apc_plantillas/plantillas_informes
 * Introducción
 * Cuerpo del reporte
 * Conclusiones
-* Referencias
+* Referencias 
 
 ### Páginas finales
 * Apéndices
@@ -40,7 +40,7 @@ El archivo debe contar con:
 * Metodología
 * Resultados
 * Conclusiones
-* Referencias
+* Referencias 
 
 * * *
 # Materiales, equipos y reactivos
@@ -117,7 +117,7 @@ La metodología describe los procedimientos que se siguieron en el estudio
 
 **Resultados**
 
-Los resultados describen los productos de los métodos aplicados
+Los resultados describen los **productos** de los métodos aplicados
 
 **Conclusiones**
 
@@ -148,3 +148,7 @@ Los archivos originales de las figuras del informe deben ir anexados en su forma
 Los archivos deben  tener las siglas convenidas por el equipo de trabajo que los identifique como parte de un proyecto. Además deberán tener un nombre suficientemente descriptivo de su contenido y la fecha de su elaboración,
 
 Ejemplo:  informe_proyecto_nombre descriptivo_fecha de elaboración.
+
+# Nota
+
+Si el reporte o el informe es el resultado de un proceso participativo se deben agregar lasa listas de asistencia, las entrevistas, las fotografías, los videos, los audios, etc. 
