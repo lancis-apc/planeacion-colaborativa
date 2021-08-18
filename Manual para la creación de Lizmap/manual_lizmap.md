@@ -1,4 +1,4 @@
-# Protocolo de generación de gráficas y mapas con salida en HTML
+# Manual para la creación de Lizmap
 
 * * *
 
