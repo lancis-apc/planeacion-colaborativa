@@ -6,7 +6,7 @@
 
 **Objetivo:** Estandarizar la elaboración de mapas y gráficas en la realización de los proyectos del Área de Planeación Colaborativa (APC), así como la información relacionada con los servicios ejecutados.
 
-**Alcance:** Aplica para los proyectos desarrollados por el APC.
+**Alcance:** Para los colaboradores del APC.
 
 * * *
 
@@ -24,7 +24,7 @@ http://rmarkdown.rstudio.com/lesson-1.html
 
 ## Materiales, equipos y reactivos
 
-No aplica.
+Tener descargado QGIS.
 
 * * *
 
@@ -34,7 +34,11 @@ El jefe del Área asigna a un responsable para generar la gráfica y/o mapa.
 
 Para generar una gráfica y/o un mapa en el lenguaje de R se tiene que contar con las bases de datos en formato de csv y éstas deben de tener sus respectivos metadatos (ver `lancis_fed_pcr`, en ORGANIZACION_APC/apc_iso/protocolos).
 
-### Requisitos para recibir base de datos
+### Crear el proyecto
+
+1. Crear una carpeta con el nombre del proyecto y copiar en ella los archivos de la información geográfica que se desee mostrar en el Lizmap. (Se recomienda incluir capas de referencia geográfica, por ejemplo: límite estatal, límite municipal, localidades principales con etiquetas activadas, carreteras principales y regiones).
+2. Crear un proyecto en Qgis para , cargar las capas raster o vectoriales y guardarlo al mismo nivel de la carpeta del paso anterior en formato .qgs.
+3. Establecer la simbología de cada una de las capas geográficas según la información que se quiera comunicar, en caso de ser necesario hacer agrupaciones para organizar la información.
 
 *	Llenar el formato de entrega de datos, ver `lancis_fed_pcr.xlsx`, en:
 ```
