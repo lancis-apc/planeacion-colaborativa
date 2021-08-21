@@ -1,4 +1,4 @@
-# Protocolo de generación de gráficas y mapas con salida en HTML
+# Manual para la creación de Lizmap
 
 * * *
 
@@ -6,7 +6,7 @@
 
 **Objetivo:** Estandarizar la elaboración de mapas y gráficas en la realización de los proyectos del Área de Planeación Colaborativa (APC), así como la información relacionada con los servicios ejecutados.
 
-**Alcance:** Aplica para los proyectos desarrollados por el APC.
+**Alcance:** Para los colaboradores del APC.
 
 * * *
 
@@ -24,7 +24,7 @@ http://rmarkdown.rstudio.com/lesson-1.html
 
 ## Materiales, equipos y reactivos
 
-No aplica.
+Tener descargado QGIS.
 
 * * *
 
@@ -34,7 +34,13 @@ El jefe del Área asigna a un responsable para generar la gráfica y/o mapa.
 
 Para generar una gráfica y/o un mapa en el lenguaje de R se tiene que contar con las bases de datos en formato de csv y éstas deben de tener sus respectivos metadatos (ver `lancis_fed_pcr`, en ORGANIZACION_APC/apc_iso/protocolos).
 
-### Requisitos para recibir base de datos
+### Crear el proyecto
+
+1. Crear una carpeta con el nombre del proyecto y copiar en ella los archivos de la información geográfica que se desee mostrar en el Lizmap. (Se recomienda incluir capas de referencia geográfica, por ejemplo: límite estatal, límite municipal, localidades principales con etiquetas activadas, carreteras principales y regiones).
+2. Crear un proyecto en Qgis para , cargar las capas raster o vectoriales y guardarlo al mismo nivel de la carpeta del paso anterior en formato .qgs.
+3. Establecer la simbología de cada una de las capas geográficas según la información que se quiera comunicar, en caso de ser necesario hacer agrupaciones para organizar la información.
+
+![Figura 1](imagen1.png)
 
 *	Llenar el formato de entrega de datos, ver `lancis_fed_pcr.xlsx`, en:
 ```
@@ -45,81 +51,75 @@ ORGANIZACION_APC/apc_iso/protocolos
 * Las bases de datos tienen que estar nombrados con el siguiente formato:
 
   `bd_proyecto_nombre_fecha`
+  
 
-Evitar poner cualquiera de los siguientes caracteres:
-< > ´ : " \ | / { } * ? ' @ + ~ ñ # % &
+### Configurar el proyecto para la web 
 
-Donde:
+1. Configurar el sistema de referencia de coordenadas, CRS del proyecto, por ejemplo:
 
-bd= prefijo de base de datos
+EPSG:32616 - WGS 84 / UTM zone 16N - Proyectado
+EPSG:4326 - WGS 84
+etc
+![Figura 2](imagen2.png)
 
-proyecto= nombre del proyecto de donde proceden los datos
+2. Configurar las propiedades del proyecto
+(proyecto‣propiedades del proyecto ‣ servidor de QGIS)
 
-nombre= del archivo, ya sea tema, título o algo que indique el contenido
+* Activar la casilla "Capacidades del servicio"
+* Colocar nombre, título y resumen del proyecto
+* Activar la casilla "Advertised extend", se puede utilizar la extensión de la vista actual del mapa o configurar una extensión más específica. 
+* Seleccionar "Restricciones del SRC" y dar clic en el botón "Usado"
+![Figura 3](imagen3.png)
+* En la sección "Capacidades WMTS", activar las casillas de todas las capas para que se muestren en el Lizmap, también seleccionar todas las opciones de cuadrícula.
+* En la sección "Capacidades de WFS" y "Capacidades WCS" dar clic en los botones "seleccionar todo"
 
-fecha= dato del ddmesaño (ver las abreviaturas de los meses, tabla 1) de cuando se envía esa versión de los datos.
+![Figura 4](imagen4.png)
 
-**Tabla 1.** Mes y abreviatura.
 
-| Mes  |	Abreviatura |
-| ---  |  :------:    |
-| enero  |	ene       |
-| marzo  |	mar       |
-| abril  |	abr       |
-| mayo   |	may       |
-| junio  |	jun       |
-| julio  |	jul       |
-| agosto |	ago       |
-| septiembre | sep    |
-| octubre |	oct       |
-| noviembre	| nov     |
-| diciembre |	dic     |
+### Configurar el proyecto para Lizmap
 
-Ejemplo:
-bd_megadapt_escasez_10ago2017
+1. Instalar el complemento Lizmap
+El complemento Lizmap está disponible a través del repositorio oficial del proyecto QGIS: http://plugins.qgis.org/plugins/lizmap/ Para instalarlo seguir el procedimiento:
 
-**Nota:** La hoja de datos (bd) debe tener columnas con nombres claros y específicos, además de contener las unidades correspondientes (si es el caso, km, mm, cm, etc.). Cualquier modificación hecha a la bd original debe estar documentada agregando un bloc de notas adjunto (README)
+* Menú ‣ Complementos ‣ Administrar e instalar complementos
+* Buscar Lizmap
+* Instalar el complemento
+El complemento aparecerá en el menú y en la barra de herramientas Web
 
-### Nombre de las gráficas y Md:
+![Figura 5](imagen5.png)
 
-Estos archivos deben ser nombrados de la siguiente forma:
+2. Abrir el complemento Lizmap para configurar las capas
 
-gr_nombre_proyecto_fecha
+__Pestaña "Opciones del mapa"__ Herramientas del mapa ‣ prender las casillas: medir e historia de zoom. Busqueda de dirección: google
+![Figura 6](imagen6.png)
 
-Donde:
+__Pestaña "Capas"__ es el título de la información que se está representando en las gráficas y/o mapas
+La configuración de la capas se realiza en esta pestaña, en ella se muestra el árbol de capas del proyecto con la misma organización que se define en el panel Capas. Seleccionar uno de los elementos del árbol, una capa o grupo, y configurar las opciones para el grupo o capa seleccionados.
 
-gr= prefijo de gráfica
+Colocar el título de la capa (es el que se mostrará en el Lizmap)
+En "enlace" colocar la url del metadato de Geonetwork
+Activar la casilla "display in legend tree" (hacer esto para todas las capas cargadas en el proyecto).
 
-nombre= tema o título que indique el contenido de la gráfica
+![Figura 7](imagen7.png)
 
-proyecto= nombre del proyecto de donde proceden los datos
 
-fecha= día, mes y año de cuando se envía esa versión de los datos
+__Pestaña "Capas base"__ Esta pestaña permite agregar servicios externos como capa base y una capa base vacía.
 
-En caso de tratarse de un pre procesamiento de datos, cuyo fin no es el de obtener una gráfica o un mapa, debe de indicarse en el nombre del Md de la siguiente forma:
+![Figura 8](imagen8.png)
 
-pre_analisis_nombre del tema o archivo que se trabaja_fecha
+__Pestaña "Tabla de atributos"__ En esta pestaña se activa la opción para mostrar en el Lizmap la tabla de atributos de las capas vectoriales (las capas raster no tienen tablas de atributos, es decir para este caso solo se activará para las capas de insumos y las capas de referencias geográficas).
 
-### Información mínima necesaria contenida en los Md
+Dar clic en el botón + y seleccionar cada una de las capas vectoriales, eligiendo en cada caso la "primary key" (puede ser el campo: id, id_municipio, id_edo, etc).
 
-Los Md deben de tener la siguiente información:
+![Figura 9](imagen9.png)
 
-* Información correspondiente a la cadena de custodia de los datos (ver `plantilla_md`)
+Guardar el proyecto al finalizar (proyecto ‣ guardar)
 
-  * __Proyecto,__ nombre del proyecto
-  * __Entrega,__ es la información del colaborador que está entregando activos de información
-  * __Recepción,__ es la información del colaborador que se encarga de recibir los activos de información
-  * __Título,__ es el título de la información que se está representando en las gráficas y/o mapas
-  * __Tema,__ en algunos proyectos están divididos en temas, ejemplos: peces, fauna terrestre, microbiota, vegetación, abiótico, geomorfología
-  * __Fecha de toma de muestras,__ se coloca la fecha de la toma de las muestra
-  * __Fecha de Vo.Bo.,__ es la fecha en la que el responsable de la información revisó y aprobó las gráficas y/o mapas
-  * __Metodología,__ es la descripción del proceso para la obtención de los datos
-  * __R (versión) Rstudio (versión),__ es importante especificar la versión de los lenguajes de programación en el que fueron ejecutados los datos
-
+Como recurso adicional, se puede revisar la guía de usuario para el uso de Lizmap
 
 **Nota:** Para dar formato al texto, en Markdown se utilizan signos de puntuación y caracteres básicos; se recomienda consultar los siguientes enlaces para conocer cómo operan:
 ```
-http://rmarkdown.rstudio.com/authoring_basics.html
+https://lancis-apc.github.io/SVACC/lizmap.html
 ```
 ```
 https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf
@@ -132,7 +132,7 @@ El orden de los comandos recomendado para realizar un Md es el siguiente:
 *	Data.frame
 *	Objets <-
 
-![Figura 1](fi_protocolo_rmd_objects.png)
+
 
 *	Geoms
 * Scales
