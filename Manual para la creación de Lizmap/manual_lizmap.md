@@ -78,7 +78,7 @@ etc
 
 ### Configurar el proyecto para Lizmap
 
-1. Insalar el complemento Lizmap
+1. Instalar el complemento Lizmap
 El complemento Lizmap está disponible a través del repositorio oficial del proyecto QGIS: http://plugins.qgis.org/plugins/lizmap/ Para instalarlo seguir el procedimiento:
 
 * Menú ‣ Complementos ‣ Administrar e instalar complementos
@@ -90,14 +90,36 @@ El complemento aparecerá en el menú y en la barra de herramientas Web
 
 2. Abrir el complemento Lizmap para configurar las capas
 
-__Pestaña "Opciones del mapa"__ es el título de la información que se está representando en las gráficas y/o mapas
+__Pestaña "Opciones del mapa"__ Herramientas del mapa ‣ prender las casillas: medir e historia de zoom. Busqueda de dirección: google
+![Figura 6](imagen6.png)
+
 __Pestaña "Capas"__ es el título de la información que se está representando en las gráficas y/o mapas
-__Pestaña "Capas base"__ es el título de la información que se está representando en las gráficas y/o mapas
-__Pestaña "Tabla de atributos"__ es el título de la información que se está representando en las gráficas y/o mapas
+La configuración de la capas se realiza en esta pestaña, en ella se muestra el árbol de capas del proyecto con la misma organización que se define en el panel Capas. Seleccionar uno de los elementos del árbol, una capa o grupo, y configurar las opciones para el grupo o capa seleccionados.
+
+Colocar el título de la capa (es el que se mostrará en el Lizmap)
+En "enlace" colocar la url del metadato de Geonetwork
+Activar la casilla "display in legend tree" (hacer esto para todas las capas cargadas en el proyecto).
+
+![Figura 7](imagen7.png)
+
+
+__Pestaña "Capas base"__ Esta pestaña permite agregar servicios externos como capa base y una capa base vacía.
+
+![Figura 8](imagen8.png)
+
+__Pestaña "Tabla de atributos"__ En esta pestaña se activa la opción para mostrar en el Lizmap la tabla de atributos de las capas vectoriales (las capas raster no tienen tablas de atributos, es decir para este caso solo se activará para las capas de insumos y las capas de referencias geográficas).
+
+Dar clic en el botón + y seleccionar cada una de las capas vectoriales, eligiendo en cada caso la "primary key" (puede ser el campo: id, id_municipio, id_edo, etc).
+
+![Figura 9](imagen9.png)
+
+Guardar el proyecto al finalizar (proyecto ‣ guardar)
+
+Como recurso adicional, se puede revisar la guía de usuario para el uso de Lizmap
 
 **Nota:** Para dar formato al texto, en Markdown se utilizan signos de puntuación y caracteres básicos; se recomienda consultar los siguientes enlaces para conocer cómo operan:
 ```
-http://rmarkdown.rstudio.com/authoring_basics.html
+https://lancis-apc.github.io/SVACC/lizmap.html
 ```
 ```
 https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf
