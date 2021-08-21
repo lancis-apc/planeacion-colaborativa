@@ -4,21 +4,27 @@
 
 ## Objetivo y alcance
 
-**Objetivo:** Estandarizar la elaboración de mapas y gráficas en la realización de los proyectos del Área de Planeación Colaborativa (APC), así como la información relacionada con los servicios ejecutados.
+**Objetivo:** 
 
-**Alcance:** Para los colaboradores del APC.
+Mostrar como publicar proyectos mediante el complemento de QGIS: Lizmap, a través de (1) la explicación de como preparar un proyecto QGIS para publicarlo en la web y (2) como configurar un proyecto para Lizmap.
+
+**Alcance:** 
+
+Para los colaboradores del APC.
 
 * * *
 
 ## Protocolo
 
-El desarrollo y gestión de la información representada en los mapas y gráficas es la base para los estudios realizados por el APC, por lo tanto, se vuelve fundamental y prioritario seguir un orden en su creación y resguardo de información.
+Este protocolo se divide en: 
 
-Para dar salida, respaldo y acceso a las gráficas y mapas, el script debe ser hecho en Markdown (Md) como una herramienta que permite la conversión de texto plano a un HTML de forma muy sencilla, ver:
+- [Creación del proyecto](#creacion)
+- [Configuración del proyecto para la web](#web)
+- [Configuración del proyecto para Lizmap](#lizmap)
 
-```
-http://rmarkdown.rstudio.com/lesson-1.html
-```
+De las reglas más importantes a seguir son: 
+
+
 
 * * *
 
@@ -30,11 +36,9 @@ Tener descargado QGIS.
 
 ## Actividades y responsables
 
-El jefe del Área asigna a un responsable para generar la gráfica y/o mapa.
+No aplica
 
-Para generar una gráfica y/o un mapa en el lenguaje de R se tiene que contar con las bases de datos en formato de csv y éstas deben de tener sus respectivos metadatos (ver `lancis_fed_pcr`, en ORGANIZACION_APC/apc_iso/protocolos).
-
-### Crear el proyecto
+### Creación del proyecto {#creacion}
 
 1. Crear una carpeta con el nombre del proyecto y copiar en ella los archivos de la información geográfica que se desee mostrar en el Lizmap. (Se recomienda incluir capas de referencia geográfica, por ejemplo: límite estatal, límite municipal, localidades principales con etiquetas activadas, carreteras principales y regiones).
 2. Crear un proyecto en Qgis para , cargar las capas raster o vectoriales y guardarlo al mismo nivel de la carpeta del paso anterior en formato .qgs.
@@ -53,7 +57,7 @@ ORGANIZACION_APC/apc_iso/protocolos
   `bd_proyecto_nombre_fecha`
   
 
-### Configurar el proyecto para la web 
+### Configuración del proyecto para la web {#web}
 
 1. Configurar el sistema de referencia de coordenadas, CRS del proyecto, por ejemplo:
 
@@ -76,7 +80,7 @@ etc
 ![Figura 4](imagen4.png)
 
 
-### Configurar el proyecto para Lizmap
+### Configuración del proyecto para Lizmap {#lizmap}
 
 1. Instalar el complemento Lizmap
 El complemento Lizmap está disponible a través del repositorio oficial del proyecto QGIS: http://plugins.qgis.org/plugins/lizmap/ Para instalarlo seguir el procedimiento:
