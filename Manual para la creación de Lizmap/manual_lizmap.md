@@ -4,175 +4,150 @@
 
 ## Objetivo y alcance
 
-**Objetivo:** Estandarizar la elaboración de mapas y gráficas en la realización de los proyectos del Área de Planeación Colaborativa (APC), así como la información relacionada con los servicios ejecutados.
+**Objetivo:** 
 
-**Alcance:** Para los colaboradores del APC.
+Mostrar como publicar proyectos mediante el complemento de QGIS: Lizmap, a través de (1) la explicación de como preparar un proyecto QGIS para publicarlo en la web y (2) como configurar un proyecto para Lizmap.
+
+**Alcance:** 
+
+Para los colaboradores del APC
 
 * * *
 
-## Protocolo
+## Manual
 
-El desarrollo y gestión de la información representada en los mapas y gráficas es la base para los estudios realizados por el APC, por lo tanto, se vuelve fundamental y prioritario seguir un orden en su creación y resguardo de información.
-
-Para dar salida, respaldo y acceso a las gráficas y mapas, el script debe ser hecho en Markdown (Md) como una herramienta que permite la conversión de texto plano a un HTML de forma muy sencilla, ver:
-
-```
-http://rmarkdown.rstudio.com/lesson-1.html
-```
+Este procedimiento se llevará a cabo 
 
 * * *
 
 ## Materiales, equipos y reactivos
 
-Tener descargado QGIS.
+Tener descargado QGIS e instalar el complemento Lizmap [Ver: Instalar el complemento Lizmap](#instalación)
 
 * * *
 
 ## Actividades y responsables
 
-El jefe del Área asigna a un responsable para generar la gráfica y/o mapa.
+No aplica
 
-Para generar una gráfica y/o un mapa en el lenguaje de R se tiene que contar con las bases de datos en formato de csv y éstas deben de tener sus respectivos metadatos (ver `lancis_fed_pcr`, en ORGANIZACION_APC/apc_iso/protocolos).
+### Creación del proyecto 
 
-### Crear el proyecto
+1. Crear una carpeta en ```SIG/``` con el nombre del proyecto y guardar en ella los archivos de la información geográfica que se deseen mostrar en el Lizmap, esto con el fin de (....). (Se recomienda incluir capas de referencia geográfica, por ejemplo: límite estatal, límite municipal, localidades principales con etiquetas activadas, carreteras, etc).
 
-1. Crear una carpeta con el nombre del proyecto y copiar en ella los archivos de la información geográfica que se desee mostrar en el Lizmap. (Se recomienda incluir capas de referencia geográfica, por ejemplo: límite estatal, límite municipal, localidades principales con etiquetas activadas, carreteras principales y regiones).
-2. Crear un proyecto en Qgis para , cargar las capas raster o vectoriales y guardarlo al mismo nivel de la carpeta del paso anterior en formato .qgs.
+2. Crear un proyecto en Qgis y añadir las capas raster o vectoriales que contendrá el Lizmap, el proyecto debe quedar guardado al mismo nivel de la carpeta del paso anterior en formato .qgs.
+
 3. Establecer la simbología de cada una de las capas geográficas según la información que se quiera comunicar, en caso de ser necesario hacer agrupaciones para organizar la información.
 
 ![Figura 1](imagen1.png)
-
-*	Llenar el formato de entrega de datos, ver `lancis_fed_pcr.xlsx`, en:
-```
-ORGANIZACION_APC/apc_iso/protocolos
-```
-* Las bases de datos deben estar contenidas en archivos de Excel (.xls, .xlsx) o Libre office (.csv).
-
-* Las bases de datos tienen que estar nombrados con el siguiente formato:
-
-  `bd_proyecto_nombre_fecha`
   
 
-### Configurar el proyecto para la web 
+### Configuración del proyecto para la web 
 
-1. Configurar el sistema de referencia de coordenadas, CRS del proyecto, por ejemplo:
+1. Configurar el sistema de referencia de coordenadas CRS del proyecto (pestaña proyecto ‣ propiedades del proyecto), por ejemplo:
 
-EPSG:32616 - WGS 84 / UTM zone 16N - Proyectado
-EPSG:4326 - WGS 84
-etc
+- EPSG:32616 - WGS 84 / UTM zone 16N - Proyectado
+- EPSG:4326 - WGS 84
+- etc
+
 ![Figura 2](imagen2.png)
 
-2. Configurar las propiedades del proyecto
-(proyecto‣propiedades del proyecto ‣ servidor de QGIS)
 
-* Activar la casilla "Capacidades del servicio"
-* Colocar nombre, título y resumen del proyecto
-* Activar la casilla "Advertised extend", se puede utilizar la extensión de la vista actual del mapa o configurar una extensión más específica. 
-* Seleccionar "Restricciones del SRC" y dar clic en el botón "Usado"
+2. Configurar las propiedades del servidor de QGIS
+
+- Activar la casilla "Capacidades del servicio"
+- Colocar nombre, título y resumen del proyecto
+- Activar la casilla "Advertised extend", para configurar la extensión máxima de visualización, se puede utilizar la extensión de la vista actual del mapa o configurar una extensión más específica. 
+- Seleccionar "Restricciones del SRC" y dar clic en el botón "Usado"
+- En las secciones "Capacidades WMTS", "Capacidades de WFS" y "Capacidades WCS", activar las casillas de las capas que se desean mostrar en el Lizmap, si se quieren mostrar todas las capas dar clic en los botones "seleccionar todo".
+
 ![Figura 3](imagen3.png)
-* En la sección "Capacidades WMTS", activar las casillas de todas las capas para que se muestren en el Lizmap, también seleccionar todas las opciones de cuadrícula.
-* En la sección "Capacidades de WFS" y "Capacidades WCS" dar clic en los botones "seleccionar todo"
 
 ![Figura 4](imagen4.png)
 
 
-### Configurar el proyecto para Lizmap
+### Configuración del proyecto para Lizmap 
 
-1. Instalar el complemento Lizmap
-El complemento Lizmap está disponible a través del repositorio oficial del proyecto QGIS: http://plugins.qgis.org/plugins/lizmap/ Para instalarlo seguir el procedimiento:
+1. Instalar el complemento Lizmap {#instalacion}
 
-* Menú ‣ Complementos ‣ Administrar e instalar complementos
-* Buscar Lizmap
-* Instalar el complemento
+El complemento Lizmap está disponible a través del repositorio oficial del proyecto QGIS: http://plugins.qgis.org/plugins/lizmap/ . Para instalarlo seguir el procedimiento:
+
+- Menú ‣ Complementos ‣ Administrar e instalar complementos
+- Buscar Lizmap
+- Instalar el complemento
 El complemento aparecerá en el menú y en la barra de herramientas Web
 
 ![Figura 5](imagen5.png)
 
+#### Organización del complemento Lizmap 
+
+El complemento está organizado en 13 pestañas:
+
+- Opciones del mapa: las opciones generales del mapa
+- Capas: las opciones de cada capa
+- Capas base: las capas base utilizadas en la Web
+- Locate by layer: la lista desplegable que da la capacidad de hacer zoom en uno o más objetos espaciales de la capa
+- Tabla de atributos: las tablas de atributos de las capas vectoriales agregadas
+- Edición de capa: las capacidades de edición para cada capa
+- Capas de herramientas de ayuda: la información sobre las herramientas del mapa disponibles para el usuario
+- Filtrar por usuario: los filtros aplicados para mostrar a los usuarios
+- Visualización de datos: la creación de gráficas a partir de capas
+- Gestor de tiempos: las animaciones a partir de las capas vectoriales que contengan un atributo de fecha u hora
+- Atlas: la configuración de los atributos de una capa para hacer una secuencia
+- Filter data with form: los formularios que permite buscar entre los datos de una capa
+- Log: la información de las acciones realizadas
+
+
+![Figura 10](imagen10.png)
+
 2. Abrir el complemento Lizmap para configurar las capas
 
-__Pestaña "Opciones del mapa"__ Herramientas del mapa ‣ prender las casillas: medir e historia de zoom. Busqueda de dirección: google
+__Pestaña "Opciones del mapa"__: En esta pestaña se habilitan o deshabilitan las herramientas básicas de Lizmap, eligiendo escalas y la extensión inicial.
+
+- Activar las casillas: medir e historia de zoom. 
+- En la extensión inicial del mapa se puede elegir entre ajustar a partir de las propiedades del proyecto o ajustar a partir del canvas del mapa.
+
 ![Figura 6](imagen6.png)
 
-__Pestaña "Capas"__ es el título de la información que se está representando en las gráficas y/o mapas
-La configuración de la capas se realiza en esta pestaña, en ella se muestra el árbol de capas del proyecto con la misma organización que se define en el panel Capas. Seleccionar uno de los elementos del árbol, una capa o grupo, y configurar las opciones para el grupo o capa seleccionados.
+__Pestaña "Capas"__: La configuración de la capas se realiza en esta pestaña, para ello se debe seleccionar una capa o grupo y agregar la siguiente información:
 
-Colocar el título de la capa (es el que se mostrará en el Lizmap)
-En "enlace" colocar la url del metadato de Geonetwork
-Activar la casilla "display in legend tree" (hacer esto para todas las capas cargadas en el proyecto).
+- Colocar el título de la capa (es el que se mostrará en el Lizmap)
+- En "enlace" colocar la url del metadato de Geonetwork
+- Activar la casilla "display in legend tree" (hacer esto para todas las capas cargadas en el proyecto).
+- Si se desea que una capa se muestra predeterminadamente en el proyecto web de Lizmap sin necesidad de activarla manualmente (p.ej. la capa de límites municipales), se debe activar la casilla "toggled"
 
 ![Figura 7](imagen7.png)
 
 
-__Pestaña "Capas base"__ Esta pestaña permite agregar servicios externos como capa base y una capa base vacía.
+__Pestaña "Capas base"__: Esta pestaña permite agregar servicios externos como capas base y una capa base vacía, la capa base vacía mostrará las capas temáticas sobre el color de fondo del proyecto. Las capas base no forman parte de la leyenda y se presentan como una lista.
 
 ![Figura 8](imagen8.png)
 
-__Pestaña "Tabla de atributos"__ En esta pestaña se activa la opción para mostrar en el Lizmap la tabla de atributos de las capas vectoriales (las capas raster no tienen tablas de atributos, es decir para este caso solo se activará para las capas de insumos y las capas de referencias geográficas).
+__Pestaña "Tabla de atributos"__: En esta pestaña se activa la opción para mostrar en el Lizmap la tabla de atributos de las capas vectoriales.
 
-Dar clic en el botón + y seleccionar cada una de las capas vectoriales, eligiendo en cada caso la "primary key" (puede ser el campo: id, id_municipio, id_edo, etc).
+- Dar clic en el botón + y seleccionar cada una de las capas vectoriales, eligiendo en cada caso la "primary key" (puede ser el campo: id, id_municipio, id_edo, etc).
 
 ![Figura 9](imagen9.png)
 
-Guardar el proyecto al finalizar (proyecto ‣ guardar)
+- Guardar el proyecto al finalizar 
 
-Como recurso adicional, se puede revisar la guía de usuario para el uso de Lizmap
 
-**Nota:** Para dar formato al texto, en Markdown se utilizan signos de puntuación y caracteres básicos; se recomienda consultar los siguientes enlaces para conocer cómo operan:
+**Nota:** Los pasos explicados en esta sección son los básicos que hasta el momento se utilizan para crear proyectos Lizmap en el ACP, sin embargo, este complemento cuenta con muchos otros recursos que se recomiendan implementar de acuerdo con los objetivos de los proyectos. Como información adicional, se puede revisar la guía de usuario para el uso de Lizmap:
+
 ```
 https://lancis-apc.github.io/SVACC/lizmap.html
 ```
-```
-https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf
 
-```
-
-El orden de los comandos recomendado para realizar un Md es el siguiente:
-
-* Libraries (se contará con un repositorio para facilitar el uso de las mismas)
-*	Data.frame
-*	Objets <-
+### Publicación del mapa
 
 
 
-*	Geoms
-* Scales
-*	Labs
-*	Theme
-
-![Figura 2](fi_protocolo_rmd_theme.png)
-
-En caso de que la gráfica haya sido editada en algún otro programa (Photoshop, Ilustrator, etc.) para efectos de presentación, esto deberá ser mencionado como nota en el md y se agregará la versión final de la gráfica con el siguiente comando fuera del chunk:
-
-```
-![Caption for the picture.] (Z:\Procesamiento\Graficas\faseaguda\superficial_muestreo\G_SOL_M_Al31.png)
-```
-
-En caso de que la base de datos se haya agregado desde un csv, la tabla de datos se agrega al final del markdown (dentro de un chunk) con el siguiente comando:
-
-```
-{r,echo=FALSE}
-knitr::kable(laTablaAl)
-```
-
-Dentro del paréntesis va a el nombre de la base de datos correspondiente.
-
-En caso de que la base de datos sea muy grande, se podrá agregar sólo parte de ella.
-
-Ejemplo:
-
-![Figura 3](fi_protocolo_rmd_datos.png)
-
-![Figura 4](fi_protocolo_rmd_mapa.png)
+### Herramientas para la visualización web
 
 * * *
 
 ## Referencias
 
 
-http://rmarkdown.rstudio.com/authoring_basics.html
-
-http://www.analiticaweb.es/agilidad-facilidad-markdown/
-
-http://rmarkdown.rstudio.com/lesson-1.html
+Lizmap 3.2. Publisher guide. (2014). Lizmap Documentation. https://docs.lizmap.com/current/es/publish/index.html
 
 * * *
