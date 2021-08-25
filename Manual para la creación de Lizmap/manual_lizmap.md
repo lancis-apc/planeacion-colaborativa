@@ -137,12 +137,6 @@ __Pestaña "Tabla de atributos"__: En esta pestaña se activa la opción para mo
 https://lancis-apc.github.io/SVACC/lizmap.html
 ```
 
-### Publicación del mapa
-
-
-
-### Herramientas para la visualización web
-
 * * *
 
 ## Referencias
