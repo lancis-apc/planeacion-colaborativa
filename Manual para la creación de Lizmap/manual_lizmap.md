@@ -14,12 +14,6 @@ Para los colaboradores del APC
 
 * * *
 
-## Manual
-
-Este procedimiento se llevará a cabo 
-
-* * *
-
 ## Materiales, equipos y reactivos
 
 Tener descargado QGIS e instalar el complemento Lizmap [Ver: Instalar el complemento Lizmap](#instalación)
