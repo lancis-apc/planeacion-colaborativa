@@ -32,25 +32,49 @@ No aplica
 
 ![Figura 1](imagen1.png)
 
+**Administrador de composiciones:**
+
+Desde la ventana del 'Administrador de composiciones' (pestaña proyecto ‣ administrador de composiciones) se pueden administrar los diseños de impresión del proyecto, crear nuevas composiciones (desde cero o utilizando una plantilla), abrir las composiciones guardadas, renombrar y eliminar composiciones. 
+
+![Figura 4](imagen4.png)
+
+
+### Diseñador de impresión en QGIS
+
+**Menús, herramientas y paneles:**
+
+1. Para comenzar a diseñar un mapa con QGIS se debe agregar una composición de impresión (pestaña proyecto ‣ nueva composición de impresión o pestaña proyecto ‣ administrador de composiciones ‣ crear). Después de ponerle un título a la composición, se desplegará una ventana en donde se trabajará el diseño del mapa: 
+
+![Figura 1](imagen1.png)
+
+**Barra de herramientas composiciones**
+
+En esta barra de herramientas se encuentran las funciones (de izquierda a derecha): guardar proyecto,  
+
+![Figura 5](imagen5.png)
+
+
+
+
+
 
 ### Añadir elementos a la composición de impresión
 
 **Propiedades del mapa:**
 
-1. Hacer clic sobre el botón 'Añadir mapa' y, manteniendo el botón izquierdo del ratón presionado, trazar un rectángulo en la ventana del Diseñador de impresión para agregar el área del mapa. Dentro del rectángulo dibujado, se mostrará el lienzo del mapa de QGIS. Con el botón 'Mover contenido del elemento' o en la caja de 'Propiedades del elemento' se puede ajustar la escala del mapa.
+1. Hacer clic sobre el botón 'Añadir mapa' y, manteniendo el botón izquierdo del ratón presionado, trazar un rectángulo en la ventana del 'Diseñador de impresión' para agregar el área del mapa. Dentro del rectángulo dibujado, se mostrará el lienzo del mapa de QGIS. Con el botón 'Mover contenido del elemento' o en la caja de 'Propiedades del elemento' se puede ajustar la escala del mapa.
 
 ![Figura 2](imagen2.png)
 
-2.
-
 **Escala gráfica:** 
 
-1. Para agregar una escala gráfica, hacer clic sobre el botón 'Añadir una nueva barra de escala' y colocarla en la ubicación deseada. Desde la caja 'Propiedades del elemento' se puede modificar el estilo, las unidades, la fuente y tamaño de la letra, etc. 
+2. Para agregar una escala gráfica, hacer clic sobre el botón 'Añadir una nueva barra de escala' y colocarla en la ubicación deseada. Desde la caja 'Propiedades del elemento' se puede modificar el estilo, las unidades, la fuente y tamaño de la letra, etc. 
 
 ![Figura 3](imagen3.png)
 
 **Norte:**
 
+3.
 
 ![Figura 4](imagen4.png)
 
