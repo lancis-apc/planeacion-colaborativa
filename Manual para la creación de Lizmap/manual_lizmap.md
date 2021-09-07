@@ -67,9 +67,9 @@ El complemento Lizmap está disponible a través del repositorio oficial del pro
 
 - Menú ‣ Complementos ‣ Administrar e instalar complementos
 - Buscar Lizmap
-- Instalar el complemento.
+- Instalar el complemento
 
-El complemento aparecerá en el menú y en la barra de herramientas Web
+El complemento aparecerá en el menú y en la barra de herramientas Web.
 
 ![Figura 5](imagen5.png)
 
