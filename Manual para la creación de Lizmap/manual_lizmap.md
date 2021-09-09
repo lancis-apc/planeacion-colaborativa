@@ -14,12 +14,6 @@ Para los colaboradores del APC
 
 * * *
 
-## Manual
-
-Este procedimiento se llevará a cabo 
-
-* * *
-
 ## Materiales, equipos y reactivos
 
 Tener descargado QGIS e instalar el complemento Lizmap [Ver: Instalar el complemento Lizmap](#instalación)
@@ -32,7 +26,7 @@ No aplica
 
 ### Creación del proyecto 
 
-1. Crear una carpeta en ```SIG/``` con el nombre del proyecto y guardar en ella los archivos de la información geográfica que se deseen mostrar en el Lizmap, esto con el fin de (....). (Se recomienda incluir capas de referencia geográfica, por ejemplo: límite estatal, límite municipal, localidades principales con etiquetas activadas, carreteras, etc).
+1. Crear una carpeta en ```SIG/``` con el nombre del proyecto y guardar en ella los archivos de información geográfica que se deseen mostrar en el Lizmap, esto con el fin de (....). (Se recomienda incluir capas de referencia geográfica, por ejemplo: límite estatal, límite municipal, localidades principales con etiquetas activadas, carreteras, etc).
 
 2. Crear un proyecto en Qgis y añadir las capas raster o vectoriales que contendrá el Lizmap, el proyecto debe quedar guardado al mismo nivel de la carpeta del paso anterior en formato .qgs.
 
@@ -74,7 +68,8 @@ El complemento Lizmap está disponible a través del repositorio oficial del pro
 - Menú ‣ Complementos ‣ Administrar e instalar complementos
 - Buscar Lizmap
 - Instalar el complemento
-El complemento aparecerá en el menú y en la barra de herramientas Web
+
+El complemento aparecerá en el menú y en la barra de herramientas Web.
 
 ![Figura 5](imagen5.png)
 

@@ -1,4 +1,4 @@
-# Manual para la creación de Lizmap
+# Manual para la composición de mapas y atlas en QGIS 
 
 * * *
 
@@ -6,7 +6,7 @@
 
 **Objetivo:** 
 
-Mostrar como publicar proyectos mediante el complemento de QGIS: Lizmap, a través de (1) la explicación de como preparar un proyecto QGIS para publicarlo en la web y (2) como configurar un proyecto para Lizmap.
+Mostrar como crear composiciones de  proyectos mediante el complemento de QGIS: Lizmap, a través de (1) la explicación de como preparar un proyecto QGIS para publicarlo en la web y (2) como configurar un proyecto para Lizmap.
 
 **Alcance:** 
 
@@ -14,15 +14,9 @@ Para los colaboradores del APC
 
 * * *
 
-## Manual
-
-Este procedimiento se llevará a cabo 
-
-* * *
-
 ## Materiales, equipos y reactivos
 
-Tener descargado QGIS e instalar el complemento Lizmap [Ver: Instalar el complemento Lizmap](#instalación)
+- QGIS 
 
 * * *
 
@@ -30,37 +24,57 @@ Tener descargado QGIS e instalar el complemento Lizmap [Ver: Instalar el complem
 
 No aplica
 
-### Creación del proyecto 
+### Diseñador de impresión en QGIS
 
-1. Crear una carpeta en ```SIG/``` con el nombre del proyecto y guardar en ella los archivos de la información geográfica que se deseen mostrar en el Lizmap, esto con el fin de (....). (Se recomienda incluir capas de referencia geográfica, por ejemplo: límite estatal, límite municipal, localidades principales con etiquetas activadas, carreteras, etc).
+1. Crear un proyecto en Qgis, cargar capas raster o vectoriales y establecer sus propiedades de acuerdo a lo que se desee representar en el mapa.
 
-2. Crear un proyecto en Qgis y añadir las capas raster o vectoriales que contendrá el Lizmap, el proyecto debe quedar guardado al mismo nivel de la carpeta del paso anterior en formato .qgs.
-
-3. Establecer la simbología de cada una de las capas geográficas según la información que se quiera comunicar, en caso de ser necesario hacer agrupaciones para organizar la información.
+2. Para comenzar a diseñar un mapa con QGIS se debe agregar una composición de impresión (pestaña proyecto ‣ nueva composición de impresión). Después de ponerle un título a la composición, se desplegará una ventana en donde se trabajará el diseño del mapa: 
 
 ![Figura 1](imagen1.png)
-  
 
-### Configuración del proyecto para la web 
+**Administrador de composiciones:**
 
-1. Configurar el sistema de referencia de coordenadas CRS del proyecto (pestaña proyecto ‣ propiedades del proyecto), por ejemplo:
+Desde la ventana del 'Administrador de composiciones' (pestaña proyecto ‣ administrador de composiciones) se pueden administrar los diseños de impresión del proyecto, crear nuevas composiciones (desde cero o utilizando una plantilla), abrir las composiciones guardadas, renombrar y eliminar composiciones. 
 
-- EPSG:32616 - WGS 84 / UTM zone 16N - Proyectado
-- EPSG:4326 - WGS 84
-- etc
+![Figura 4](imagen4.png)
+
+
+### Diseñador de impresión en QGIS
+
+**Menús, herramientas y paneles:**
+
+1. Para comenzar a diseñar un mapa con QGIS se debe agregar una composición de impresión (pestaña proyecto ‣ nueva composición de impresión o pestaña proyecto ‣ administrador de composiciones ‣ crear). Después de ponerle un título a la composición, se desplegará una ventana en donde se trabajará el diseño del mapa: 
+
+![Figura 1](imagen1.png)
+
+**Barra de herramientas composiciones**
+
+En esta barra de herramientas se encuentran las funciones (de izquierda a derecha): guardar proyecto,  
+
+![Figura 5](imagen5.png)
+
+
+
+
+
+
+### Añadir elementos a la composición de impresión
+
+**Propiedades del mapa:**
+
+1. Hacer clic sobre el botón 'Añadir mapa' y, manteniendo el botón izquierdo del ratón presionado, trazar un rectángulo en la ventana del 'Diseñador de impresión' para agregar el área del mapa. Dentro del rectángulo dibujado, se mostrará el lienzo del mapa de QGIS. Con el botón 'Mover contenido del elemento' o en la caja de 'Propiedades del elemento' se puede ajustar la escala del mapa.
 
 ![Figura 2](imagen2.png)
 
+**Escala gráfica:** 
 
-2. Configurar las propiedades del servidor de QGIS
-
-- Activar la casilla "Capacidades del servicio"
-- Colocar nombre, título y resumen del proyecto
-- Activar la casilla "Advertised extend", para configurar la extensión máxima de visualización, se puede utilizar la extensión de la vista actual del mapa o configurar una extensión más específica. 
-- Seleccionar "Restricciones del SRC" y dar clic en el botón "Usado"
-- En las secciones "Capacidades WMTS", "Capacidades de WFS" y "Capacidades WCS", activar las casillas de las capas que se desean mostrar en el Lizmap, si se quieren mostrar todas las capas dar clic en los botones "seleccionar todo".
+2. Para agregar una escala gráfica, hacer clic sobre el botón 'Añadir una nueva barra de escala' y colocarla en la ubicación deseada. Desde la caja 'Propiedades del elemento' se puede modificar el estilo, las unidades, la fuente y tamaño de la letra, etc. 
 
 ![Figura 3](imagen3.png)
+
+**Norte:**
+
+3.
 
 ![Figura 4](imagen4.png)
 
