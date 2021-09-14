@@ -65,7 +65,6 @@ Dentro de la ventana 'Composición de impresión' se encuentran varias barras de
 
 5.	El norte se agrega dando clic sobre el botón 'Añadir una nueva flecha de norte'; dentro del panel 'Propiedades del elemento' en la sección 'Directorios de búsqueda' se puede elegir una flecha de norte entre los diseños preestablecidos.
 
-
 ![Figura 6](imagen6.png)
 
 **Leyenda**
