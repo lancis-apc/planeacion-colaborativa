@@ -83,9 +83,13 @@ https://docs.qgis.org/3.10/es/docs/user_manual/print_composer/overview_composer.
 
 ![Figura 8](imagen8.png)
 
+### Guardar y cargar una plantilla 
+
+
+
 ### Atlas  
 
-
+La herramienta 'Atlas' de QGIS permite crear varios mapas utilizando la misma plantilla, especialmente si se desea mostrarSi su organización publica mapas impresos o en-línea, puede a menudo necesitar crear varios mapas con la misma plantilla - usualmente una por cada unidad administrativa o una región de interés. Crear estos mapas manualmente puede tomar largo tiempo y si quiere actualizarlos regularmente, puede convertirse en un tedio. QGIS tiene una herramienta llamada Atlas que puede ayudarle a crear una plantilla de mapa y publicar un gran número de mapas para diferentes regiones geográficas. Si no está familiarizado con lo básico del Diseñador de Impresión, por favor vaya al tutorial Creando un Mapa.
 
 
 
