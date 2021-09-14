@@ -61,6 +61,8 @@ Esta es la página del **Área de Planeación Colaborativa, (APC)** del Laborato
 * [Manual para reescalar slides a resolución de anfiteatro](manual_reescalar_slides_resol_anfiteatro/manual_reescalar_slides_resol_anfiteatro.html)
 * [Manual para generar páginas web en GitHub](manual_pag_web/manual_pag_web_github.html)
 * [Manual para creación de metadatos geográficos con GeoNetwork](manual_geonetwork/manual_metadatos.html)
+* [Manual para la creación de Lizmap](manual_lizmap.html)
+* [Manual para la composición de mapas y atlas en QGIS](.html)
 
 # Reglamentos
 * [Reglamento para el uso de GitHub y DropBox](reglamento_github_dropbox.html)
