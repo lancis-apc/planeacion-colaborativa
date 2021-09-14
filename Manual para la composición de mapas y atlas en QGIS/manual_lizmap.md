@@ -6,7 +6,7 @@
 
 **Objetivo:** 
 
-Mostrar como crear composiciones de mapas mediante QGIS: a través de (1) mostrar un ejemplo, la explicación de como preparar un proyecto QGIS para publicarlo en la web y (2) como configurar un proyecto para Lizmap.
+Mostrar como crear composiciones de mapas mediante QGIS: a través de (1) un ejemplo de como crear un mapa de manera general y (2) como crear un atlas.
 
 **Alcance:** 
 
@@ -28,9 +28,9 @@ No aplica
 
 La herramienta 'Composición de Impresión' de QGIS permite crear mapas, agregando elementos como: imágenes de las capas geográficas, etiquetas de texto, barra de escala, leyenda, norte, figuras, tablas de atributos, entre otros elementos. A continuación con un ejemplo se mostrará como crear un mapa de manera general y utilizando los elementos estándar de QGIS: 
 
-1. Crear un proyecto en Qgis, cargar capas raster o vectoriales y establecer sus propiedades de acuerdo a lo que se desee representar en el mapa.
+1. Crear un proyecto en QGIS, cargar capas raster o vectoriales y establecer sus propiedades de acuerdo a lo que se desee representar en el mapa.
 
-2. Para comenzar a diseñar un mapa con QGIS se debe agregar una composición de impresión (pestaña proyecto ‣ nueva composición de impresión o pestaña proyecto ‣ administrador de composiciones ‣ crear). Después de ponerle un título a la composición, se desplegará una ventana en donde se trabajará el diseño del mapa: 
+2. Para comenzar a diseñar un mapa se debe agregar una composición de impresión (pestaña proyecto ‣ nueva composición de impresión o pestaña proyecto ‣ administrador de composiciones ‣ crear). Después de ponerle un título a la composición, se desplegará una ventana en donde se trabajará el diseño del mapa: 
 
 ![Figura 1](imagen1.png) 
 
@@ -38,115 +38,52 @@ La herramienta 'Composición de Impresión' de QGIS permite crear mapas, agregan
 
 Desde la ventana del 'Administrador de composiciones' (pestaña proyecto ‣ administrador de composiciones) se pueden administrar los diseños de impresión del proyecto, crear nuevas composiciones (desde cero o utilizando una plantilla), abrir las composiciones guardadas, renombrar y eliminar composiciones. 
 
-![Figura 4](imagen4.png)
+![Figura 2](imagen2.png)
 
 **Menús, herramientas y paneles:**
 
 Dentro de la ventana 'Composición de impresión' se encuentran varias barras de herramientas y paneles; para conocer a detalle la utilidad de cada uno de los botones basta con colocar el cursor sobre el botón para que se despliegue una leyenda indicando su nombre, también se puede consultar literatura adicional como la Guía de usuario de QGIS (sección 17.1 Resumen de la Composición de Impresión).
 https://docs.qgis.org/3.10/es/docs/user_manual/print_composer/overview_composer.html
 
-![Figura 1](imagen1.png)
+![Figura 3](imagen3.png)
  
 ### Añadir elementos a la composición de impresión
 
 **Propiedades del mapa:**
 
-1. Hacer clic sobre el botón 'Añadir mapa' y, manteniendo el botón izquierdo del ratón presionado, trazar un rectángulo en la ventana del 'Diseñador de impresión' para agregar el área del mapa. Dentro del rectángulo dibujado, se mostrará una imagen de las capas que estén activadas en el panel 'Capas' de la pantalla principal de QGIS. Con el botón 'Mover contenido del elemento' ubicado en la 'Caja de herramientas' o desde el panel 'Propiedades del elemento' se puede ajustar la escala del mapa para mejorar su visualización.
-
-![Figura 2](imagen2.png)
-![Figura 6](imagen6.png)
-
-**Escala gráfica y norte:** 
-
-2. Para agregar una escala gráfica, hacer clic sobre el botón 'Añadir una nueva barra de escala' y colocarla en la ubicación deseada. Desde la caja 'Propiedades del elemento' se puede modificar el estilo, las unidades, la fuente y tamaño de la letra, etc. 
-3. El norte se agrega dando clic sobre el botón '
-
-![Figura 3](imagen3.png)
-
-
-
- 
+1. Hacer clic sobre el botón 'Añadir mapa' y, manteniendo el botón izquierdo del ratón presionado, trazar un rectángulo en la ventana del 'Diseñador de impresión' para agregar el área del mapa. Dentro del rectángulo dibujado, se mostrará una imagen de las capas que estén activadas en el panel 'Capas' de la pantalla principal de QGIS. 
+2. Con el botón 'Mover contenido del elemento' ubicado en la 'Caja de herramientas' o desde el panel 'Propiedades del elemento' se puede ajustar la escala del mapa para mejorar su visualización.
+3. En el panel 'Propiedades del elemento' activar la casilla 'Bloquear capas' y 'Bloquear estilos para las capas', para que la imagen del mapa no presente cambios aún cuando se modifique la simbología o se desactiven las capas desde la pantalla principal de QGIS.
 
 ![Figura 4](imagen4.png)
 
+**Escala gráfica y norte:** 
 
-### Configuración del proyecto para Lizmap 
-
-1. Instalar el complemento Lizmap {#instalacion}
-
-El complemento Lizmap está disponible a través del repositorio oficial del proyecto QGIS: http://plugins.qgis.org/plugins/lizmap/ . Para instalarlo seguir el procedimiento:
-
-- Menú ‣ Complementos ‣ Administrar e instalar complementos
-- Buscar Lizmap
-- Instalar el complemento
-El complemento aparecerá en el menú y en la barra de herramientas Web
+4. Para agregar una escala gráfica, hacer clic sobre el botón 'Añadir una nueva barra de escala' y colocarla en la ubicación deseada. Desde la caja 'Propiedades del elemento' se puede modificar el estilo, las unidades, la fuente y tamaño de la letra, etc. 
 
 ![Figura 5](imagen5.png)
 
-#### Organización del complemento Lizmap 
-
-El complemento está organizado en 13 pestañas:
-
-- Opciones del mapa: las opciones generales del mapa
-- Capas: las opciones de cada capa
-- Capas base: las capas base utilizadas en la Web
-- Locate by layer: la lista desplegable que da la capacidad de hacer zoom en uno o más objetos espaciales de la capa
-- Tabla de atributos: las tablas de atributos de las capas vectoriales agregadas
-- Edición de capa: las capacidades de edición para cada capa
-- Capas de herramientas de ayuda: la información sobre las herramientas del mapa disponibles para el usuario
-- Filtrar por usuario: los filtros aplicados para mostrar a los usuarios
-- Visualización de datos: la creación de gráficas a partir de capas
-- Gestor de tiempos: las animaciones a partir de las capas vectoriales que contengan un atributo de fecha u hora
-- Atlas: la configuración de los atributos de una capa para hacer una secuencia
-- Filter data with form: los formularios que permite buscar entre los datos de una capa
-- Log: la información de las acciones realizadas
-
-
-![Figura 10](imagen10.png)
-
-2. Abrir el complemento Lizmap para configurar las capas
-
-__Pestaña "Opciones del mapa"__: En esta pestaña se habilitan o deshabilitan las herramientas básicas de Lizmap, eligiendo escalas y la extensión inicial.
-
-- Activar las casillas: medir e historia de zoom. 
-- En la extensión inicial del mapa se puede elegir entre ajustar a partir de las propiedades del proyecto o ajustar a partir del canvas del mapa.
+5. El norte se agrega dando clic sobre el botón 'Añadir una nueva flecha de norte'; dentro del panel 'Propiedades del elemento' en la sección 'Directorios de búsqueda' se puede elegir una flecha de norte entre los diseños preestablecidos.
 
 ![Figura 6](imagen6.png)
 
-__Pestaña "Capas"__: La configuración de la capas se realiza en esta pestaña, para ello se debe seleccionar una capa o grupo y agregar la siguiente información:
+**Leyenda**
 
-- Colocar el título de la capa (es el que se mostrará en el Lizmap)
-- En "enlace" colocar la url del metadato de Geonetwork
-- Activar la casilla "display in legend tree" (hacer esto para todas las capas cargadas en el proyecto).
-- Si se desea que una capa se muestra predeterminadamente en el proyecto web de Lizmap sin necesidad de activarla manualmente (p.ej. la capa de límites municipales), se debe activar la casilla "toggled"
+6. La leyenda se agrega desde la 'Caja de herramientas' con el botón 'Añade una nueva leyenda a la composición'.
+7. Colocar un título a la leyenda.
+8. Desactivar el botón 'Auto actualizar', de esta manera se podrá manipular el orden de las capas, cambiarles los nombres y eliminar capas que no se quieran mostrar en la leyenda.
+9. Dando clic derecho sobre el título de una capa con simbología categorizada o graduada, se puede ocultar el nombre de la capa para solo mostrar los nombres de los elementos de la misma. 
+10. Otras de las acciones que se pueden hacer dentro del panel 'Propiedades del elemento' de la leyenda son: cambiar el tamaño del símbolo, el tamaño y tipo de letra, la separación entre elementos, etc. 
 
 ![Figura 7](imagen7.png)
 
 
-__Pestaña "Capas base"__: Esta pestaña permite agregar servicios externos como capas base y una capa base vacía, la capa base vacía mostrará las capas temáticas sobre el color de fondo del proyecto. Las capas base no forman parte de la leyenda y se presentan como una lista.
 
-![Figura 8](imagen8.png)
-
-__Pestaña "Tabla de atributos"__: En esta pestaña se activa la opción para mostrar en el Lizmap la tabla de atributos de las capas vectoriales.
-
-- Dar clic en el botón + y seleccionar cada una de las capas vectoriales, eligiendo en cada caso la "primary key" (puede ser el campo: id, id_municipio, id_edo, etc).
-
-![Figura 9](imagen9.png)
-
-- Guardar el proyecto al finalizar 
+### Atlas  
 
 
-**Nota:** Los pasos explicados en esta sección son los básicos que hasta el momento se utilizan para crear proyectos Lizmap en el ACP, sin embargo, este complemento cuenta con muchos otros recursos que se recomiendan implementar de acuerdo con los objetivos de los proyectos. Como información adicional, se puede revisar la guía de usuario para el uso de Lizmap:
+#### Organización del complemento Lizmap 
 
-```
-https://lancis-apc.github.io/SVACC/lizmap.html
-```
-
-### Publicación del mapa
-
-
-
-### Herramientas para la visualización web
 
 * * *
 
