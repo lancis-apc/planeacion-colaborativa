@@ -77,12 +77,15 @@ https://docs.qgis.org/3.10/es/docs/user_manual/print_composer/overview_composer.
 
 ![Figura 7](imagen7.png)
 
+**Cuadro de texto**
 
+11. Para agregar un cuadro de texto, se debe hacer clic en el botón 'Añade una nueva etiqueta a la composición', en este caso esta herramienta se utilizó para agregar datos sobre la fuente, la fecha de elaboración, la escala numérica y la proyección.
+
+![Figura 8](imagen8.png)
 
 ### Atlas  
 
 
-#### Organización del complemento Lizmap 
 
 
 * * *
