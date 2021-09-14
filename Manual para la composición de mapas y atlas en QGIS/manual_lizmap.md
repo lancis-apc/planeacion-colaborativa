@@ -34,13 +34,13 @@ La herramienta 'Composición de Impresión' de QGIS permite crear mapas, agregan
 
 ![Figura 1](imagen1.png) 
 
-**Administrador de composiciones:**
+**Administrador de composiciones**
 
 Desde la ventana del 'Administrador de composiciones' (pestaña proyecto ‣ administrador de composiciones) se pueden administrar los diseños de impresión del proyecto, crear nuevas composiciones (desde cero o utilizando una plantilla), abrir las composiciones guardadas, renombrar y eliminar composiciones. 
 
 ![Figura 2](imagen2.png)
 
-**Menús, herramientas y paneles:**
+**Menús, herramientas y paneles**
 
 Dentro de la ventana 'Composición de impresión' se encuentran varias barras de herramientas y paneles; para conocer a detalle la utilidad de cada uno de los botones basta con colocar el cursor sobre el botón para que se despliegue una leyenda indicando su nombre, también se puede consultar literatura adicional como la Guía de usuario de QGIS (sección 17.1 Resumen de la Composición de Impresión).
 https://docs.qgis.org/3.10/es/docs/user_manual/print_composer/overview_composer.html
@@ -49,7 +49,7 @@ https://docs.qgis.org/3.10/es/docs/user_manual/print_composer/overview_composer.
  
 ### Añadir elementos a la composición de impresión
 
-**Propiedades del mapa:**
+**Propiedades del mapa**
 
 1. Hacer clic sobre el botón 'Añadir mapa' y, manteniendo el botón izquierdo del ratón presionado, trazar un rectángulo en la ventana del 'Diseñador de impresión' para agregar el área del mapa. Dentro del rectángulo dibujado, se mostrará una imagen de las capas que estén activadas en el panel 'Capas' de la pantalla principal de QGIS. 
 2. Con el botón 'Mover contenido del elemento' ubicado en la 'Caja de herramientas' o desde el panel 'Propiedades del elemento' se puede ajustar la escala del mapa para mejorar su visualización.
@@ -57,7 +57,7 @@ https://docs.qgis.org/3.10/es/docs/user_manual/print_composer/overview_composer.
 
 ![Figura 4](imagen4.png)
 
-**Escala gráfica y norte:** 
+**Escala gráfica y norte** 
 
 4. Para agregar una escala gráfica, hacer clic sobre el botón 'Añadir una nueva barra de escala' y colocarla en la ubicación deseada. Desde la caja 'Propiedades del elemento' se puede modificar el estilo, las unidades, la fuente y tamaño de la letra, etc. 
 
@@ -84,6 +84,7 @@ https://docs.qgis.org/3.10/es/docs/user_manual/print_composer/overview_composer.
 ![Figura 8](imagen8.png)
 
 ### Atlas  
+
 
 
 
