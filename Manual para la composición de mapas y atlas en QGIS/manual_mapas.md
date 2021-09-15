@@ -61,7 +61,7 @@ Dentro de la ventana 'Composición de impresión' se encuentran varias barras de
 
 4.	Para agregar una escala gráfica, hacer clic sobre el botón 'Añadir una nueva barra de escala' y colocarla en la ubicación deseada. Desde la caja 'Propiedades del elemento' se puede modificar el estilo, las unidades, la fuente y tamaño de la letra, etc.
 
-![Figura 5](imagen5.png)
+![Figura 5](imagen5.PNG)
 
 5.	El norte se agrega dando clic sobre el botón 'Añadir una nueva flecha de norte'; dentro del panel 'Propiedades del elemento' en la sección 'Directorios de búsqueda' se puede elegir una flecha de norte entre los diseños preestablecidos.
 
@@ -80,6 +80,8 @@ Dentro de la ventana 'Composición de impresión' se encuentran varias barras de
 **Cuadro de texto**
 
 11.	Para agregar un cuadro de texto, se debe hacer clic en el botón 'Añade una nueva etiqueta a la composición', en este caso esta herramienta se utilizó para agregar datos sobre la fuente, la fecha de elaboración, la escala numérica y la proyección.
+
+![Figura 8](imagen8.png)
 
 ### Guardar y cargar una plantilla
 
