@@ -92,7 +92,7 @@ El complemento está organizado en 13 pestañas:
 - Log: la información de las acciones realizadas
 
 
-![Figura 10](imagen10.png)
+![Figura 10](imagen10.PNG)
 
 2. Abrir el complemento Lizmap para configurar las capas
 
