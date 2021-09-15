@@ -32,19 +32,19 @@ La herramienta 'Composición de Impresión' de QGIS permite crear mapas, agregan
 
 2.	Para comenzar a diseñar un mapa se debe agregar una composición de impresión (pestaña proyecto ‣ nueva composición de impresión o pestaña proyecto ‣ administrador de composiciones ‣ crear). Después de ponerle un título a la composición, se desplegará una ventana en donde se trabajará el diseño del mapa:
 
-![Figura 1](imagen1.png)
+![Figura 1](imagen1.PNG)
 
 **Administrador de composiciones:**
 
 Desde la ventana del 'Administrador de composiciones' (pestaña proyecto ‣ administrador de composiciones) se pueden administrar los diseños de impresión del proyecto, crear nuevas composiciones (desde cero o utilizando una plantilla), abrir las composiciones guardadas, renombrar y eliminar composiciones. 
 
-![Figura 2](imagen2.png)
+![Figura 2](imagen2.PNG)
 
 **Menús, herramientas y paneles:**
 
 Dentro de la ventana 'Composición de impresión' se encuentran varias barras de herramientas y paneles; para conocer a detalle la utilidad de cada uno de los botones basta con colocar el cursor sobre el botón para que se despliegue una leyenda indicando su nombre, también se puede consultar literatura adicional como la Guía de usuario de QGIS (sección 17.1 Resumen de la Composición de Impresión). https://docs.qgis.org/3.10/es/docs/user_manual/print_composer/overview_composer.html
 
-![Figura 3](imagen3.png)
+![Figura 3](imagen3.PNG)
 
 
 ### Añadir elementos a la composición de impresión
@@ -55,7 +55,7 @@ Dentro de la ventana 'Composición de impresión' se encuentran varias barras de
 2.	Con el botón 'Mover contenido del elemento' ubicado en la 'Caja de herramientas' o desde el panel 'Propiedades del elemento' se puede ajustar la escala del mapa para mejorar su visualización.
 3.	En el panel 'Propiedades del elemento' activar la casilla 'Bloquear capas' y 'Bloquear estilos para las capas', para que la imagen del mapa no presente cambios aún cuando se modifique la simbología o se desactiven las capas desde la pantalla principal de QGIS.
 
-![Figura 4](imagen4.png)
+![Figura 4](imagen4.PNG)
 
 **Escala gráfica y norte**
 
