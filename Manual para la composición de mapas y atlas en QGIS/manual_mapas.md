@@ -49,7 +49,7 @@ Dentro de la ventana 'Composición de impresión' se encuentran varias barras de
 
 ### Añadir elementos a la composición de impresión
 
-**Añadir mapas**
+**Añadir mapa**
 
 1.	Hacer clic sobre el botón 'Añadir mapa' y, manteniendo el botón izquierdo del ratón presionado, trazar un rectángulo en la ventana del 'Diseñador de impresión' para agregar el área del mapa. Dentro del rectángulo dibujado, se mostrará una imagen de las capas que estén activadas en el panel 'Capas' de la pantalla principal de QGIS.
 2.	Con el botón 'Mover contenido del elemento' ubicado en la 'Caja de herramientas' o desde el panel 'Propiedades del elemento' se puede ajustar la escala del mapa para mejorar su visualización.
@@ -63,7 +63,7 @@ Dentro de la ventana 'Composición de impresión' se encuentran varias barras de
 
 ![Figura 5](imagen5.PNG)
 
-5.	El norte se agrega dando clic sobre el botón 'Añadir una nueva flecha de norte'; dentro del panel 'Propiedades del elemento' en la sección 'Directorios de búsqueda' se puede elegir una flecha de norte entre los diseños preestablecidos.
+5.	El norte se agrega dando clic sobre el botón 'Añadir una nueva flecha de norte' dentro del panel 'Propiedades del elemento'. En la sección 'Directorios de búsqueda' se puede elegir una flecha de norte entre los diseños preestablecidos.
 
 ![Figura 6](imagen6.png)
 
