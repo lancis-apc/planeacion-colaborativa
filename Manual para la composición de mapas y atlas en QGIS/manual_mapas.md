@@ -6,7 +6,7 @@
 
 **Objetivo:** 
 
-Mostrar como crear composiciones de mapas mediante QGIS: a través de dos ejemplos (1) como crear un mapa de manera general y (2) como crear un atlas.
+Mostrar como crear composiciones de mapas mediante QGIS: a través de dos ejemplos que explican (1) como crear un mapa de manera general y (2) como crear un atlas.
 
 **Alcance:** 
 
