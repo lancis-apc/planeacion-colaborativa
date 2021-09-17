@@ -88,13 +88,42 @@ Dentro de la ventana 'Composición de impresión' se encuentran varias barras de
 
 ### Atlas
 
-La herramienta 'Atlas' de QGIS permite crear varios mapas utilizando la misma plantilla, especialmente si se desea mostrarSi su organización publica mapas impresos o en-línea, puede a menudo necesitar crear varios mapas con la misma plantilla - usualmente una por cada unidad administrativa o una región de interés. Crear estos mapas manualmente puede tomar largo tiempo y si quiere actualizarlos regularmente, puede convertirse en un tedio. QGIS tiene una herramienta llamada Atlas que puede ayudarle a crear una plantilla de mapa y publicar un gran número de mapas para diferentes regiones geográficas. Si no está familiarizado con lo básico del Diseñador de Impresión, por favor vaya al tutorial Creando un Mapa.
+La herramienta 'Atlas' de QGIS permite crear varios mapas utilizando la misma plantilla, especialmente si se desean mostrar áreas contiguas, por ejemplo un mapa por unidad administrativa o por región de interés. 
+
+1. Crear una composición de impresión utilizando las herramientas que se explican en la primera parte de este manual, en este caso se agregan dos mapas, ya que uno se mostrará con una mayor escala y con más detalle y el otro servirá para indicar que zona es la que se está observando; en este ejemplo se representa el uso de suelo y vegetación en la zona costera del estado de Yucatán.
+
+![Figura 9](imagen9.png)
+
+2. Dentro de la composición de impresión, en la pestaña 'Atlas' seleccionar 'Configuración de Atlas'. 
+
+![Figura 12](imagen12.png)
+
+3. Dentro del panel 'Atlas' activar la casilla 'Generar un atlas', como capa de cobertura escoger una capa que sirva de base para que el Atlas haga un desplazamiento, por ejemplo: la capa de municipios, o en este ejemplo se utiliza una capa que divide a la costa de Yucatán en 10 partes, haciendo un corte cada 33 km. Esto indicará que queremos crear un mapa por cada entidad polígono. Si no queremos que esta capa se muestre en el mapa, se debe dar click en la casilla 'ocultar capa de cobertura'.
+
+![Figura 13](imagen13.png)
+
+4. Dentro del panel 'Propiedades del elemento' del Mapa 1 se debe activar la casilla 'Controlado por Atlas'.
+
+![Figura 10](imagen10.png)
+
+5. Para el Mapa 2 en el panel 'Propiedades del elemento' se agrega una 'Vista general' y se establece el Mapa 1 como 'Marco del mapa', de esta manera aparecerá un recuadro que indica que zona del territorio se está mostrando en el Mapa 1. 
+
+![Figura 11](imagen11.png)
+
+6. Finalmente, dar click sobre el botón 'Vista preliminar del Atlas', esto generará el conjunto de mapas. Dando click sobre las flechas se muestran los mapas creados.
+
+![Figura 14](imagen14.png)
+
+### Exportar mapas o atlas
+
+1. Finalmente para guardar un atlas o un mapa en QGIS se pueden exportar en las siguientes versiones: como imagen, como SVG o como PDF
+
+
 
 * * *
 
 ## Referencias
 
-
-Lizmap 3.2. Publisher guide. (2014). Lizmap Documentation. https://docs.lizmap.com/current/es/publish/index.html
+Manual de Aprendizaje QGIS. 4.1. Lesson: Usando el Compositor de impresión (2020). https://docs.qgis.org/3.10/es/docs/training_manual/map_composer/map_composer.html
 
 * * *
