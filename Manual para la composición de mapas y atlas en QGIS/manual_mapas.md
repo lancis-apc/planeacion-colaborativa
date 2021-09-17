@@ -108,7 +108,7 @@ En este caso se utiliza una capa que divide a la costa de Yucatán en 10 partes,
 
 ![Figura 10](imagen10.png)
 
-5. Para el Mapa 2 en el panel 'Propiedades del elemento' se agrega una 'Vista general' y se establece el Mapa 1 como 'Marco del mapa', de esta manera aparecerá un recuadro que indica que zona del territorio se está mostrando en el Mapa 1. 
+5. En el panel 'Propiedades del elemento' del Mapa 2 se agrega una 'Vista general' dando click en el ícono de +, y se establece el Mapa 1 como 'Marco del mapa', de esta manera aparecerá un recuadro que indica que zona del territorio se está mostrando en el Mapa 1. 
 
 ![Figura 11](imagen11.png)
 
