@@ -85,7 +85,7 @@ Dentro de la ventana 'Composición de impresión' se encuentran varias barras de
 
 12. Los mapas en QGIS se pueden imprimir o exportar a formatos de imagen, SVG o PDF. Para ello, solo hay que seleccionar desde la pestaña 'Diseño' o utilizando los íconos dentro de la 'Barra de herramientas Composiciones' el formato en el que se quiera exportar el mapa. 
 
-![Figura 15](imagen15.png)
+![Figura 15](imagen15.PNG)
 
 ### Atlas
 
