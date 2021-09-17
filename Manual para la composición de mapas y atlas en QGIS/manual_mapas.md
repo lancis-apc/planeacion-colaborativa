@@ -104,7 +104,7 @@ En este caso se utiliza una capa que divide a la costa de Yucatán en 10 partes,
 
 ![Figura 13](imagen13.PNG)
 
-4. Dentro del panel 'Propiedades del elemento' del Mapa 1 se debe activar la casilla 'Controlado por Atlas'.
+4. Dentro del panel 'Propiedades del elemento' del Mapa 1 se debe activar la casilla 'Controlado por Atlas', ahí mismo se puede establecer la representación del Mapa 1: con una escala fija, con un margen alrededor del objeto o con una escala predefinida por QGIS que busque el mejor ajuste.
 
 ![Figura 10](imagen10.png)
 
