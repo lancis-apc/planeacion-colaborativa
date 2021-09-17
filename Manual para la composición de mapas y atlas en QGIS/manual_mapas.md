@@ -112,7 +112,7 @@ En este caso se utiliza una capa que divide a la costa de Yucatán en 10 partes,
 
 ![Figura 11](imagen11.png)
 
-6. Finalmente, dar click sobre el botón 'Vista preliminar del Atlas', esto generará el conjunto de mapas. Dando click sobre las flechas se muestran los mapas creados.
+6. Finalmente para generar el conjunto de mapas, se debe dar click sobre el botón 'Vista preliminar del Atlas'. Seleccionando las flechas se muestran los mapas creados.
 
 ![Figura 14](imagen14.png)
 
