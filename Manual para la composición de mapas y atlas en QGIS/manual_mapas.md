@@ -101,7 +101,7 @@ La herramienta 'Atlas' de QGIS permite crear varios mapas utilizando la misma pl
 
 3. Dentro del panel 'Atlas' activar la casilla 'Generar un atlas', como capa de cobertura escoger una capa que sirva de base para que el Atlas haga un desplazamiento, por ejemplo: la capa de municipios, o en este ejemplo se utiliza una capa que divide a la costa de Yucatán en 10 partes, haciendo un corte cada 33 km. Esto indicará que queremos crear un mapa por cada entidad polígono. Si no queremos que esta capa se muestre en el mapa, se debe dar click en la casilla 'ocultar capa de cobertura'.
 
-![Figura 13](imagen13.png)
+![Figura 13](imagen13.PNG)
 
 4. Dentro del panel 'Propiedades del elemento' del Mapa 1 se debe activar la casilla 'Controlado por Atlas'.
 
@@ -117,7 +117,7 @@ La herramienta 'Atlas' de QGIS permite crear varios mapas utilizando la misma pl
 
 7. Al igual que los mapas, los Atlas se pueden exportar en formatos de imagen, SVG o PDF. Para ello se deben utilizar los íconos que se encuentran en la 'Barra de herramientas Atlas'.
 
-![Figura 18](imagen18.png)
+![Figura 18](imagen18.PNG)
 
 ### Guardar y cargar una plantilla
 
