@@ -42,7 +42,7 @@ Desde la ventana del 'Administrador de composiciones' (pestaña proyecto ‣ adm
 
 **Menús, herramientas y paneles:**
 
-Dentro de la ventana 'Composición de impresión' se encuentran varias barras de herramientas y paneles; para conocer a detalle la utilidad de cada uno de los botones basta con colocar el cursor sobre el botón para que se despliegue una leyenda indicando su nombre, también se puede consultar literatura adicional como la [Guía de usuario de QGIS] (https://docs.qgis.org/3.10/es/docs/user_manual/print_composer/overview_composer.html)
+Dentro de la ventana 'Composición de impresión' se encuentran varias barras de herramientas y paneles; para conocer a detalle la utilidad de cada uno de los botones basta con colocar el cursor sobre el botón para que se despliegue una leyenda indicando su nombre, también se puede consultar literatura adicional como la [formulario](https://docs.google.com/forms/d/e/1FAIpQLScmUS8yb5Pc9GUc3KTt_14wONsRa9sdJI0-Qcq8M2Z2_fU2vA/viewform?usp=sf_link)
 
 ![Figura 3](imagen3.PNG)
 
