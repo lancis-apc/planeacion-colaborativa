@@ -83,8 +83,9 @@ Dentro de la ventana 'Composición de impresión' se encuentran varias barras de
 
 ![Figura 8](imagen8.png)
 
-### Guardar y cargar una plantilla
+12. Los mapas en QGIS se pueden imprimir o exportar a formatos de imagen, SVG o PDF. Para ello, solo hay que seleccionar desde la pestaña 'Diseño' o utilizando los íconos dentro de la 'Barra de herramientas Composiciones' el formato en el que se quiera exportar el mapa. 
 
+![Figura 15](imagen15.png)
 
 ### Atlas
 
@@ -114,11 +115,19 @@ La herramienta 'Atlas' de QGIS permite crear varios mapas utilizando la misma pl
 
 ![Figura 14](imagen14.png)
 
-### Exportar mapas o atlas
+7. Al igual que los mapas, los Atlas se pueden exportar en formatos de imagen, SVG o PDF. Para ello se deben utilizar los íconos que se encuentran en la 'Barra de herramientas Atlas'.
 
-1. Finalmente para guardar un atlas o un mapa en QGIS se pueden exportar en las siguientes versiones: como imagen, como SVG o como PDF
+![Figura 18](imagen18.png)
 
+### Guardar y cargar una plantilla
 
+1. Los diseños generados se pueden guardar como plantillas y volver a cargarlos en otra sesión, para ello en la pestaña 'Diseño' se debe seleccionar la opción 'Guardar como plantilla'. 
+
+![Figura 16](imagen16.png)
+
+2. Para cargar una plantilla guardada, se debe crear una nueva composición de impresión y desde la pestaña 'Diseño' seleccionar la opción 'Añadir elementos desde plantilla'. 
+
+![Figura 17](imagen17.png)
 
 * * *
 
