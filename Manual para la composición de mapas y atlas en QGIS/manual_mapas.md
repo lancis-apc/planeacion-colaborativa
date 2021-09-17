@@ -6,7 +6,7 @@
 
 **Objetivo:** 
 
-Mostrar como crear composiciones de mapas mediante QGIS: a través de dos ejemplos (1) como crear un mapa de manera general y (2) como crear un atlas.
+Mostrar como crear composiciones de mapas mediante QGIS: a través de dos ejemplos que explican (1) como crear un mapa de manera general y (2) como crear un atlas.
 
 **Alcance:** 
 
@@ -26,11 +26,11 @@ No aplica
 
 ### Diseñador de impresión en QGIS
 
-La herramienta 'Composición de Impresión' de QGIS permite crear mapas, agregando elementos como: imágenes de las capas geográficas, etiquetas de texto, barra de escala, leyenda, norte, figuras, tablas de atributos, entre otros elementos. A continuación con un ejemplo se mostrará como crear un mapa de manera general y utilizando los elementos estándar de QGIS:
+La herramienta 'Composición de Impresión' de QGIS permite crear mapas, agregando elementos como: imágenes de las capas geográficas, etiquetas de texto, barra de escala, leyenda, norte, figuras, tablas de atributos, entre otros. A continuación con un ejemplo se mostrará como crear un mapa de manera general utilizando los elementos estándar de QGIS:
 
 1.	Crear un proyecto en QGIS, cargar capas raster o vectoriales y establecer sus propiedades de acuerdo a lo que se desee representar en el mapa.
 
-2.	Para comenzar a diseñar un mapa se debe agregar una composición de impresión (pestaña proyecto ‣ nueva composición de impresión o pestaña proyecto ‣ administrador de composiciones ‣ crear). Después de ponerle un título a la composición, se desplegará una ventana en donde se trabajará el diseño del mapa:
+2.	Para comenzar a diseñar un mapa se debe agregar una composición de impresión (pestaña proyecto ‣ nueva composición de impresión o pestaña proyecto ‣ administrador de composiciones ‣ crear). Después de ponerle un título a la composición, se desplegará una ventana en donde se trabajará el diseño del mapa.
 
 ![Figura 1](imagen1.PNG)
 
@@ -42,14 +42,14 @@ Desde la ventana del 'Administrador de composiciones' (pestaña proyecto ‣ adm
 
 **Menús, herramientas y paneles:**
 
-Dentro de la ventana 'Composición de impresión' se encuentran varias barras de herramientas y paneles; para conocer a detalle la utilidad de cada uno de los botones basta con colocar el cursor sobre el botón para que se despliegue una leyenda indicando su nombre, también se puede consultar literatura adicional como la Guía de usuario de QGIS (sección 17.1 Resumen de la Composición de Impresión). https://docs.qgis.org/3.10/es/docs/user_manual/print_composer/overview_composer.html
+Dentro de la ventana 'Composición de impresión' se encuentran varias barras de herramientas y paneles; para conocer a detalle la utilidad de cada uno de los botones basta con colocar el cursor sobre el botón para que se despliegue una leyenda indicando su nombre, también se puede consultar literatura adicional como la [Guía del usuario de QGIS](https://docs.qgis.org/3.10/es/docs/user_manual/print_composer/overview_composer.html#menus-tools-and-panels-of-the-print-layout)
 
 ![Figura 3](imagen3.PNG)
 
 
 ### Añadir elementos a la composición de impresión
 
-**Propiedades del mapa**
+**Añadir mapa**
 
 1.	Hacer clic sobre el botón 'Añadir mapa' y, manteniendo el botón izquierdo del ratón presionado, trazar un rectángulo en la ventana del 'Diseñador de impresión' para agregar el área del mapa. Dentro del rectángulo dibujado, se mostrará una imagen de las capas que estén activadas en el panel 'Capas' de la pantalla principal de QGIS.
 2.	Con el botón 'Mover contenido del elemento' ubicado en la 'Caja de herramientas' o desde el panel 'Propiedades del elemento' se puede ajustar la escala del mapa para mejorar su visualización.
@@ -63,7 +63,7 @@ Dentro de la ventana 'Composición de impresión' se encuentran varias barras de
 
 ![Figura 5](imagen5.PNG)
 
-5.	El norte se agrega dando clic sobre el botón 'Añadir una nueva flecha de norte'; dentro del panel 'Propiedades del elemento' en la sección 'Directorios de búsqueda' se puede elegir una flecha de norte entre los diseños preestablecidos.
+5.	El norte se agrega dando clic sobre el botón 'Añadir una nueva flecha de norte' dentro del panel 'Propiedades del elemento'. En la sección 'Directorios de búsqueda' se puede elegir una flecha de norte entre los diseños preestablecidos.
 
 ![Figura 6](imagen6.png)
 
@@ -85,7 +85,7 @@ Dentro de la ventana 'Composición de impresión' se encuentran varias barras de
 
 12. Los mapas en QGIS se pueden imprimir o exportar a formatos de imagen, SVG o PDF. Para ello, solo hay que seleccionar desde la pestaña 'Diseño' o utilizando los íconos dentro de la 'Barra de herramientas Composiciones' el formato en el que se quiera exportar el mapa. 
 
-![Figura 15](imagen15.png)
+![Figura 15](imagen15.PNG)
 
 ### Atlas
 
@@ -99,25 +99,26 @@ La herramienta 'Atlas' de QGIS permite crear varios mapas utilizando la misma pl
 
 ![Figura 12](imagen12.png)
 
-3. Dentro del panel 'Atlas' activar la casilla 'Generar un atlas', como capa de cobertura escoger una capa que sirva de base para que el Atlas haga un desplazamiento, por ejemplo: la capa de municipios, o en este ejemplo se utiliza una capa que divide a la costa de Yucatán en 10 partes, haciendo un corte cada 33 km. Esto indicará que queremos crear un mapa por cada entidad polígono. Si no queremos que esta capa se muestre en el mapa, se debe dar click en la casilla 'ocultar capa de cobertura'.
+3. En el panel 'Atlas' activar la casilla 'Generar un atlas', como capa de cobertura escoger una capa que sirva de base para que el Atlas haga un desplazamiento, es decir, se creará un mapa por cada entidad polígono de dicha capa, algunos ejemplos que podrían utilizarse son: la capa de municipios, entidades, AGEBs. 
+En este caso se utiliza una capa que divide a la costa de Yucatán en 10 partes, si no queremos que esta capa se muestre en el mapa, se debe dar click en la casilla 'ocultar capa de cobertura'.
 
-![Figura 13](imagen13.png)
+![Figura 13](imagen13.PNG)
 
-4. Dentro del panel 'Propiedades del elemento' del Mapa 1 se debe activar la casilla 'Controlado por Atlas'.
+4. Dentro del panel 'Propiedades del elemento' del Mapa 1 se debe activar la casilla 'Controlado por Atlas', ahí mismo se puede establecer la representación del Mapa 1: con una escala fija, con un margen alrededor del objeto o con una escala predefinida por QGIS que busque el mejor ajuste.
 
 ![Figura 10](imagen10.png)
 
-5. Para el Mapa 2 en el panel 'Propiedades del elemento' se agrega una 'Vista general' y se establece el Mapa 1 como 'Marco del mapa', de esta manera aparecerá un recuadro que indica que zona del territorio se está mostrando en el Mapa 1. 
+5. En el panel 'Propiedades del elemento' del Mapa 2 se agrega una 'Vista general' dando click en el ícono de +, y se establece el Mapa 1 como 'Marco del mapa', de esta manera aparecerá un recuadro que indica que zona del territorio se está mostrando en el Mapa 1. 
 
 ![Figura 11](imagen11.png)
 
-6. Finalmente, dar click sobre el botón 'Vista preliminar del Atlas', esto generará el conjunto de mapas. Dando click sobre las flechas se muestran los mapas creados.
+6. Finalmente para generar el conjunto de mapas, se debe dar click sobre el botón 'Vista preliminar del Atlas'. Seleccionando las flechas se muestran los mapas creados.
 
 ![Figura 14](imagen14.png)
 
 7. Al igual que los mapas, los Atlas se pueden exportar en formatos de imagen, SVG o PDF. Para ello se deben utilizar los íconos que se encuentran en la 'Barra de herramientas Atlas'.
 
-![Figura 18](imagen18.png)
+![Figura 18](imagen18.PNG)
 
 ### Guardar y cargar una plantilla
 
