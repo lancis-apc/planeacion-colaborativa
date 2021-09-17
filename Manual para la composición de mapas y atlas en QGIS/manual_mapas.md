@@ -26,7 +26,7 @@ No aplica
 
 ### Diseñador de impresión en QGIS
 
-La herramienta 'Composición de Impresión' de QGIS permite crear mapas, agregando elementos como: imágenes de las capas geográficas, etiquetas de texto, barra de escala, leyenda, norte, figuras, tablas de atributos, entre otros elementos. A continuación con un ejemplo se mostrará como crear un mapa de manera general y utilizando los elementos estándar de QGIS:
+La herramienta 'Composición de Impresión' de QGIS permite crear mapas, agregando elementos como: imágenes de las capas geográficas, etiquetas de texto, barra de escala, leyenda, norte, figuras, tablas de atributos, entre otros. A continuación con un ejemplo se mostrará como crear un mapa de manera general utilizando los elementos estándar de QGIS:
 
 1.	Crear un proyecto en QGIS, cargar capas raster o vectoriales y establecer sus propiedades de acuerdo a lo que se desee representar en el mapa.
 
