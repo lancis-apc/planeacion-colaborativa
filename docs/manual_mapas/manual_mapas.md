@@ -32,7 +32,7 @@ La herramienta 'Composición de Impresión' de QGIS permite crear mapas, agregan
 
 2.	Para comenzar a diseñar un mapa se debe agregar una composición de impresión (pestaña proyecto ‣ nueva composición de impresión o pestaña proyecto ‣ administrador de composiciones ‣ crear). Después de ponerle un título a la composición, se desplegará una ventana en donde se trabajará el diseño del mapa:
 
-![Figura 1](imagen1.PNG)
+![Figura 1](imagen1.png)
 
 **Administrador de composiciones:**
 
